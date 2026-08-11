@@ -1,0 +1,271 @@
+/* IslandBoiiiiiz Digital Hub — dark-mode design system */
+
+:root {
+  --bg:        #0f1117;
+  --surface:   #1a1d26;
+  --surface-2: #22263a;
+  --border:    #2e3347;
+  --text:      #e8eaf0;
+  --muted:     #8b8fa8;
+  --accent:    #4fc3f7;
+  --warn-bg:   #2a1f0e;
+  --warn-text: #f0a844;
+  --approved:  #2e7d52;
+  --vetoed:    #7d2e2e;
+  --pending:   #4a4a1e;
+
+  --space-xs: 0.375rem;
+  --space-sm: 0.75rem;
+  --space-md: 1.25rem;
+  --space-lg: 2rem;
+  --space-xl: 3rem;
+
+  --radius:    0.5rem;
+  --nav-h:     56px;
+  --max-w:     860px;
+  --font:      -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+/* --- Reset --- */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { font-size: 16px; }
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font);
+  line-height: 1.6;
+  min-height: 100vh;
+  padding-bottom: calc(var(--nav-h) + var(--space-lg));
+}
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+table { border-collapse: collapse; width: 100%; }
+th, td { padding: var(--space-xs) var(--space-sm); text-align: left; }
+th { color: var(--muted); font-weight: 600; font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.05em; border-bottom: 1px solid var(--border); }
+td { border-bottom: 1px solid var(--border); font-size: 0.9rem; }
+tr:last-child td { border-bottom: none; }
+
+/* --- Layout --- */
+.page-container {
+  max-width: var(--max-w);
+  margin: 0 auto;
+  padding: var(--space-lg) var(--space-md);
+}
+
+h1.page-title {
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: var(--text);
+  margin-bottom: var(--space-lg);
+  letter-spacing: -0.01em;
+}
+
+/* --- Section cards --- */
+.section-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: var(--space-md) var(--space-md);
+  margin-bottom: var(--space-lg);
+}
+.section-card h2 {
+  font-size: 1rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color: var(--accent);
+  margin-bottom: var(--space-md);
+}
+.section-card h3 {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin: var(--space-md) 0 var(--space-sm);
+}
+
+/* --- News items --- */
+.news-item {
+  padding: var(--space-sm) 0;
+  border-bottom: 1px solid var(--border);
+}
+.news-item:last-child { border-bottom: none; }
+.news-item .headline { font-size: 0.95rem; font-weight: 600; }
+.news-item .meta { font-size: 0.78rem; color: var(--muted); margin-top: var(--space-xs); }
+
+/* --- Decision items --- */
+.decision-item {
+  padding: var(--space-sm) 0;
+  border-bottom: 1px solid var(--border);
+}
+.decision-item:last-child { border-bottom: none; }
+.decision-item .desc { font-size: 0.9rem; }
+.decision-item .meta { font-size: 0.78rem; color: var(--muted); margin-top: var(--space-xs); }
+.status-badge {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  padding: 0.15em 0.55em;
+  border-radius: 3px;
+  text-transform: uppercase;
+  vertical-align: middle;
+  margin-right: var(--space-xs);
+}
+.badge-approved  { background: var(--approved); color: #a8e6c0; }
+.badge-vetoed    { background: var(--vetoed);   color: #e6a8a8; }
+.badge-pending   { background: var(--pending);  color: #e6e0a8; }
+
+/* --- Stale / missing banners --- */
+.banner-warn {
+  background: var(--warn-bg);
+  color: var(--warn-text);
+  border: 1px solid #4a3010;
+  border-radius: var(--radius);
+  padding: var(--space-sm) var(--space-md);
+  font-size: 0.85rem;
+  margin-bottom: var(--space-sm);
+}
+.banner-missing {
+  color: var(--muted);
+  font-size: 0.875rem;
+  font-style: italic;
+  padding: var(--space-sm) 0;
+}
+
+/* --- Roster slot badges --- */
+.slot-badge {
+  display: inline-block;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  padding: 0.1em 0.45em;
+  border-radius: 3px;
+  text-transform: uppercase;
+}
+.slot-starter { background: #1a3a2a; color: #6fcf97; }
+.slot-bench   { background: var(--surface-2); color: var(--muted); }
+.slot-taxi    { background: #1a2a3a; color: #7fb8e6; }
+.slot-ir      { background: #3a1a1a; color: #e67f7f; }
+
+.pos-cell { color: var(--accent); font-weight: 700; font-size: 0.8rem; width: 3rem; }
+
+/* Rostered news items get a subtle left accent */
+.news-item.rostered-item {
+  border-left: 2px solid var(--accent);
+  padding-left: var(--space-sm);
+}
+
+/* --- Trade analysis details block --- */
+.trade-analysis {
+  margin-top: var(--space-sm);
+  border-left: 2px solid var(--border);
+  padding-left: var(--space-sm);
+}
+.trade-analysis summary {
+  cursor: pointer;
+  font-size: 0.82rem;
+  color: var(--muted);
+  list-style: none;
+  padding: var(--space-xs) 0;
+}
+.trade-analysis summary::before { content: "▶  "; font-size: 0.65em; }
+.trade-analysis[open] summary::before { content: "▼  "; }
+.trade-analysis summary:hover { color: var(--text); }
+.trade-analysis-body { padding: var(--space-sm) 0 var(--space-xs); }
+.trade-values { font-size: 0.82rem; margin-bottom: var(--space-xs); }
+.trade-values th { color: var(--accent); font-size: 0.75rem; }
+.trade-values td:first-child { color: var(--muted); width: 6rem; }
+.trade-flags { font-size: 0.78rem; color: var(--warn-text); padding-left: var(--space-md); margin: var(--space-xs) 0 0; }
+.trade-flags li { margin-bottom: 2px; }
+
+/* --- Meta / footer lines --- */
+.section-meta {
+  font-size: 0.78rem;
+  color: var(--muted);
+  margin-top: var(--space-md);
+  border-top: 1px solid var(--border);
+  padding-top: var(--space-sm);
+}
+
+/* --- Picks / Prospect tables --- */
+.table-wrapper { overflow-x: auto; }
+.badge-our-pick { color: var(--accent); font-weight: 700; }
+
+/* --- Reference page rule list --- */
+.rule-list { list-style: none; padding: 0; }
+.rule-list li {
+  padding: var(--space-xs) 0;
+  border-bottom: 1px solid var(--border);
+  font-size: 0.9rem;
+}
+.rule-list li:last-child { border-bottom: none; }
+
+.scoring-list { list-style: none; padding: 0; display: flex; flex-wrap: wrap; gap: var(--space-xs) var(--space-lg); }
+.scoring-list li { font-size: 0.85rem; min-width: 200px; }
+.scoring-list .k { color: var(--muted); }
+
+/* --- Navigation --- */
+
+/* Desktop (top nav, default) */
+nav.site-nav {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  justify-content: center;
+  gap: 0;
+}
+nav.site-nav a {
+  display: flex;
+  align-items: center;
+  gap: var(--space-xs);
+  padding: var(--space-sm) var(--space-lg);
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: var(--muted);
+  text-decoration: none;
+  border-bottom: 2px solid transparent;
+  transition: color 0.15s, border-color 0.15s;
+  white-space: nowrap;
+}
+nav.site-nav a:hover { color: var(--text); text-decoration: none; }
+nav.site-nav a.active { color: var(--accent); border-bottom-color: var(--accent); }
+nav.site-nav .nav-icon { font-size: 1.1em; }
+
+/* Mobile: bottom tab bar */
+@media (max-width: 768px) {
+  body { padding-bottom: calc(var(--nav-h) + var(--space-md)); padding-top: 0; }
+
+  nav.site-nav {
+    position: fixed;
+    top: auto;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    border-top: 1px solid var(--border);
+    border-bottom: none;
+    height: var(--nav-h);
+    padding: 0;
+    justify-content: stretch;
+  }
+  nav.site-nav a {
+    flex: 1;
+    flex-direction: column;
+    justify-content: center;
+    gap: 2px;
+    padding: var(--space-xs) var(--space-xs);
+    font-size: 0.65rem;
+    letter-spacing: 0.02em;
+    border-bottom: none;
+    border-top: 2px solid transparent;
+    text-align: center;
+  }
+  nav.site-nav a.active { color: var(--accent); border-top-color: var(--accent); }
+  nav.site-nav .nav-icon { font-size: 1.3em; }
+
+  .page-container { padding: var(--space-md) var(--space-sm); }
+}
