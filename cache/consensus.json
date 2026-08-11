@@ -1,0 +1,131 @@
+{
+  "board": [
+    {
+      "name": "Travis Hunter",
+      "position": "WR",
+      "school": "Colorado",
+      "consensus_rank": 1
+    },
+    {
+      "name": "Ashton Jeanty",
+      "position": "RB",
+      "school": "Boise State",
+      "consensus_rank": 2
+    },
+    {
+      "name": "Tetairoa McMillan",
+      "position": "WR",
+      "school": "Arizona",
+      "consensus_rank": 3
+    },
+    {
+      "name": "Jeremiah Smith",
+      "position": "WR",
+      "school": "Ohio State",
+      "consensus_rank": 4
+    },
+    {
+      "name": "Dylan Raiola",
+      "position": "QB",
+      "school": "Nebraska",
+      "consensus_rank": 5
+    },
+    {
+      "name": "Cam Ward",
+      "position": "QB",
+      "school": "Miami",
+      "consensus_rank": 6
+    },
+    {
+      "name": "Omarion Hampton",
+      "position": "RB",
+      "school": "UNC",
+      "consensus_rank": 7
+    },
+    {
+      "name": "Tyler Warren",
+      "position": "TE",
+      "school": "Penn State",
+      "consensus_rank": 8
+    },
+    {
+      "name": "Emeka Egbuka",
+      "position": "WR",
+      "school": "Ohio State",
+      "consensus_rank": 9
+    },
+    {
+      "name": "Kelvin Banks",
+      "position": "WR",
+      "school": "Texas",
+      "consensus_rank": 10
+    },
+    {
+      "name": "Luther Burden",
+      "position": "WR",
+      "school": "Missouri",
+      "consensus_rank": 11
+    },
+    {
+      "name": "TreVeyon Henderson",
+      "position": "RB",
+      "school": "Ohio State",
+      "consensus_rank": 12
+    },
+    {
+      "name": "Ollie Gordon",
+      "position": "RB",
+      "school": "Oklahoma State",
+      "consensus_rank": 13
+    },
+    {
+      "name": "Jonah Savaiinaea",
+      "position": "WR",
+      "school": "Washington",
+      "consensus_rank": 14
+    },
+    {
+      "name": "Tre Harris",
+      "position": "WR",
+      "school": "Ole Miss",
+      "consensus_rank": 15
+    },
+    {
+      "name": "Duce Robinson",
+      "position": "WR",
+      "school": "USC",
+      "consensus_rank": 16
+    },
+    {
+      "name": "Nick Singleton",
+      "position": "RB",
+      "school": "Penn State",
+      "consensus_rank": 17
+    },
+    {
+      "name": "Keon Coleman",
+      "position": "WR",
+      "school": "Florida State",
+      "consensus_rank": 18
+    },
+    {
+      "name": "Evan Stewart",
+      "position": "WR",
+      "school": "Oregon",
+      "consensus_rank": 19
+    },
+    {
+      "name": "Adonai Mitchell",
+      "position": "WR",
+      "school": "Texas",
+      "consensus_rank": 20
+    },
+    {
+      "name": "Rome Odunze",
+      "position": "WR",
+      "school": "Washington",
+      "consensus_rank": 21
+    }
+  ],
+  "last_updated": "2026-08-07T03:30:46.539648+00:00"
+}

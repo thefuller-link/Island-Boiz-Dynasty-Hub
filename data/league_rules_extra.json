@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-08-07",
+  "last_updated_by": "LWFuller",
+  "rules": [
+    {
+      "category": "General",
+      "rule": "No tanking or rebuild-tanking for draft picks. All owners are expected to compete each week."
+    },
+    {
+      "category": "General",
+      "rule": "Trade vetoes require a majority (2 of 3 owners) using the decision log. Sleeper veto is disabled."
+    },
+    {
+      "category": "Keeper",
+      "rule": "Keeper cost is the round directly above where the player was originally drafted (e.g., a 4th-round pick costs a 3rd)."
+    },
+    {
+      "category": "Keeper",
+      "rule": "Undrafted free-agent acquisitions kept as keepers cost a 5th-round pick."
+    }
+  ]
+}

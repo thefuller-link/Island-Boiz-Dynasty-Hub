@@ -1,0 +1,67 @@
+schema: spec-driven
+
+context: |
+  Project: IslandBoiiiiiz Digital Hub — a free-tier fantasy football dynasty hub
+  for a 3-owner co-owned Sleeper league.
+
+  Architecture:
+    - Python scripts invoked by GitHub Actions on a schedule
+    - Static site output deployed to GitHub Pages (no backend server)
+    - No database; JSON files committed to the repo serve as a cache
+    - All secrets injected via GitHub Actions secrets — never hardcoded
+
+  Data sources:
+    - Sleeper API: roster data, league/dynasty settings, player metadata
+    - RotoWire RSS: player news headlines and injury updates
+    - CFBD API (free tier): college football stats for prospect tracking
+    - nflverse: NFL usage stats — snap counts, target share, carry share
+    - Free-tier LLM API (e.g. Gemini Flash or similar): narrative generation
+      ONLY during scheduled CI builds, never per-user or per-request
+
+  Priority features (highest → lowest):
+    1. Decision log — record and surface trade/waiver rationale
+    2. Trade analysis engine — evaluate trade fairness using dynasty value scores
+    3. Rookie asset tracker — picks, prospects, college stats, usage trends
+    4. Roster/news sync — pull Sleeper rosters and RotoWire news on a schedule
+    5. Voting tool — lightweight owner vote on trades or league decisions
+
+  Conventions:
+    - Each script is single-purpose; one script, one job
+    - Fail gracefully: on API error or missing data, fall back to cached/stale JSON
+    - Pin all Python dependency versions; commit requirements.txt lockfile
+    - No runtime installs — all deps must be in the lockfile before deployment
+    - Static site pages are generated from Jinja2 templates or plain Python string
+      output; no JS build pipeline required
+    - GitHub Actions workflows are the only scheduler — no cron on external infra
+
+rules:
+  proposal:
+    - State which of the five priority features the change relates to (or "none")
+    - Note any free-tier API usage implications (rate limits, quota)
+    - Include a "Non-goals" section to bound scope
+    - Keep proposals under 400 words
+
+  spec:
+    - Use Given/When/Then format for all acceptance scenarios
+    - Every scenario must be independently testable with mocked HTTP responses
+    - Call out any new external API dependency explicitly
+
+  tasks:
+    - Each task must be completable in one focused session (~2 hours max)
+    - Tasks that touch GitHub Actions YAML must also update the lockfile if deps change
+    - Prefer editing existing scripts over creating new files unless scope demands it
+
+  design:
+    - Diagrams should show data flow from source API → Python script → JSON cache → static page
+    - Flag any design that would require a backend server or database as out-of-scope
+
+operations:
+  apply:
+    guidance:
+      - Before writing code, verify the relevant JSON cache schema exists or create a stub
+      - Use requests with a timeout and catch exceptions; write stale data path before happy path
+      - After implementation, confirm the GitHub Actions workflow step is present or note it as a follow-up task
+  archive:
+    guidance:
+      - Confirm the JSON cache schema and any new workflow steps are committed
+      - Summarize which priority feature was advanced and what remains

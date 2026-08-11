@@ -1,0 +1,36 @@
+name: Sync Rookie Usage
+
+on:
+  schedule:
+    - cron: '0 9 * * *'  # 09:00 UTC daily (shortly after nflverse refresh)
+  workflow_dispatch:
+
+jobs:
+  usage:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Sync rookie usage data
+        run: python scripts/sync_usage.py
+
+      - name: Generate usage page
+        run: python scripts/generate_usage_page.py
+
+      - name: Commit cache and page
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add cache/usage.json site/usage.md
+          git diff --staged --quiet || git commit -m "chore: update rookie usage data [skip ci]"
+          git push

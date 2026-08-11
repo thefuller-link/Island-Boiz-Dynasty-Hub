@@ -1,0 +1,15 @@
+[
+  {
+    "id": "2026-08-05T17:40:16.880Z",
+    "date": "2026-08-05",
+    "type": "trade",
+    "proposer": "LWFuller",
+    "description": "Test trade: Send Malik Nabers for a 1st",
+    "responses": {
+      "LWFuller": "approve",
+      "MooSo": "veto",
+      "blakecbishop": "pending"
+    },
+    "rationale": "Good value for us"
+  }
+]

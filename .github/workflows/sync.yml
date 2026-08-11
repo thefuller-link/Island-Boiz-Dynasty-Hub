@@ -1,0 +1,60 @@
+name: Sync Sleeper & News
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Sync Sleeper data
+        run: python scripts/sync_sleeper.py
+
+      - name: Sync league settings
+        run: python scripts/sync_league_settings.py
+
+      - name: Generate rules page
+        run: python scripts/generate_rules_page.py
+
+      - name: Generate reference page
+        run: python scripts/generate_reference_page.py
+
+      - name: Sync KTC trade values
+        run: python scripts/sync_ktc.py
+
+      - name: Sync pick ownership
+        run: python scripts/sync_picks.py
+
+      - name: Generate picks page
+        run: python scripts/generate_picks_page.py
+
+      - name: Generate rookies page
+        run: python scripts/generate_rookies_page.py
+
+      - name: Sync news
+        run: python scripts/sync_news.py
+
+      - name: Generate today page
+        run: python scripts/generate_today_page.py
+
+      - name: Commit updated cache
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add cache/sleeper.json cache/ktc.json cache/picks.json cache/news.json cache/league_settings.json site/picks.md site/rules.md site/index.html site/rookies.html site/reference.html
+          git diff --staged --quiet || git commit -m "chore: update cache [skip ci]"
+          git push

@@ -1,0 +1,27 @@
+# IslandBoiiiiiz Digital Hub — configuration
+
+# Sleeper league ID (not sensitive — Sleeper's API is public/unauthenticated).
+league_id: "1314838637019414528"
+
+# Owner display names used by log_decision.py and other scripts.
+# Must match exactly across scripts.
+owners:
+  - LWFuller
+  - MooSo
+  - blakecbishop
+
+# Each owner's current team stance used by analyze_trade.py to weight draft picks.
+# Valid values: contending, retooling, rebuilding
+team_mode:
+  LWFuller: retooling
+  MooSo: retooling
+  blakecbishop: retooling
+
+# Manual watchlist for the news filter (sync_news.py).
+# Add player full names here to surface their news even when they are not
+# rostered, trending, or a rookie. Format: list of strings.
+# Example:
+#   watchlist:
+#     - Tee Higgins
+#     - Davante Adams
+watchlist: []

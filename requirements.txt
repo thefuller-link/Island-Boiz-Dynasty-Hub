@@ -1,0 +1,21 @@
+certifi==2026.2.25
+charset-normalizer==3.4.7
+feedparser==6.0.14
+feedparser-sgmllib==2.1.0
+idna==3.11
+PyYAML==6.0.3
+requests==2.33.1
+urllib3==2.6.3
+
+# nfl_data_py and transitive dependencies (nfl_data_py requires numpy<2.0, pandas<2.0)
+nfl_data_py==0.3.3
+numpy==1.26.4
+pandas==1.5.3
+appdirs==1.4.4
+fastparquet==2026.5.0
+cramjam==2.11.0
+fsspec==2026.7.0
+packaging==26.3
+python-dateutil==2.9.0.post0
+pytz==2026.3.post1
+six==1.17.0

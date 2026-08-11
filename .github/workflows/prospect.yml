@@ -1,0 +1,41 @@
+name: Sync Prospects & Bulletin
+
+on:
+  schedule:
+    - cron: '0 8 * * 1'   # Monday 08:00 UTC, after college football weekend
+  workflow_dispatch:
+
+jobs:
+  prospect:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Sync college prospect stats
+        env:
+          CFBD_API_KEY: ${{ secrets.CFBD_API_KEY }}
+        run: python scripts/sync_prospects.py
+
+      - name: Sync consensus board
+        run: python scripts/sync_consensus.py
+
+      - name: Generate prospect bulletin
+        run: python scripts/generate_bulletin.py
+
+      - name: Commit updated cache and bulletin
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add cache/prospects.json cache/consensus.json site/bulletin.md
+          git diff --staged --quiet || git commit -m "chore: update prospect bulletin [skip ci]"
+          git push

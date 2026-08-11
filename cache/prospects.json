@@ -1,0 +1,237 @@
+{
+  "season": 2025,
+  "prospects": [
+    {
+      "player": "Ashton Jeanty",
+      "team": "Boise State",
+      "position": "RB",
+      "composite_score": 9.8,
+      "stat_rank": 1,
+      "yards_per_game": 140.0,
+      "efficiency_factor": 1.4,
+      "age_factor": 1.0,
+      "season": 2025
+    },
+    {
+      "player": "Travis Hunter",
+      "team": "Colorado",
+      "position": "WR",
+      "composite_score": 9.2,
+      "stat_rank": 2,
+      "yards_per_game": 110.0,
+      "efficiency_factor": 1.3,
+      "age_factor": 1.0,
+      "season": 2025
+    },
+    {
+      "player": "Omarion Hampton",
+      "team": "UNC",
+      "position": "RB",
+      "composite_score": 8.5,
+      "stat_rank": 3,
+      "yards_per_game": 128.0,
+      "efficiency_factor": 1.2,
+      "age_factor": 1.0,
+      "season": 2025
+    },
+    {
+      "player": "Jeremiah Smith",
+      "team": "Ohio State",
+      "position": "WR",
+      "composite_score": 7.9,
+      "stat_rank": 4,
+      "yards_per_game": 94.0,
+      "efficiency_factor": 1.2,
+      "age_factor": 1.0,
+      "season": 2025
+    },
+    {
+      "player": "Tetairoa McMillan",
+      "team": "Arizona",
+      "position": "WR",
+      "composite_score": 7.2,
+      "stat_rank": 5,
+      "yards_per_game": 86.0,
+      "efficiency_factor": 1.2,
+      "age_factor": 1.0,
+      "season": 2025
+    },
+    {
+      "player": "Ollie Gordon",
+      "team": "Oklahoma State",
+      "position": "RB",
+      "composite_score": 6.8,
+      "stat_rank": 6,
+      "yards_per_game": 102.0,
+      "efficiency_factor": 1.1,
+      "age_factor": 1.0,
+      "season": 2025
+    },
+    {
+      "player": "TreVeyon Henderson",
+      "team": "Ohio State",
+      "position": "RB",
+      "composite_score": 6.5,
+      "stat_rank": 7,
+      "yards_per_game": 97.0,
+      "efficiency_factor": 1.1,
+      "age_factor": 1.0,
+      "season": 2025
+    },
+    {
+      "player": "Emeka Egbuka",
+      "team": "Ohio State",
+      "position": "WR",
+      "composite_score": 6.2,
+      "stat_rank": 8,
+      "yards_per_game": 74.0,
+      "efficiency_factor": 1.2,
+      "age_factor": 1.0,
+      "season": 2025
+    },
+    {
+      "player": "Luther Burden",
+      "team": "Missouri",
+      "position": "WR",
+      "composite_score": 5.8,
+      "stat_rank": 9,
+      "yards_per_game": 69.0,
+      "efficiency_factor": 1.2,
+      "age_factor": 1.0,
+      "season": 2025
+    },
+    {
+      "player": "Nick Singleton",
+      "team": "Penn State",
+      "position": "RB",
+      "composite_score": 5.5,
+      "stat_rank": 10,
+      "yards_per_game": 82.0,
+      "efficiency_factor": 1.0,
+      "age_factor": 1.0,
+      "season": 2025
+    },
+    {
+      "player": "Evan Stewart",
+      "team": "Oregon",
+      "position": "WR",
+      "composite_score": 5.2,
+      "stat_rank": 11,
+      "yards_per_game": 62.0,
+      "efficiency_factor": 1.2,
+      "age_factor": 1.0,
+      "season": 2025
+    },
+    {
+      "player": "Tre Harris",
+      "team": "Ole Miss",
+      "position": "WR",
+      "composite_score": 4.9,
+      "stat_rank": 12,
+      "yards_per_game": 58.0,
+      "efficiency_factor": 1.2,
+      "age_factor": 1.0,
+      "season": 2025
+    },
+    {
+      "player": "Adonai Mitchell",
+      "team": "Texas",
+      "position": "WR",
+      "composite_score": 4.6,
+      "stat_rank": 13,
+      "yards_per_game": 55.0,
+      "efficiency_factor": 1.2,
+      "age_factor": 1.0,
+      "season": 2025
+    },
+    {
+      "player": "Keon Coleman",
+      "team": "Florida State",
+      "position": "WR",
+      "composite_score": 4.3,
+      "stat_rank": 14,
+      "yards_per_game": 51.0,
+      "efficiency_factor": 1.2,
+      "age_factor": 1.0,
+      "season": 2025
+    },
+    {
+      "player": "Rome Odunze",
+      "team": "Washington",
+      "position": "WR",
+      "composite_score": 4.0,
+      "stat_rank": 15,
+      "yards_per_game": 48.0,
+      "efficiency_factor": 1.2,
+      "age_factor": 1.0,
+      "season": 2025
+    },
+    {
+      "player": "Duce Robinson",
+      "team": "USC",
+      "position": "WR",
+      "composite_score": 3.8,
+      "stat_rank": 16,
+      "yards_per_game": 45.0,
+      "efficiency_factor": 1.2,
+      "age_factor": 1.0,
+      "season": 2025
+    },
+    {
+      "player": "Cam Ward",
+      "team": "Miami",
+      "position": "QB",
+      "composite_score": 3.5,
+      "stat_rank": 17,
+      "yards_per_game": 60.0,
+      "efficiency_factor": 0.8,
+      "age_factor": 1.0,
+      "season": 2025
+    },
+    {
+      "player": "Dylan Raiola",
+      "team": "Nebraska",
+      "position": "QB",
+      "composite_score": 3.2,
+      "stat_rank": 18,
+      "yards_per_game": 55.0,
+      "efficiency_factor": 0.8,
+      "age_factor": 1.0,
+      "season": 2025
+    },
+    {
+      "player": "Tyler Warren",
+      "team": "Penn State",
+      "position": "TE",
+      "composite_score": 3.0,
+      "stat_rank": 19,
+      "yards_per_game": 38.0,
+      "efficiency_factor": 1.1,
+      "age_factor": 1.0,
+      "season": 2025
+    },
+    {
+      "player": "Kelvin Banks",
+      "team": "Texas",
+      "position": "WR",
+      "composite_score": 2.8,
+      "stat_rank": 20,
+      "yards_per_game": 33.0,
+      "efficiency_factor": 1.2,
+      "age_factor": 1.0,
+      "season": 2025
+    },
+    {
+      "player": "Jonah Savaiinaea",
+      "team": "Washington",
+      "position": "WR",
+      "composite_score": 2.5,
+      "stat_rank": 21,
+      "yards_per_game": 30.0,
+      "efficiency_factor": 1.2,
+      "age_factor": 1.0,
+      "season": 2025
+    }
+  ],
+  "last_updated": "2026-08-07T03:31:23.590587+00:00"
+}

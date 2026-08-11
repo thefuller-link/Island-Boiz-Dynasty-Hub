@@ -1,0 +1,21 @@
+{
+  "last_updated": "2026-08-11T22:37:49.156244+00:00",
+  "data_note": "ok",
+  "results": {
+    "2026-08-05T17:40:16.880Z": {
+      "owner_a": null,
+      "owner_b": null,
+      "assets_a": [],
+      "assets_b": [],
+      "raw_a": null,
+      "raw_b": null,
+      "adj_a": null,
+      "adj_b": null,
+      "verdict": null,
+      "flags": [],
+      "parse_flags": [
+        "Description did not match expected format: 'Test trade: Send Malik Nabers for a 1st'"
+      ]
+    }
+  }
+}
