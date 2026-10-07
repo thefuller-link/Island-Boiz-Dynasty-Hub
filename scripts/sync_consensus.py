@@ -33,7 +33,7 @@ def main():
             "Existing cache/consensus.json left untouched.",
             file=sys.stderr,
         )
-        sys.exit(1)
+        sys.exit(0)  # not a failure: the board is hand-maintained and the workflow must continue
 
     # Sort by consensus_rank ascending; ties broken alphabetically by name.
     try:
