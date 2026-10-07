@@ -1,17 +1,16 @@
-"""Read cache/league_settings.json + data/league_rules_extra.json and write site/reference.html."""
+"""Render league settings + group agreements sections (embedded at the bottom of the Today page)."""
 
 import json
 import os
 import sys
 
 sys.path.insert(0, os.path.dirname(__file__))
-from html_utils import page_shell, stale_banner, missing_section, _atomic_write
+from html_utils import stale_banner
 from html import escape
 
 REPO_ROOT      = os.path.normpath(os.path.join(os.path.dirname(__file__), ".."))
 SETTINGS_CACHE = os.path.join(REPO_ROOT, "cache", "league_settings.json")
 EXTRA_FILE     = os.path.join(REPO_ROOT, "data", "league_rules_extra.json")
-OUTPUT_FILE    = os.path.join(REPO_ROOT, "site", "reference.html")
 
 SCORING_LABEL = {
     "rec": "Reception",
@@ -189,7 +188,8 @@ def _load_json(path):
         return None
 
 
-def main():
+def render_reference_sections():
+    """Return the League Settings and Group Agreements section cards as HTML."""
     settings_data = _load_json(SETTINGS_CACHE)
     extra_data    = _load_json(EXTRA_FILE)
 
@@ -210,9 +210,7 @@ def main():
         extra_banner = stale_banner("Group agreements", extra_data.get("last_updated"))
     manual_html = _render_manual_section(extra_data)
 
-    body = f"""<h1 class="page-title">Reference</h1>
-
-<div class="section-card">
+    return f"""<div class="section-card">
   <h2>League Settings</h2>
   {settings_banner}{settings_html}
 </div>
@@ -221,11 +219,3 @@ def main():
   <h2>Group Agreements</h2>
   {extra_banner}{manual_html}
 </div>"""
-
-    html = page_shell("Reference", "reference", body)
-    _atomic_write(OUTPUT_FILE, html)
-    print("site/reference.html written.")
-
-
-if __name__ == "__main__":
-    main()

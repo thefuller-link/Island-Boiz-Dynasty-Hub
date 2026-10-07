@@ -41,4 +41,5 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/decisions.json site/decisions.md cache/trade_analysis.json site/index.html
           git diff --staged --quiet || git commit -m "chore: update decision summary [skip ci]"
+          git pull --rebase
           git push

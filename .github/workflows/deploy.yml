@@ -4,6 +4,15 @@ on:
   push:
     branches:
       - main
+  # Bot commits made with GITHUB_TOKEN do not fire push events, so deploy after each data workflow.
+  workflow_run:
+    workflows:
+      - Sync Sleeper & News
+      - Sync Rookie Usage
+      - Sync Prospects & Bulletin
+      - Publish Decision Summary
+    types: [completed]
+    branches: [main]
 
 permissions:
   contents: write
@@ -12,10 +21,13 @@ permissions:
 
 jobs:
   deploy:
+    if: github.event_name == 'push' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
 
       - name: Deploy to GitHub Pages (gh-pages)
         uses: peaceiris/actions-gh-pages@v4

@@ -5,7 +5,7 @@ from datetime import datetime, timezone
 NAV_LINKS = [
     ("today",     "index.html",    "&#127968;", "Today"),
     ("rookies",   "rookies.html",  "&#128640;", "Rookies &amp; Picks"),
-    ("reference", "reference.html","&#128196;", "Reference"),
+    ("trades",    "trades.html",   "&#128260;", "Trades"),
 ]
 
 

@@ -9,6 +9,7 @@ from html import escape
 import sys
 sys.path.insert(0, os.path.dirname(__file__))
 from html_utils import page_shell, stale_banner, missing_section, _atomic_write
+from generate_reference_page import render_reference_sections
 
 REPO_ROOT           = os.path.normpath(os.path.join(os.path.dirname(__file__), ".."))
 NEWS_CACHE          = os.path.join(REPO_ROOT, "cache", "news.json")
@@ -320,7 +321,9 @@ def main():
 <div class="section-card">
   <h2>Decisions &amp; Votes</h2>
   {decisions_html}
-</div>"""
+</div>
+
+{render_reference_sections()}"""
 
     html = page_shell("Today", "today", body)
     _atomic_write(OUTPUT_FILE, html)
@@ -329,3 +332,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

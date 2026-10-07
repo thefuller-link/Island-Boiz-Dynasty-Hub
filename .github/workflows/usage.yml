@@ -16,10 +16,10 @@ jobs:
 
       - uses: actions/setup-python@v5
         with:
-          python-version: '3.12'
+          python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: pip install -r requirements-usage.txt
 
       - name: Sync rookie usage data
         run: python scripts/sync_usage.py
@@ -33,4 +33,5 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add cache/usage.json site/usage.md
           git diff --staged --quiet || git commit -m "chore: update rookie usage data [skip ci]"
+          git pull --rebase
           git push
