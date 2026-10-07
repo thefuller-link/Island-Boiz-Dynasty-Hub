@@ -57,16 +57,19 @@ def _stale_last_updated():
 
 def _fetch_html():
     """Fetch the KTC rankings page. Returns response text or raises."""
-    resp = requests.get(KTC_URL, timeout=REQUEST_TIMEOUT)
+    resp = requests.get(KTC_URL, timeout=REQUEST_TIMEOUT, headers={"User-Agent": "Mozilla/5.0"})
     resp.raise_for_status()
     return resp.text
 
 
 def _extract_players_array(html):
-    """Extract the `playersArray` JSON from KTC's HTML page."""
+    """Extract KTC's player list from the page (JSON script tag, or legacy inline JS variable)."""
+    m = re.search(r'<script[^>]*id="ktc-players"[^>]*>(.*?)</script>', html, re.DOTALL)
+    if m:
+        return json.loads(m.group(1))
     m = re.search(r"var\s+playersArray\s*=\s*(\[.*?\]);\s*var\s+", html, re.DOTALL)
     if not m:
-        raise ValueError("Could not find `playersArray` in KTC page — site structure may have changed.")
+        raise ValueError("Could not find KTC player data (`ktc-players` script or `playersArray`) â€” site structure may have changed.")
     return json.loads(m.group(1))
 
 
