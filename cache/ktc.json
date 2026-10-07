@@ -2273,7 +2273,7 @@
       "name_key": "luke musgrave",
       "position": "TE",
       "team": "GBP",
-      "value": 1376
+      "value": 1379
     },
     {
       "player_name": "Garrett Nussmeier",
@@ -2322,7 +2322,7 @@
       "name_key": "charlie kolar",
       "position": "TE",
       "team": "LAC",
-      "value": 1337
+      "value": 1334
     },
     {
       "player_name": "Jordan Whittington",
@@ -2693,7 +2693,7 @@
       "name_key": "tyler badie",
       "position": "RB",
       "team": "DEN",
-      "value": 1076
+      "value": 1079
     },
     {
       "player_name": "Greg Dortch",
@@ -2707,7 +2707,7 @@
       "name_key": "cody white",
       "position": "WR",
       "team": "LVR",
-      "value": 1056
+      "value": 1053
     },
     {
       "player_name": "Marquise Brown",
@@ -3113,7 +3113,7 @@
       "name_key": "lajohntay wester",
       "position": "WR",
       "team": "BAL",
-      "value": 553
+      "value": 556
     },
     {
       "player_name": "Will Levis",
@@ -3246,7 +3246,7 @@
       "name_key": "joe mixon",
       "position": "RB",
       "team": "FA",
-      "value": 125
+      "value": 122
     }
   ],
   "picks": [
@@ -3396,5 +3396,5 @@
     }
   ],
   "value_type": "superflex",
-  "last_updated": "2026-10-07T01:12:32Z"
+  "last_updated": "2026-10-07T01:14:28Z"
 }
