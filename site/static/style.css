@@ -269,3 +269,5 @@ nav.site-nav .nav-icon { font-size: 1.1em; }
 
   .page-container { padding: var(--space-md) var(--space-sm); }
 }
+
+.roster-section td { color: var(--accent); font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; padding-top: var(--space-md); border-bottom: 1px solid var(--border); }

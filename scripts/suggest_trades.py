@@ -43,7 +43,8 @@ MAX_PARTNERS = 2
 
 
 def _normalize(name):
-    return re.sub(r"\s+", " ", re.sub(r"[^\w\s]", "", name.lower())).strip()
+    name = re.sub(r"\s+", " ", re.sub(r"[^\w\s]", "", name.lower())).strip()
+    return re.sub(r" (jr|sr|ii|iii|iv|v)$", "", name)  # Sleeper and KTC disagree on suffixes
 
 
 def _load_json(path, label, script):
@@ -58,7 +59,7 @@ def build_teams(sleeper, ktc, picks_cache):
     """Return {roster_id: team dict} with KTC-valued players and owned picks."""
     user_map = sleeper.get("user_map", {})
     meta = sleeper.get("player_metadata", {})
-    by_key = {p["name_key"]: p for p in ktc.get("players", [])}
+    by_key = {_normalize(p["player_name"]): p for p in ktc.get("players", [])}
 
     teams = {}
     for owner_id, roster in sleeper.get("rosters", {}).items():

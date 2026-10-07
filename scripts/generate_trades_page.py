@@ -106,7 +106,7 @@ const teamOpts = (sel, blank) => (blank ? `<option value="">${blank}</option>` :
 function syncNeeds() {
   const t = teamByName($('sg-team').value);
   $('sg-needs').innerHTML = D.positions.map(p =>
-    `<label><input type="checkbox" value="${p}"${t.needs.includes(p) ? ' checked' : ''}> ${p}</label>`).join(' ');
+    `<label class="chk"><input type="checkbox" value="${p}"${t.needs.includes(p) ? ' checked' : ''}> ${p}</label>`).join('');
 }
 
 function* offers(target, pool) {
@@ -222,16 +222,18 @@ function evaluate() {
 PAGE_CSS = """
 <style>
 .trade-table{width:100%;border-collapse:collapse;font-size:.9rem}
-.trade-table th,.trade-table td{padding:.3rem .5rem;border-bottom:1px solid #ddd;text-align:left}
-.trade-table td.need{color:#b00020;font-weight:600}
-.trade-table td.surplus{color:#1b7f3b;font-weight:600}
-.trade-table tr.ours{background:rgba(0,0,0,.05)}
+.trade-table th,.trade-table td{padding:.3rem .5rem;border-bottom:1px solid var(--border);text-align:left}
+.trade-table td.need{color:#e67f7f;font-weight:600}
+.trade-table td.surplus{color:#6fcf97;font-weight:600}
+.trade-table tr.ours{background:var(--surface-2)}
 .trade-form{display:flex;flex-wrap:wrap;gap:.75rem;align-items:flex-end;margin-bottom:1rem}
-.trade-form label{display:flex;flex-direction:column;font-size:.85rem;gap:.2rem}
-.trade-form .inline{flex-direction:row;gap:.25rem;align-items:center}
+.trade-form label,.trade-form .field{display:flex;flex-direction:column;font-size:.85rem;gap:.2rem}
+.chk-row{display:flex;gap:.9rem;align-items:center;min-height:2rem}
+.trade-form label.chk{flex-direction:row;align-items:center;gap:.35rem}
+.chk input{margin:0}
 .ev-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:1rem}
 .ev-chips{list-style:none;padding:0;margin:.5rem 0}
-.ev-chips li{display:flex;justify-content:space-between;padding:.2rem 0;border-bottom:1px solid #eee}
+.ev-chips li{display:flex;justify-content:space-between;padding:.2rem 0;border-bottom:1px solid var(--border)}
 </style>
 """
 
@@ -266,7 +268,7 @@ def main():
   <h2>Trade Suggestions</h2>
   <div class="trade-form">
     <label>Team <select id="sg-team"></select></label>
-    <label>Positions to target <span id="sg-needs"></span></label>
+    <div class="field"><span>Positions to target</span><div id="sg-needs" class="chk-row"></div></div>
     <label>Partner 1 <select id="sg-p1"></select></label>
     <label>Partner 2 <select id="sg-p2"></select></label>
     <label>Random partners

@@ -74,11 +74,13 @@ def _find_our_roster_id(sleeper, owners):
 
 
 def _get_base_year(sleeper):
+    """First draft year still ahead: once the regular season starts, this year's rookie draft is done."""
     nfl_state = sleeper.get("nfl_state") or {}
     season_str = nfl_state.get("season")
     if season_str:
         try:
-            return int(season_str)
+            season = int(season_str)
+            return season + 1 if nfl_state.get("season_type") in ("regular", "post") else season
         except ValueError:
             pass
     return datetime.now().year

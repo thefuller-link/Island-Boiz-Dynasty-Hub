@@ -15,6 +15,7 @@ REPO_ROOT           = os.path.normpath(os.path.join(os.path.dirname(__file__), "
 NEWS_CACHE          = os.path.join(REPO_ROOT, "cache", "news.json")
 SLEEPER_CACHE       = os.path.join(REPO_ROOT, "cache", "sleeper.json")
 KTC_CACHE           = os.path.join(REPO_ROOT, "cache", "ktc.json")
+LEAGUE_SETTINGS     = os.path.join(REPO_ROOT, "cache", "league_settings.json")
 TRADE_ANALYSIS      = os.path.join(REPO_ROOT, "cache", "trade_analysis.json")
 DECISIONS           = os.path.join(REPO_ROOT, "data", "decisions.json")
 OUTPUT_FILE         = os.path.join(REPO_ROOT, "site", "index.html")
@@ -44,10 +45,12 @@ SLOT_LABEL = {
     "taxi":    "TX",
     "ir":      "IR",
 }
+STARTER_SLOT_LABEL = {"SUPER_FLEX": "SFLX"}
 
 
 def _norm_name(text):
-    return re.sub(r"\s+", " ", re.sub(r"[^a-z0-9 ]", "", text.lower())).strip()
+    text = re.sub(r"\s+", " ", re.sub(r"[^a-z0-9 ]", "", text.lower())).strip()
+    return re.sub(r" (jr|sr|ii|iii|iv|v)$", "", text)
 
 
 def _load_json(path):
@@ -81,7 +84,16 @@ def _render_roster(sleeper_data, ktc_data):
     ktc_lookup = {}
     if ktc_data:
         for p in ktc_data.get("players", []):
-            ktc_lookup[p.get("name_key", "")] = p.get("value")
+            ktc_lookup[_norm_name(p.get("player_name", ""))] = p.get("value")
+
+    # Lineup slot labels in Sleeper order (starters[] follows roster_positions minus bench/IR/taxi).
+    settings = _load_json(LEAGUE_SETTINGS) or {}
+    lineup_slots = [s for s in settings.get("roster_positions", []) if s not in ("BN", "IR", "TAXI")]
+    starter_ids = our_roster.get("starters", []) or []
+    slot_for = {}
+    for i, pid in enumerate(starter_ids):
+        slot = lineup_slots[i] if i < len(lineup_slots) else ""
+        slot_for[pid] = STARTER_SLOT_LABEL.get(slot, slot)
 
     # Build player list
     players = []
@@ -98,30 +110,32 @@ def _render_roster(sleeper_data, ktc_data):
             slot = "ir"
         else:
             slot = "bench"
-        players.append({"name": name, "pos": pos, "value": val, "slot": slot})
+        players.append({"name": name, "pos": pos, "value": val, "slot": slot,
+                        "slot_label": slot_for.get(pid, SLOT_LABEL.get(slot, slot)), "pid": pid})
 
-    # Group by position in display order, then sort each group by value desc
-    groups = {}
-    for p in players:
-        pos = p["pos"] if p["pos"] in POS_ORDER else "?"
-        groups.setdefault(pos, []).append(p)
-    for pos in groups:
-        groups[pos].sort(key=lambda x: x["value"] or 0, reverse=True)
+    # Same sections as Sleeper: starters in lineup order, then bench, IR, taxi (by value).
+    sections = [
+        ("Starters", sorted((p for p in players if p["slot"] == "starter"),
+                            key=lambda p: starter_ids.index(p["pid"]))),
+    ]
+    for title, key in (("Bench", "bench"), ("IR", "ir"), ("Taxi", "taxi")):
+        group = sorted((p for p in players if p["slot"] == key), key=lambda p: p["value"] or 0, reverse=True)
+        sections.append((title, group))
 
     rows_html = []
-    for pos in POS_ORDER + ["?"]:
-        if pos not in groups:
+    for title, group in sections:
+        if not group:
             continue
-        for p in groups[pos]:
+        rows_html.append(f'<tr class="roster-section"><td colspan="4">{title} ({len(group)})</td></tr>')
+        for p in group:
             val_str = str(p["value"]) if p["value"] is not None else "--"
-            slot_badge = SLOT_LABEL.get(p["slot"], p["slot"])
             slot_cls = f'slot-{p["slot"]}'
             rows_html.append(
                 f'<tr>'
+                f'<td><span class="slot-badge {slot_cls}">{escape(p["slot_label"])}</span></td>'
                 f'<td class="pos-cell">{escape(p["pos"])}</td>'
                 f'<td>{escape(p["name"])}</td>'
                 f'<td>{val_str}</td>'
-                f'<td><span class="slot-badge {slot_cls}">{slot_badge}</span></td>'
                 f'</tr>'
             )
 
@@ -131,7 +145,7 @@ def _render_roster(sleeper_data, ktc_data):
 
     table = (
         '<div class="table-wrapper"><table><thead><tr>'
-        '<th>Pos</th><th>Player</th><th>KTC Value</th><th>Slot</th>'
+        '<th>Slot</th><th>Pos</th><th>Player</th><th>KTC Value</th>'
         '</tr></thead><tbody>'
         + "\n".join(rows_html)
         + '</tbody></table></div>'
