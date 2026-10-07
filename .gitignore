@@ -18,3 +18,10 @@ env/
 # OS
 .DS_Store
 Thumbs.db
+
+# Local debugging artifacts
+logs.json
+runlogs/
+runlogs.zip
+/.gitkeep
+/.nojekyll
