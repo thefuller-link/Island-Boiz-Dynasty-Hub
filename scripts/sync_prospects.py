@@ -4,12 +4,15 @@ import json
 import os
 import sys
 import tempfile
+import time
 from datetime import datetime, timezone
 
 import requests
 import yaml
 
 CFBD_BASE = "https://api.collegefootballdata.com"
+REQUEST_READ_TIMEOUT = 120
+REQUEST_ATTEMPTS = 3
 CONFIG_FILE = os.path.normpath(os.path.join(os.path.dirname(__file__), "..", "config.yaml"))
 CACHE_FILE = os.path.normpath(os.path.join(os.path.dirname(__file__), "..", "cache", "prospects.json"))
 
@@ -60,13 +63,28 @@ def _fetch_stats(api_key, year):
     url = f"{CFBD_BASE}/stats/player/season"
     headers = {"Authorization": f"Bearer {api_key}"}
     params = {"year": year, "seasonType": "regular"}
-    try:
-        resp = requests.get(url, headers=headers, params=params, timeout=15)
-        resp.raise_for_status()
-        return resp.json()
-    except Exception as exc:
-        print(f"Error fetching CFBD stats for year {year}: {exc}", file=sys.stderr)
-        sys.exit(1)
+    # The full-season player payload is large and CFBD can be slow, so allow a long read and retry.
+    last_exc = None
+    for attempt in range(1, REQUEST_ATTEMPTS + 1):
+        try:
+            resp = requests.get(url, headers=headers, params=params, timeout=(10, REQUEST_READ_TIMEOUT))
+            if resp.status_code in (401, 403):
+                print(f"Error: CFBD rejected the API key (HTTP {resp.status_code}).", file=sys.stderr)
+                sys.exit(1)
+            if resp.status_code == 429 or resp.status_code >= 500:
+                raise requests.HTTPError(f"HTTP {resp.status_code}")
+            resp.raise_for_status()
+            return resp.json()
+        except (requests.Timeout, requests.ConnectionError, requests.HTTPError) as exc:
+            last_exc = exc
+            print(f"CFBD attempt {attempt}/{REQUEST_ATTEMPTS} failed: {exc}", file=sys.stderr)
+            if attempt < REQUEST_ATTEMPTS:
+                time.sleep(5 * attempt)
+        except ValueError as exc:
+            last_exc = exc
+            break
+    print(f"Error fetching CFBD stats for year {year}: {last_exc}", file=sys.stderr)
+    sys.exit(1)
 
 
 def _pivot(rows):
