@@ -1695,6 +1695,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "DEN"
+        },
+        {
+          "week": 5,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "DEN"
         }
       ]
     },
@@ -8486,7 +8494,7 @@
           "target_share": null,
           "route_participation": null,
           "rz_targets": null,
-          "nfl_team": "WAS"
+          "nfl_team": "MIA"
         }
       ]
     },
@@ -14091,5 +14099,5 @@
       ]
     }
   },
-  "last_updated": "2026-10-09T15:43:26.997703+00:00"
+  "last_updated": "2026-10-10T14:57:33.529688+00:00"
 }
