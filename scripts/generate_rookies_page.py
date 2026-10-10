@@ -61,24 +61,72 @@ def _fmt_val(v):
     return "--" if v is None else str(v)
 
 
+def _classify_trajectory(values):
+    """Classify trend from a list of weekly floats (may contain None)."""
+    non_null = [v for v in values if v is not None]
+    if len(non_null) < 2:
+        return "insufficient"
+    if len(non_null) == 2:
+        diff = non_null[-1] - non_null[0]
+    else:
+        last2 = non_null[-2:]
+        prior = non_null[:-2]
+        diff = (sum(last2) / len(last2)) - (sum(prior) / len(prior))
+    if diff > 5.0:
+        return "rising"
+    if diff < -5.0:
+        return "falling"
+    return "flat"
+
+
 # --- Rising Free Agents ---
 
-def _render_usage(data):
+def _render_usage(data, rostered_names):
     if data is None:
         return missing_section("rookie usage")
     last_updated = data.get("last_updated")
     data_note = data.get("data_note", "")
     banner = stale_banner("Usage", last_updated)
-    players = data.get("players", [])
+    players_raw = data.get("players", {})
 
     if data_note and "no regular-season" in data_note.lower():
         note_html = f'<div class="banner-warn">&#128203; {escape(data_note)}</div>\n'
         return banner + note_html + '<p class="banner-missing">Usage data will populate once the regular season begins.</p>\n'
 
-    if not players:
+    if not players_raw:
         return banner + missing_section("rookie usage")
 
-    rising_fa = [p for p in players if p.get("trajectory") == "rising" and not p.get("rostered")]
+    # Enrich players with computed fields
+    enriched = []
+    for norm_name, pdata in players_raw.items():
+        weeks = pdata.get("weeks", [])
+        if not weeks:
+            continue
+        
+        snap_values = [w.get("snap_pct") for w in weeks]
+        tgt_values = [w.get("target_share") for w in weeks]
+        snap_trend = _classify_trajectory(snap_values)
+        tgt_trend = _classify_trajectory(tgt_values)
+        
+        is_free_agent = norm_name not in rostered_names
+        is_rising = snap_trend == "rising" or tgt_trend == "rising"
+        
+        # Get last week's stats
+        last_week = weeks[-1] if weeks else {}
+        last_snap = last_week.get("snap_pct")
+        last_tgt = last_week.get("target_share")
+        
+        enriched.append({
+            "name": pdata.get("player_name", norm_name),
+            "position": pdata.get("position", "?"),
+            "last_snap_pct": last_snap,
+            "last_target_share": last_tgt,
+            "is_free_agent": is_free_agent,
+            "is_rising": is_rising,
+        })
+
+    # Filter to rising free agents
+    rising_fa = [p for p in enriched if p["is_rising"] and p["is_free_agent"]]
     if not rising_fa:
         return banner + '<p class="banner-missing">No rising free-agent rookies found this week.</p>\n'
 
@@ -86,15 +134,13 @@ def _render_usage(data):
 
     rows = []
     for p in rising_fa:
-        name = escape(p.get("full_name") or p.get("name") or "")
+        name = escape(p.get("name") or "")
         pos  = escape(p.get("position", ""))
         snap = _fmt_pct(p.get("last_snap_pct"))
         tgt  = _fmt_pct(p.get("last_target_share"))
-        college = escape(p.get("college") or "--")
-        note = escape(p.get("note") or "")
         rows.append(
             f"<tr><td>{name}</td><td>{pos}</td><td>{snap}</td>"
-            f"<td>{tgt}</td><td>{college}</td><td>{note}</td></tr>"
+            f"<td>{tgt}</td></tr>"
         )
 
     ts_str = last_updated[:19].replace("T", " ") + " UTC" if last_updated else ""
@@ -104,7 +150,7 @@ def _render_usage(data):
         '<div class="table-wrapper">'
         '<table><thead><tr>'
         "<th>Player</th><th>Pos</th><th>Snap%</th>"
-        "<th>Target%</th><th>College</th><th>Note</th>"
+        "<th>Target%</th>"
         "</tr></thead><tbody>"
         + "\n".join(rows)
         + "</tbody></table></div>"
@@ -276,7 +322,7 @@ def main():
 
     rostered_names = _load_rostered_norm_names(sleeper_data)
 
-    usage_html   = _render_usage(usage_data)
+    usage_html   = _render_usage(usage_data, rostered_names)
     picks_html   = _render_picks(picks_data)
     prosp_html   = _render_prospects(prosp_data, cons_data, rostered_names)
 
