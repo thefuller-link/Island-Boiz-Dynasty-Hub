@@ -374,4 +374,4 @@ _No free-agent rookies with rising usage this week._
 | Zach Horton | TE | insufficient data | insufficient data | N/A | N/A |  |
 | Zavion Thomas | WR | insufficient data | insufficient data | N/A | N/A |  |
 
-_Last updated: 2026-10-11 15:14:53 UTC_
+_Last updated: 2026-10-12 18:28:13 UTC_
