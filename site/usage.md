@@ -24,10 +24,10 @@ _No free-agent rookies with rising usage this week._
 | Colston Loveland | TE | insufficient data | insufficient data | N/A | N/A |  |
 | Cyrus Allen | WR | insufficient data | insufficient data | N/A | N/A |  |
 | DJ Giddens | RB | insufficient data | insufficient data | N/A | N/A |  |
+| Darius Cooper | WR | insufficient data | insufficient data | N/A | N/A |  |
 | De'Zhaun Stribling | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Deion Burks | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Denzel Boston | WR | insufficient data | insufficient data | N/A | N/A |  |
-| Dohnte Meyers | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Drew Allar | QB | insufficient data | insufficient data | N/A | N/A |  |
 | Dylan Sampson | RB | insufficient data | insufficient data | N/A | N/A |  |
 | Eli Heidenreich | RB | insufficient data | insufficient data | N/A | N/A |  |
@@ -155,7 +155,6 @@ _No free-agent rookies with rising usage this week._
 | Dan Villari | TE | insufficient data | insufficient data | N/A | N/A |  |
 | Dane Key | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Daniel Sobkowicz | WR | insufficient data | insufficient data | N/A | N/A |  |
-| Darius Cooper | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Davon Booth | RB | insufficient data | insufficient data | N/A | N/A |  |
 | Dean Connors | RB | insufficient data | insufficient data | N/A | N/A |  |
 | Demond Claiborne | RB | insufficient data | insufficient data | N/A | N/A |  |
@@ -163,6 +162,7 @@ _No free-agent rookies with rising usage this week._
 | Devonte Ross | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Dillon Bell | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Dillon Gabriel | QB | insufficient data | insufficient data | N/A | N/A |  |
+| Dohnte Meyers | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Dominic Lovett | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Dominic Richardson | RB | insufficient data | insufficient data | N/A | N/A |  |
 | Donaven McCulley | WR | insufficient data | insufficient data | N/A | N/A |  |
@@ -286,6 +286,7 @@ _No free-agent rookies with rising usage this week._
 | Louis Hansen | TE | insufficient data | insufficient data | N/A | N/A |  |
 | Luke Altmyer | QB | insufficient data | insufficient data | N/A | N/A |  |
 | Luke Floriea | WR | insufficient data | insufficient data | N/A | N/A |  |
+| Luke Grimm | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Malick Meiga | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Malik Benson | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Malik McClain | WR | insufficient data | insufficient data | N/A | N/A |  |
@@ -374,4 +375,4 @@ _No free-agent rookies with rising usage this week._
 | Zach Horton | TE | insufficient data | insufficient data | N/A | N/A |  |
 | Zavion Thomas | WR | insufficient data | insufficient data | N/A | N/A |  |
 
-_Last updated: 2026-10-13 16:39:40 UTC_
+_Last updated: 2026-10-14 14:15:21 UTC_

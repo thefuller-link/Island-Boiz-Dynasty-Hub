@@ -3975,6 +3975,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "MIN"
+        },
+        {
+          "week": 6,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "WAS"
         }
       ]
     },
@@ -7226,6 +7234,14 @@
         },
         {
           "week": 5,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "NYJ"
+        },
+        {
+          "week": 6,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -10983,6 +10999,22 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "CLE"
+        }
+      ]
+    },
+    "luke grimm": {
+      "player_name": "Luke Grimm",
+      "position": "WR",
+      "years_exp": 1,
+      "sleeper_id": "12803",
+      "weeks": [
+        {
+          "week": 6,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "LAC"
         }
       ]
     },
@@ -15923,5 +15955,5 @@
       ]
     }
   },
-  "last_updated": "2026-10-13T16:39:40.375046+00:00"
+  "last_updated": "2026-10-14T14:15:21.344313+00:00"
 }
