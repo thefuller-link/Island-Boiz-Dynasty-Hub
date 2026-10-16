@@ -118,11 +118,13 @@
   "last_message_text_map": null,
   "last_message_time": 1792102256002,
   "last_pinned_message_id": null,
-  "last_read_id": null,
   "draft_id": "1314838637770199040",
   "league_id": "1314838637019414528",
   "previous_league_id": null,
+  "last_read_id": null,
   "group_id": null,
+  "bracket_id": null,
+  "bracket_overrides_id": null,
   "roster_positions": [
     "QB",
     "RB",
@@ -146,10 +148,8 @@
     "BN",
     "BN"
   ],
-  "bracket_id": null,
-  "bracket_overrides_id": null,
   "loser_bracket_id": null,
   "loser_bracket_overrides_id": null,
   "total_rosters": 10,
-  "last_updated": "2026-10-15T23:24:17.649758+00:00"
+  "last_updated": "2026-10-16T02:05:15.100900+00:00"
 }
