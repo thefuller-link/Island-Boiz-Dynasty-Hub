@@ -1,6 +1,43 @@
 {
   "items": [
     {
+      "title": "Rachaad White: Clear for Week 6",
+      "description": "White (shoulder) doesn't have a designation for Monday's game at San Francisco.\n\n        Visit RotoWire.com for more analysis on this update.",
+      "published": "Sat, 17 Oct 2026 12:30:00 PM PDT",
+      "link": "https://www.rotowire.com//football/player/rachaad-white-15802",
+      "categories": [
+        "rostered",
+        "trending"
+      ]
+    },
+    {
+      "title": "Roman Wilson: Lands on injured reserve",
+      "description": "Wilson (finger) was placed on injured reserve Saturday, Ray Fittipaldo of the Pittsburgh Post-Gazette reports.\n\n        Visit RotoWire.com for more analysis on this update.",
+      "published": "Sat, 17 Oct 2026 12:27:00 PM PDT",
+      "link": "https://www.rotowire.com//football/player/roman-wilson-17043",
+      "categories": [
+        "rostered"
+      ]
+    },
+    {
+      "title": "Stefon Diggs: Questionable for MNF",
+      "description": "Diggs (hamstring) is listed as questionable for Monday's game against San Francisco.\n\n        Visit RotoWire.com for more analysis on this update.",
+      "published": "Sat, 17 Oct 2026 12:24:00 PM PDT",
+      "link": "https://www.rotowire.com//football/player/stefon-diggs-10133",
+      "categories": [
+        "rostered"
+      ]
+    },
+    {
+      "title": "Terry McLaurin: Good to go against San Francisco",
+      "description": "McLaurin (hamstring) does not have an injury designation ahead of Monday's game against the 49ers.\n\n        Visit RotoWire.com for more analysis on this update.",
+      "published": "Sat, 17 Oct 2026 12:19:00 PM PDT",
+      "link": "https://www.rotowire.com//football/player/terry-mclaurin-13536",
+      "categories": [
+        "rostered"
+      ]
+    },
+    {
       "title": "Jacory Croskey-Merritt: Ruled out for Monday night",
       "description": "Croskey-Merritt (groin) has been ruled out for Monday night's game against the 49ers, Tashan Reed of The Washington Post reports.\n\n        Visit RotoWire.com for more analysis on this update.",
       "published": "Sat, 17 Oct 2026 9:46:00 AM PDT",
@@ -9,44 +46,7 @@
         "rostered",
         "trending"
       ]
-    },
-    {
-      "title": "Pat Freiermuth: Dealing with calf injury, iffy for Week 6",
-      "description": "Freiermuth (calf) was added to the injury report Saturday and is listed as questionable for Sunday's game against Tampa Bay, Adam Schefter of ESPN reports.\n\n        Visit RotoWire.com for more analysis on this update.",
-      "published": "Sat, 17 Oct 2026 9:29:00 AM PDT",
-      "link": "https://www.rotowire.com//football/player/pat-freiermuth-15267",
-      "categories": [
-        "rostered"
-      ]
-    },
-    {
-      "title": "DK Metcalf: Cleared for Week 6",
-      "description": "The Steelers removed Metcalf (illness) from the injury report Saturday, and the veteran wide receiver will be available for Sunday's game against the Buccaneers, Adam Schefter of ESPN reports.\n\n        Visit RotoWire.com for more analysis on this update.",
-      "published": "Sat, 17 Oct 2026 9:27:00 AM PDT",
-      "link": "https://www.rotowire.com//football/player/dk-metcalf-13424",
-      "categories": [
-        "rostered"
-      ]
-    },
-    {
-      "title": "Ja'Kobi Lane: On track to be activated from IR",
-      "description": "Lane (wrist) is \"good to go\" after practicing fully this week and is expected to be activated from injured reserve ahead of Sunday's game against the Browns, Jeremy Fowler of ESPN reports.\n\n        Visit RotoWire.com for more analysis on this update.",
-      "published": "Sat, 17 Oct 2026 8:44:00 AM PDT",
-      "link": "https://www.rotowire.com//football/player/jakobi-lane-19230",
-      "categories": [
-        "rostered",
-        "rookie"
-      ]
-    },
-    {
-      "title": "Stefon Diggs: Spotted at Saturday's practice",
-      "description": "Diggs (hamstring) was on the field for Saturday's practice session, Jonah Keim of ESPN.com reports.\n\n        Visit RotoWire.com for more analysis on this update.",
-      "published": "Sat, 17 Oct 2026 8:37:00 AM PDT",
-      "link": "https://www.rotowire.com//football/player/stefon-diggs-10133",
-      "categories": [
-        "rostered"
-      ]
     }
   ],
-  "last_updated": "2026-10-17T17:35:58.090264+00:00"
+  "last_updated": "2026-10-17T19:48:19.193824+00:00"
 }
