@@ -1,17 +1,24 @@
 {
   "players": [
     {
-      "player_name": "Jaxon Smith-Njigba",
-      "name_key": "jaxon smithnjigba",
-      "position": "WR",
-      "team": "SEA",
-      "value": 9999
-    },
-    {
       "player_name": "Josh Allen",
       "name_key": "josh allen",
       "position": "QB",
       "team": "BUF",
+      "value": 9999
+    },
+    {
+      "player_name": "Bijan Robinson",
+      "name_key": "bijan robinson",
+      "position": "RB",
+      "team": "ATL",
+      "value": 9996
+    },
+    {
+      "player_name": "Jaxon Smith-Njigba",
+      "name_key": "jaxon smithnjigba",
+      "position": "WR",
+      "team": "SEA",
       "value": 9996
     },
     {
@@ -19,13 +26,6 @@
       "name_key": "jahmyr gibbs",
       "position": "RB",
       "team": "DET",
-      "value": 9996
-    },
-    {
-      "player_name": "Bijan Robinson",
-      "name_key": "bijan robinson",
-      "position": "RB",
-      "team": "ATL",
       "value": 9993
     },
     {
@@ -33,91 +33,91 @@
       "name_key": "jamarr chase",
       "position": "WR",
       "team": "CIN",
-      "value": 8632
+      "value": 8622
     },
     {
       "player_name": "Brock Bowers",
       "name_key": "brock bowers",
       "position": "TE",
       "team": "LVR",
-      "value": 8298
+      "value": 8312
     },
     {
       "player_name": "Puka Nacua",
       "name_key": "puka nacua",
       "position": "WR",
       "team": "LAR",
-      "value": 8173
+      "value": 8188
     },
     {
       "player_name": "Amon-Ra St. Brown",
       "name_key": "amonra st brown",
       "position": "WR",
       "team": "DET",
-      "value": 7541
+      "value": 7535
     },
     {
       "player_name": "Kenneth Walker III",
       "name_key": "kenneth walker iii",
       "position": "RB",
       "team": "KCC",
-      "value": 7453
+      "value": 7454
     },
     {
       "player_name": "Caleb Williams",
       "name_key": "caleb williams",
       "position": "QB",
       "team": "CHI",
-      "value": 7409
+      "value": 7411
     },
     {
       "player_name": "Trey McBride",
       "name_key": "trey mcbride",
       "position": "TE",
       "team": "ARI",
-      "value": 7382
+      "value": 7379
     },
     {
       "player_name": "CeeDee Lamb",
       "name_key": "ceedee lamb",
       "position": "WR",
       "team": "DAL",
-      "value": 7206
+      "value": 7198
     },
     {
       "player_name": "Lamar Jackson",
       "name_key": "lamar jackson",
       "position": "QB",
       "team": "BAL",
-      "value": 7205
+      "value": 7196
     },
     {
       "player_name": "Drake Maye",
       "name_key": "drake maye",
       "position": "QB",
       "team": "NEP",
-      "value": 7152
+      "value": 7154
     },
     {
       "player_name": "Malik Nabers",
       "name_key": "malik nabers",
       "position": "WR",
       "team": "NYG",
-      "value": 7056
+      "value": 7050
     },
     {
       "player_name": "Justin Jefferson",
       "name_key": "justin jefferson",
       "position": "WR",
       "team": "MIN",
-      "value": 7044
+      "value": 7048
     },
     {
       "player_name": "Brock Purdy",
       "name_key": "brock purdy",
       "position": "QB",
       "team": "SFO",
-      "value": 7039
+      "value": 7046
     },
     {
       "player_name": "Ashton Jeanty",
@@ -138,7 +138,7 @@
       "name_key": "joe burrow",
       "position": "QB",
       "team": "CIN",
-      "value": 6813
+      "value": 6817
     },
     {
       "player_name": "Tetairoa McMillan",
@@ -148,109 +148,109 @@
       "value": 6746
     },
     {
-      "player_name": "Jeremiyah Love",
-      "name_key": "jeremiyah love",
-      "position": "RB",
-      "team": "ARI",
-      "value": 6690
-    },
-    {
       "player_name": "Trevor Lawrence",
       "name_key": "trevor lawrence",
       "position": "QB",
       "team": "JAC",
-      "value": 6675
+      "value": 6689
+    },
+    {
+      "player_name": "Jeremiyah Love",
+      "name_key": "jeremiyah love",
+      "position": "RB",
+      "team": "ARI",
+      "value": 6678
     },
     {
       "player_name": "Jonathan Taylor",
       "name_key": "jonathan taylor",
       "position": "RB",
       "team": "IND",
-      "value": 6651
+      "value": 6648
     },
     {
       "player_name": "Chris Olave",
       "name_key": "chris olave",
       "position": "WR",
       "team": "NOS",
-      "value": 6621
+      "value": 6615
     },
     {
       "player_name": "Zay Flowers",
       "name_key": "zay flowers",
       "position": "WR",
       "team": "BAL",
-      "value": 6393
+      "value": 6402
     },
     {
       "player_name": "James Cook",
       "name_key": "james cook",
       "position": "RB",
       "team": "BUF",
-      "value": 6384
+      "value": 6373
     },
     {
       "player_name": "Patrick Mahomes",
       "name_key": "patrick mahomes",
       "position": "QB",
       "team": "KCC",
-      "value": 6368
+      "value": 6369
     },
     {
       "player_name": "Parker Washington",
       "name_key": "parker washington",
       "position": "WR",
       "team": "JAC",
-      "value": 6212
+      "value": 6213
     },
     {
       "player_name": "Jayden Daniels",
       "name_key": "jayden daniels",
       "position": "QB",
       "team": "WAS",
-      "value": 6198
+      "value": 6204
     },
     {
       "player_name": "Garrett Wilson",
       "name_key": "garrett wilson",
       "position": "WR",
       "team": "NYJ",
-      "value": 6164
+      "value": 6173
     },
     {
       "player_name": "Nico Collins",
       "name_key": "nico collins",
       "position": "WR",
       "team": "HOU",
-      "value": 6089
-    },
-    {
-      "player_name": "Bryce Young",
-      "name_key": "bryce young",
-      "position": "QB",
-      "team": "CAR",
-      "value": 5821
+      "value": 6090
     },
     {
       "player_name": "Kyren Williams",
       "name_key": "kyren williams",
       "position": "RB",
       "team": "LAR",
-      "value": 5813
+      "value": 5814
+    },
+    {
+      "player_name": "Bryce Young",
+      "name_key": "bryce young",
+      "position": "QB",
+      "team": "CAR",
+      "value": 5810
     },
     {
       "player_name": "George Pickens",
       "name_key": "george pickens",
       "position": "WR",
       "team": "DAL",
-      "value": 5801
+      "value": 5798
     },
     {
       "player_name": "Christian Watson",
       "name_key": "christian watson",
       "position": "WR",
       "team": "GBP",
-      "value": 5657
+      "value": 5660
     },
     {
       "player_name": "De'Von Achane",
@@ -264,21 +264,14 @@
       "name_key": "tyler warren",
       "position": "TE",
       "team": "IND",
-      "value": 5609
+      "value": 5604
     },
     {
       "player_name": "Jaxson Dart",
       "name_key": "jaxson dart",
       "position": "QB",
       "team": "NYG",
-      "value": 5564
-    },
-    {
-      "player_name": "Matthew Golden",
-      "name_key": "matthew golden",
-      "position": "WR",
-      "team": "GBP",
-      "value": 5449
+      "value": 5570
     },
     {
       "player_name": "Jordan Love",
@@ -288,18 +281,25 @@
       "value": 5440
     },
     {
+      "player_name": "Matthew Golden",
+      "name_key": "matthew golden",
+      "position": "WR",
+      "team": "GBP",
+      "value": 5438
+    },
+    {
       "player_name": "Carnell Tate",
       "name_key": "carnell tate",
       "position": "WR",
       "team": "TEN",
-      "value": 5435
+      "value": 5432
     },
     {
       "player_name": "Christian McCaffrey",
       "name_key": "christian mccaffrey",
       "position": "RB",
       "team": "SFO",
-      "value": 5418
+      "value": 5413
     },
     {
       "player_name": "Fernando Mendoza",
@@ -320,7 +320,7 @@
       "name_key": "bucky irving",
       "position": "RB",
       "team": "TBB",
-      "value": 5302
+      "value": 5297
     },
     {
       "player_name": "Emeka Egbuka",
@@ -334,63 +334,56 @@
       "name_key": "tyler shough",
       "position": "QB",
       "team": "NOS",
-      "value": 5274
+      "value": 5272
     },
     {
       "player_name": "Javonte Williams",
       "name_key": "javonte williams",
       "position": "RB",
       "team": "DAL",
-      "value": 5242
+      "value": 5251
     },
     {
       "player_name": "DeVonta Smith",
       "name_key": "devonta smith",
       "position": "WR",
       "team": "PHI",
-      "value": 5240
+      "value": 5244
     },
     {
       "player_name": "Dak Prescott",
       "name_key": "dak prescott",
       "position": "QB",
       "team": "DAL",
-      "value": 5232
+      "value": 5238
     },
     {
       "player_name": "Chase Brown",
       "name_key": "chase brown",
       "position": "RB",
       "team": "CIN",
-      "value": 5232
+      "value": 5224
     },
     {
       "player_name": "Tee Higgins",
       "name_key": "tee higgins",
       "position": "WR",
       "team": "CIN",
-      "value": 5227
+      "value": 5223
     },
     {
       "player_name": "Luther Burden",
       "name_key": "luther burden",
       "position": "WR",
       "team": "CHI",
-      "value": 5225
+      "value": 5222
     },
     {
       "player_name": "Derrick Henry",
       "name_key": "derrick henry",
       "position": "RB",
       "team": "BAL",
-      "value": 5203
-    },
-    {
-      "player_name": "Denzel Boston",
-      "name_key": "denzel boston",
-      "position": "WR",
-      "team": "CLE",
-      "value": 5136
+      "value": 5210
     },
     {
       "player_name": "Bhayshul Tuten",
@@ -400,32 +393,39 @@
       "value": 5132
     },
     {
+      "player_name": "Denzel Boston",
+      "name_key": "denzel boston",
+      "position": "WR",
+      "team": "CLE",
+      "value": 5130
+    },
+    {
       "player_name": "C.J. Stroud",
       "name_key": "cj stroud",
       "position": "QB",
       "team": "HOU",
-      "value": 5087
+      "value": 5089
     },
     {
       "player_name": "Jordyn Tyson",
       "name_key": "jordyn tyson",
       "position": "WR",
       "team": "NOS",
-      "value": 5045
+      "value": 5053
     },
     {
       "player_name": "Jared Goff",
       "name_key": "jared goff",
       "position": "QB",
       "team": "DET",
-      "value": 5042
+      "value": 5035
     },
     {
       "player_name": "Colston Loveland",
       "name_key": "colston loveland",
       "position": "TE",
       "team": "CHI",
-      "value": 5012
+      "value": 5004
     },
     {
       "player_name": "Sam LaPorta",
@@ -446,21 +446,21 @@
       "name_key": "omarion hampton",
       "position": "RB",
       "team": "LAC",
-      "value": 4781
+      "value": 4779
     },
     {
       "player_name": "Tucker Kraft",
       "name_key": "tucker kraft",
       "position": "TE",
       "team": "GBP",
-      "value": 4777
+      "value": 4765
     },
     {
       "player_name": "Justin Herbert",
       "name_key": "justin herbert",
       "position": "QB",
       "team": "LAC",
-      "value": 4746
+      "value": 4752
     },
     {
       "player_name": "A.J. Brown",
@@ -474,70 +474,70 @@
       "name_key": "jalen hurts",
       "position": "QB",
       "team": "PHI",
-      "value": 4677
+      "value": 4690
     },
     {
       "player_name": "Jalen Coker",
       "name_key": "jalen coker",
       "position": "WR",
       "team": "CAR",
-      "value": 4677
+      "value": 4689
     },
     {
       "player_name": "Quinshon Judkins",
       "name_key": "quinshon judkins",
       "position": "RB",
       "team": "CLE",
-      "value": 4669
+      "value": 4678
     },
     {
       "player_name": "Ladd McConkey",
       "name_key": "ladd mcconkey",
       "position": "WR",
       "team": "LAC",
-      "value": 4616
+      "value": 4623
     },
     {
       "player_name": "D'Andre Swift",
       "name_key": "dandre swift",
       "position": "RB",
       "team": "CHI",
-      "value": 4564
+      "value": 4562
     },
     {
       "player_name": "Harold Fannin",
       "name_key": "harold fannin",
       "position": "TE",
       "team": "CLE",
-      "value": 4556
+      "value": 4550
     },
     {
       "player_name": "Bo Nix",
       "name_key": "bo nix",
       "position": "QB",
       "team": "DEN",
-      "value": 4553
+      "value": 4547
     },
     {
       "player_name": "Isaiah Likely",
       "name_key": "isaiah likely",
       "position": "TE",
       "team": "NYG",
-      "value": 4504
+      "value": 4510
     },
     {
       "player_name": "KC Concepcion",
       "name_key": "kc concepcion",
       "position": "WR",
       "team": "CLE",
-      "value": 4484
+      "value": 4485
     },
     {
       "player_name": "Rashee Rice",
       "name_key": "rashee rice",
       "position": "WR",
       "team": "KCC",
-      "value": 4432
+      "value": 4448
     },
     {
       "player_name": "Jaylen Warren",
@@ -551,21 +551,21 @@
       "name_key": "jameson williams",
       "position": "WR",
       "team": "DET",
-      "value": 4399
+      "value": 4389
     },
     {
       "player_name": "Cam Skattebo",
       "name_key": "cam skattebo",
       "position": "RB",
       "team": "NYG",
-      "value": 4374
+      "value": 4371
     },
     {
       "player_name": "Chuba Hubbard",
       "name_key": "chuba hubbard",
       "position": "RB",
       "team": "CAR",
-      "value": 4363
+      "value": 4370
     },
     {
       "player_name": "Rome Odunze",
@@ -579,56 +579,56 @@
       "name_key": "treveyon henderson",
       "position": "RB",
       "team": "NEP",
-      "value": 4343
+      "value": 4337
     },
     {
       "player_name": "Kenyon Sadiq",
       "name_key": "kenyon sadiq",
       "position": "TE",
       "team": "NYJ",
-      "value": 4340
+      "value": 4333
     },
     {
       "player_name": "Jadarian Price",
       "name_key": "jadarian price",
       "position": "RB",
       "team": "SEA",
-      "value": 4336
+      "value": 4329
     },
     {
       "player_name": "Makai Lemon",
       "name_key": "makai lemon",
       "position": "WR",
       "team": "PHI",
-      "value": 4187
+      "value": 4189
     },
     {
       "player_name": "Saquon Barkley",
       "name_key": "saquon barkley",
       "position": "RB",
       "team": "PHI",
-      "value": 4136
+      "value": 4138
     },
     {
       "player_name": "Jaylen Waddle",
       "name_key": "jaylen waddle",
       "position": "WR",
       "team": "DEN",
-      "value": 4120
+      "value": 4109
     },
     {
       "player_name": "Davante Adams",
       "name_key": "davante adams",
       "position": "WR",
       "team": "LAR",
-      "value": 4018
+      "value": 4019
     },
     {
       "player_name": "Kyle Monangai",
       "name_key": "kyle monangai",
       "position": "RB",
       "team": "CHI",
-      "value": 3948
+      "value": 3953
     },
     {
       "player_name": "Sam Darnold",
@@ -642,98 +642,98 @@
       "name_key": "george kittle",
       "position": "TE",
       "team": "SFO",
-      "value": 3936
+      "value": 3941
     },
     {
       "player_name": "Mike Evans",
       "name_key": "mike evans",
       "position": "WR",
       "team": "SFO",
-      "value": 3796
+      "value": 3807
     },
     {
       "player_name": "Marvin Harrison Jr.",
       "name_key": "marvin harrison jr",
       "position": "WR",
       "team": "HOU",
-      "value": 3759
+      "value": 3769
     },
     {
       "player_name": "Michael Penix Jr.",
       "name_key": "michael penix jr",
       "position": "QB",
       "team": "ATL",
-      "value": 3743
+      "value": 3737
     },
     {
       "player_name": "Matthew Stafford",
       "name_key": "matthew stafford",
       "position": "QB",
       "team": "LAR",
-      "value": 3697
+      "value": 3704
     },
     {
       "player_name": "Dalton Kincaid",
       "name_key": "dalton kincaid",
       "position": "TE",
       "team": "BUF",
-      "value": 3622
+      "value": 3618
     },
     {
       "player_name": "Baker Mayfield",
       "name_key": "baker mayfield",
       "position": "QB",
       "team": "TBB",
-      "value": 3527
-    },
-    {
-      "player_name": "Jordan Addison",
-      "name_key": "jordan addison",
-      "position": "WR",
-      "team": "MIN",
-      "value": 3463
-    },
-    {
-      "player_name": "Josh Jacobs",
-      "name_key": "josh jacobs",
-      "position": "RB",
-      "team": "GBP",
-      "value": 3456
-    },
-    {
-      "player_name": "Travis Etienne",
-      "name_key": "travis etienne",
-      "position": "RB",
-      "team": "NOS",
-      "value": 3453
+      "value": 3524
     },
     {
       "player_name": "De'Zhaun Stribling",
       "name_key": "dezhaun stribling",
       "position": "WR",
       "team": "SFO",
-      "value": 3447
+      "value": 3464
+    },
+    {
+      "player_name": "Josh Jacobs",
+      "name_key": "josh jacobs",
+      "position": "RB",
+      "team": "GBP",
+      "value": 3463
+    },
+    {
+      "player_name": "Jordan Addison",
+      "name_key": "jordan addison",
+      "position": "WR",
+      "team": "MIN",
+      "value": 3458
+    },
+    {
+      "player_name": "Travis Etienne",
+      "name_key": "travis etienne",
+      "position": "RB",
+      "team": "NOS",
+      "value": 3448
     },
     {
       "player_name": "D.J. Moore",
       "name_key": "dj moore",
       "position": "WR",
       "team": "BUF",
-      "value": 3441
+      "value": 3436
     },
     {
       "player_name": "Josh Downs",
       "name_key": "josh downs",
       "position": "WR",
       "team": "IND",
-      "value": 3374
+      "value": 3378
     },
     {
       "player_name": "Zach Charbonnet",
       "name_key": "zach charbonnet",
       "position": "RB",
       "team": "SEA",
-      "value": 3353
+      "value": 3364
     },
     {
       "player_name": "Blake Corum",
@@ -747,14 +747,14 @@
       "name_key": "kyler murray",
       "position": "QB",
       "team": "MIN",
-      "value": 3320
+      "value": 3315
     },
     {
       "player_name": "Ty Simpson",
       "name_key": "ty simpson",
       "position": "QB",
       "team": "LAR",
-      "value": 3313
+      "value": 3307
     },
     {
       "player_name": "RJ Harvey",
@@ -764,6 +764,20 @@
       "value": 3303
     },
     {
+      "player_name": "Antonio Williams",
+      "name_key": "antonio williams",
+      "position": "WR",
+      "team": "WAS",
+      "value": 3294
+    },
+    {
+      "player_name": "Cam Ward",
+      "name_key": "cam ward",
+      "position": "QB",
+      "team": "TEN",
+      "value": 3289
+    },
+    {
       "player_name": "Rhamondre Stevenson",
       "name_key": "rhamondre stevenson",
       "position": "RB",
@@ -771,32 +785,11 @@
       "value": 3286
     },
     {
-      "player_name": "Antonio Williams",
-      "name_key": "antonio williams",
-      "position": "WR",
-      "team": "WAS",
-      "value": 3284
-    },
-    {
-      "player_name": "Cam Ward",
-      "name_key": "cam ward",
-      "position": "QB",
-      "team": "TEN",
-      "value": 3282
-    },
-    {
-      "player_name": "Alec Pierce",
-      "name_key": "alec pierce",
-      "position": "WR",
-      "team": "IND",
-      "value": 3275
-    },
-    {
       "player_name": "Daniel Jones",
       "name_key": "daniel jones",
       "position": "QB",
       "team": "IND",
-      "value": 3271
+      "value": 3284
     },
     {
       "player_name": "Braelon Allen",
@@ -806,32 +799,46 @@
       "value": 3270
     },
     {
-      "player_name": "Jonah Coleman",
-      "name_key": "jonah coleman",
-      "position": "RB",
-      "team": "DEN",
-      "value": 3247
-    },
-    {
-      "player_name": "Kyle Pitts",
-      "name_key": "kyle pitts",
-      "position": "TE",
-      "team": "ATL",
-      "value": 3245
+      "player_name": "Alec Pierce",
+      "name_key": "alec pierce",
+      "position": "WR",
+      "team": "IND",
+      "value": 3266
     },
     {
       "player_name": "Germie Bernard",
       "name_key": "germie bernard",
       "position": "WR",
       "team": "PIT",
-      "value": 3244
+      "value": 3250
+    },
+    {
+      "player_name": "Jonah Coleman",
+      "name_key": "jonah coleman",
+      "position": "RB",
+      "team": "DEN",
+      "value": 3241
+    },
+    {
+      "player_name": "Kyle Pitts",
+      "name_key": "kyle pitts",
+      "position": "TE",
+      "team": "ATL",
+      "value": 3236
     },
     {
       "player_name": "DK Metcalf",
       "name_key": "dk metcalf",
       "position": "WR",
       "team": "PIT",
-      "value": 3218
+      "value": 3224
+    },
+    {
+      "player_name": "Omar Cooper Jr.",
+      "name_key": "omar cooper jr",
+      "position": "WR",
+      "team": "NYJ",
+      "value": 3217
     },
     {
       "player_name": "Ollie Gordon II",
@@ -841,46 +848,46 @@
       "value": 3212
     },
     {
-      "player_name": "Omar Cooper Jr.",
-      "name_key": "omar cooper jr",
-      "position": "WR",
-      "team": "NYJ",
-      "value": 3211
-    },
-    {
       "player_name": "Brian Thomas Jr.",
       "name_key": "brian thomas jr",
       "position": "WR",
       "team": "JAC",
-      "value": 3188
+      "value": 3182
     },
     {
       "player_name": "Terry McLaurin",
       "name_key": "terry mclaurin",
       "position": "WR",
       "team": "WAS",
-      "value": 3164
+      "value": 3166
     },
     {
       "player_name": "Chris Bell",
       "name_key": "chris bell",
       "position": "WR",
       "team": "MIA",
-      "value": 3159
+      "value": 3156
     },
     {
       "player_name": "Ja'Kobi Lane",
       "name_key": "jakobi lane",
       "position": "WR",
       "team": "BAL",
-      "value": 3123
+      "value": 3120
     },
     {
       "player_name": "Woody Marks",
       "name_key": "woody marks",
       "position": "RB",
       "team": "HOU",
-      "value": 3089
+      "value": 3080
+    },
+    {
+      "player_name": "Malik Willis",
+      "name_key": "malik willis",
+      "position": "QB",
+      "team": "MIA",
+      "value": 3078
     },
     {
       "player_name": "Emmett Johnson",
@@ -890,45 +897,38 @@
       "value": 3078
     },
     {
-      "player_name": "Malik Willis",
-      "name_key": "malik willis",
-      "position": "QB",
-      "team": "MIA",
-      "value": 3075
-    },
-    {
       "player_name": "Brenton Strange",
       "name_key": "brenton strange",
       "position": "TE",
       "team": "JAC",
-      "value": 3075
+      "value": 3069
     },
     {
       "player_name": "Terrance Ferguson",
       "name_key": "terrance ferguson",
       "position": "TE",
       "team": "LAR",
-      "value": 3055
-    },
-    {
-      "player_name": "Keon Coleman",
-      "name_key": "keon coleman",
-      "position": "WR",
-      "team": "BUF",
-      "value": 3042
+      "value": 3061
     },
     {
       "player_name": "Xavier Worthy",
       "name_key": "xavier worthy",
       "position": "WR",
       "team": "KCC",
-      "value": 3040
+      "value": 3046
     },
     {
       "player_name": "Jacory Croskey-Merritt",
       "name_key": "jacory croskeymerritt",
       "position": "RB",
       "team": "WAS",
+      "value": 3045
+    },
+    {
+      "player_name": "Keon Coleman",
+      "name_key": "keon coleman",
+      "position": "WR",
+      "team": "BUF",
       "value": 3039
     },
     {
@@ -936,21 +936,21 @@
       "name_key": "juwan johnson",
       "position": "TE",
       "team": "NOS",
-      "value": 3020
+      "value": 3022
     },
     {
       "player_name": "Kaelon Black",
       "name_key": "kaelon black",
       "position": "RB",
       "team": "SFO",
-      "value": 3019
+      "value": 3007
     },
     {
       "player_name": "Mike Washington Jr.",
       "name_key": "mike washington jr",
       "position": "RB",
       "team": "LVR",
-      "value": 3008
+      "value": 3005
     },
     {
       "player_name": "Caleb Douglas",
@@ -964,7 +964,7 @@
       "name_key": "malachi fields",
       "position": "WR",
       "team": "NYG",
-      "value": 3003
+      "value": 3000
     },
     {
       "player_name": "Jayden Higgins",
@@ -974,81 +974,88 @@
       "value": 2973
     },
     {
-      "player_name": "Adonai Mitchell",
-      "name_key": "adonai mitchell",
-      "position": "WR",
-      "team": "NYJ",
-      "value": 2936
-    },
-    {
       "player_name": "Romeo Doubs",
       "name_key": "romeo doubs",
       "position": "WR",
       "team": "NEP",
-      "value": 2928
+      "value": 2934
+    },
+    {
+      "player_name": "Adonai Mitchell",
+      "name_key": "adonai mitchell",
+      "position": "WR",
+      "team": "NYJ",
+      "value": 2933
     },
     {
       "player_name": "Wan'Dale Robinson",
       "name_key": "wandale robinson",
       "position": "WR",
       "team": "TEN",
-      "value": 2887
+      "value": 2890
     },
     {
       "player_name": "Roman Wilson",
       "name_key": "roman wilson",
       "position": "WR",
       "team": "PIT",
-      "value": 2883
+      "value": 2880
     },
     {
       "player_name": "Jake Ferguson",
       "name_key": "jake ferguson",
       "position": "TE",
       "team": "DAL",
-      "value": 2863
-    },
-    {
-      "player_name": "Dontayvion Wicks",
-      "name_key": "dontayvion wicks",
-      "position": "WR",
-      "team": "PHI",
-      "value": 2854
+      "value": 2866
     },
     {
       "player_name": "Malik Washington",
       "name_key": "malik washington",
       "position": "WR",
       "team": "MIA",
-      "value": 2852
+      "value": 2862
+    },
+    {
+      "player_name": "Dontayvion Wicks",
+      "name_key": "dontayvion wicks",
+      "position": "WR",
+      "team": "PHI",
+      "value": 2848
     },
     {
       "player_name": "Khalil Shakir",
       "name_key": "khalil shakir",
       "position": "WR",
       "team": "BUF",
-      "value": 2833
+      "value": 2836
     },
     {
       "player_name": "Devaughn Vele",
       "name_key": "devaughn vele",
       "position": "WR",
       "team": "NOS",
-      "value": 2830
+      "value": 2824
     },
     {
       "player_name": "Travis Kelce",
       "name_key": "travis kelce",
       "position": "TE",
       "team": "KCC",
-      "value": 2807
+      "value": 2813
     },
     {
       "player_name": "Deshaun Watson",
       "name_key": "deshaun watson",
       "position": "QB",
       "team": "CLE",
-      "value": 2791
+      "value": 2795
+    },
+    {
+      "player_name": "Tyler Allgeier",
+      "name_key": "tyler allgeier",
+      "position": "RB",
+      "team": "ARI",
+      "value": 2788
     },
     {
       "player_name": "J.K. Dobbins",
@@ -1065,39 +1072,32 @@
       "value": 2783
     },
     {
-      "player_name": "Tyler Allgeier",
-      "name_key": "tyler allgeier",
-      "position": "RB",
+      "player_name": "Carson Beck",
+      "name_key": "carson beck",
+      "position": "QB",
       "team": "ARI",
-      "value": 2779
-    },
-    {
-      "player_name": "Aaron Jones",
-      "name_key": "aaron jones",
-      "position": "RB",
-      "team": "MIN",
-      "value": 2776
+      "value": 2774
     },
     {
       "player_name": "David Montgomery",
       "name_key": "david montgomery",
       "position": "RB",
       "team": "HOU",
-      "value": 2773
+      "value": 2770
     },
     {
-      "player_name": "Carson Beck",
-      "name_key": "carson beck",
-      "position": "QB",
-      "team": "ARI",
-      "value": 2771
+      "player_name": "Aaron Jones",
+      "name_key": "aaron jones",
+      "position": "RB",
+      "team": "MIN",
+      "value": 2770
     },
     {
       "player_name": "Jayden Reed",
       "name_key": "jayden reed",
       "position": "WR",
       "team": "GBP",
-      "value": 2766
+      "value": 2763
     },
     {
       "player_name": "Keaton Mitchell",
@@ -1111,14 +1111,7 @@
       "name_key": "ted hurst",
       "position": "WR",
       "team": "TBB",
-      "value": 2736
-    },
-    {
-      "player_name": "Brian Robinson",
-      "name_key": "brian robinson",
-      "position": "RB",
-      "team": "ATL",
-      "value": 2726
+      "value": 2742
     },
     {
       "player_name": "Jonathon Brooks",
@@ -1128,6 +1121,20 @@
       "value": 2724
     },
     {
+      "player_name": "Brian Robinson",
+      "name_key": "brian robinson",
+      "position": "RB",
+      "team": "ATL",
+      "value": 2723
+    },
+    {
+      "player_name": "Oronde Gadsden",
+      "name_key": "oronde gadsden",
+      "position": "TE",
+      "team": "LAC",
+      "value": 2718
+    },
+    {
       "player_name": "Tre Harris",
       "name_key": "tre harris",
       "position": "WR",
@@ -1135,24 +1142,17 @@
       "value": 2712
     },
     {
-      "player_name": "T.J. Hockenson",
-      "name_key": "tj hockenson",
-      "position": "TE",
-      "team": "MIN",
-      "value": 2709
-    },
-    {
-      "player_name": "Oronde Gadsden",
-      "name_key": "oronde gadsden",
-      "position": "TE",
-      "team": "LAC",
-      "value": 2709
-    },
-    {
       "player_name": "Pat Bryant",
       "name_key": "pat bryant",
       "position": "WR",
       "team": "DEN",
+      "value": 2710
+    },
+    {
+      "player_name": "T.J. Hockenson",
+      "name_key": "tj hockenson",
+      "position": "TE",
+      "team": "MIN",
       "value": 2707
     },
     {
@@ -1170,32 +1170,32 @@
       "value": 2704
     },
     {
-      "player_name": "Pat Freiermuth",
-      "name_key": "pat freiermuth",
-      "position": "TE",
-      "team": "PIT",
-      "value": 2701
-    },
-    {
       "player_name": "Eli Stowers",
       "name_key": "eli stowers",
       "position": "TE",
       "team": "PHI",
-      "value": 2694
+      "value": 2703
     },
     {
       "player_name": "Tony Pollard",
       "name_key": "tony pollard",
       "position": "RB",
       "team": "TEN",
-      "value": 2692
+      "value": 2701
+    },
+    {
+      "player_name": "Pat Freiermuth",
+      "name_key": "pat freiermuth",
+      "position": "TE",
+      "team": "PIT",
+      "value": 2698
     },
     {
       "player_name": "Ricky Pearsall",
       "name_key": "ricky pearsall",
       "position": "WR",
       "team": "SFO",
-      "value": 2689
+      "value": 2686
     },
     {
       "player_name": "Stefon Diggs",
@@ -1209,14 +1209,14 @@
       "name_key": "jakobi meyers",
       "position": "WR",
       "team": "JAC",
-      "value": 2674
+      "value": 2677
     },
     {
-      "player_name": "Tre Tucker",
-      "name_key": "tre tucker",
-      "position": "WR",
-      "team": "LVR",
-      "value": 2662
+      "player_name": "Dallas Goedert",
+      "name_key": "dallas goedert",
+      "position": "TE",
+      "team": "PHI",
+      "value": 2664
     },
     {
       "player_name": "Kirk Cousins",
@@ -1226,95 +1226,95 @@
       "value": 2660
     },
     {
-      "player_name": "Dallas Goedert",
-      "name_key": "dallas goedert",
-      "position": "TE",
-      "team": "PHI",
-      "value": 2659
-    },
-    {
-      "player_name": "Jacoby Brissett",
-      "name_key": "jacoby brissett",
-      "position": "QB",
-      "team": "ARI",
-      "value": 2630
-    },
-    {
-      "player_name": "Quentin Johnston",
-      "name_key": "quentin johnston",
+      "player_name": "Tre Tucker",
+      "name_key": "tre tucker",
       "position": "WR",
-      "team": "LAC",
-      "value": 2627
+      "team": "LVR",
+      "value": 2659
     },
     {
       "player_name": "Eli Raridon",
       "name_key": "eli raridon",
       "position": "TE",
       "team": "NEP",
-      "value": 2621
+      "value": 2633
+    },
+    {
+      "player_name": "Jacoby Brissett",
+      "name_key": "jacoby brissett",
+      "position": "QB",
+      "team": "ARI",
+      "value": 2623
+    },
+    {
+      "player_name": "Quentin Johnston",
+      "name_key": "quentin johnston",
+      "position": "WR",
+      "team": "LAC",
+      "value": 2623
     },
     {
       "player_name": "Rico Dowdle",
       "name_key": "rico dowdle",
       "position": "RB",
       "team": "PIT",
-      "value": 2590
-    },
-    {
-      "player_name": "Emanuel Wilson",
-      "name_key": "emanuel wilson",
-      "position": "RB",
-      "team": "SEA",
-      "value": 2579
+      "value": 2584
     },
     {
       "player_name": "MarShawn Lloyd",
       "name_key": "marshawn lloyd",
       "position": "RB",
       "team": "GBP",
-      "value": 2573
+      "value": 2576
     },
     {
-      "player_name": "Zachariah Branch",
-      "name_key": "zachariah branch",
-      "position": "WR",
-      "team": "ATL",
-      "value": 2539
+      "player_name": "Emanuel Wilson",
+      "name_key": "emanuel wilson",
+      "position": "RB",
+      "team": "SEA",
+      "value": 2570
     },
     {
       "player_name": "AJ Barner",
       "name_key": "aj barner",
       "position": "TE",
       "team": "SEA",
-      "value": 2527
+      "value": 2531
+    },
+    {
+      "player_name": "Zachariah Branch",
+      "name_key": "zachariah branch",
+      "position": "WR",
+      "team": "ATL",
+      "value": 2528
     },
     {
       "player_name": "Dylan Sampson",
       "name_key": "dylan sampson",
       "position": "RB",
       "team": "CLE",
-      "value": 2520
+      "value": 2527
     },
     {
       "player_name": "Jalon Daniels",
       "name_key": "jalon daniels",
       "position": "QB",
       "team": "TBB",
-      "value": 2502
+      "value": 2499
     },
     {
       "player_name": "Jaylin Noel",
       "name_key": "jaylin noel",
       "position": "WR",
       "team": "HOU",
-      "value": 2495
+      "value": 2498
     },
     {
       "player_name": "Michael Pittman",
       "name_key": "michael pittman",
       "position": "WR",
       "team": "PIT",
-      "value": 2490
+      "value": 2488
     },
     {
       "player_name": "Chris Godwin",
@@ -1328,21 +1328,21 @@
       "name_key": "isaac teslaa",
       "position": "WR",
       "team": "DET",
-      "value": 2482
+      "value": 2476
     },
     {
       "player_name": "Kendre Miller",
       "name_key": "kendre miller",
       "position": "RB",
       "team": "NOS",
-      "value": 2475
+      "value": 2472
     },
     {
       "player_name": "Kimani Vidal",
       "name_key": "kimani vidal",
       "position": "RB",
       "team": "LAC",
-      "value": 2475
+      "value": 2472
     },
     {
       "player_name": "Mark Andrews",
@@ -1356,7 +1356,7 @@
       "name_key": "tyjae spears",
       "position": "RB",
       "team": "TEN",
-      "value": 2462
+      "value": 2459
     },
     {
       "player_name": "Kenneth Gainwell",
@@ -1370,21 +1370,21 @@
       "name_key": "dalton schultz",
       "position": "TE",
       "team": "HOU",
-      "value": 2452
+      "value": 2449
     },
     {
       "player_name": "Nicholas Singleton",
       "name_key": "nicholas singleton",
       "position": "RB",
       "team": "TEN",
-      "value": 2450
+      "value": 2444
     },
     {
       "player_name": "Jalen McMillan",
       "name_key": "jalen mcmillan",
       "position": "WR",
       "team": "TBB",
-      "value": 2436
+      "value": 2442
     },
     {
       "player_name": "Tank Bigsby",
@@ -1398,28 +1398,28 @@
       "name_key": "geno smith",
       "position": "QB",
       "team": "NYJ",
-      "value": 2419
+      "value": 2422
     },
     {
       "player_name": "Rashid Shaheed",
       "name_key": "rashid shaheed",
       "position": "WR",
       "team": "SEA",
-      "value": 2417
+      "value": 2420
     },
     {
       "player_name": "Rashod Bateman",
       "name_key": "rashod bateman",
       "position": "WR",
       "team": "BAL",
-      "value": 2399
+      "value": 2395
     },
     {
       "player_name": "Courtland Sutton",
       "name_key": "courtland sutton",
       "position": "WR",
       "team": "DEN",
-      "value": 2395
+      "value": 2392
     },
     {
       "player_name": "Rachaad White",
@@ -1433,42 +1433,42 @@
       "name_key": "drew allar",
       "position": "QB",
       "team": "PIT",
-      "value": 2357
+      "value": 2358
     },
     {
       "player_name": "Cyrus Allen",
       "name_key": "cyrus allen",
       "position": "WR",
       "team": "KCC",
-      "value": 2334
+      "value": 2337
     },
     {
       "player_name": "Tank Dell",
       "name_key": "tank dell",
       "position": "WR",
       "team": "HOU",
-      "value": 2291
+      "value": 2288
     },
     {
       "player_name": "Kayshon Boutte",
       "name_key": "kayshon boutte",
       "position": "WR",
       "team": "HOU",
-      "value": 2288
-    },
-    {
-      "player_name": "Hunter Henry",
-      "name_key": "hunter henry",
-      "position": "TE",
-      "team": "NEP",
-      "value": 2268
+      "value": 2282
     },
     {
       "player_name": "Mac Jones",
       "name_key": "mac jones",
       "position": "QB",
       "team": "SFO",
-      "value": 2262
+      "value": 2268
+    },
+    {
+      "player_name": "Hunter Henry",
+      "name_key": "hunter henry",
+      "position": "TE",
+      "team": "NEP",
+      "value": 2265
     },
     {
       "player_name": "Jaylen Wright",
@@ -1482,7 +1482,7 @@
       "name_key": "shedeur sanders",
       "position": "QB",
       "team": "CLE",
-      "value": 2214
+      "value": 2217
     },
     {
       "player_name": "Kevin Coleman",
@@ -1492,151 +1492,144 @@
       "value": 2210
     },
     {
+      "player_name": "Elijah Sarratt",
+      "name_key": "elijah sarratt",
+      "position": "WR",
+      "team": "BAL",
+      "value": 2202
+    },
+    {
       "player_name": "Chris Rodriguez",
       "name_key": "chris rodriguez",
       "position": "RB",
       "team": "JAC",
-      "value": 2202
+      "value": 2199
     },
     {
       "player_name": "Ryan Flournoy",
       "name_key": "ryan flournoy",
       "position": "WR",
       "team": "DAL",
-      "value": 2200
-    },
-    {
-      "player_name": "Elijah Sarratt",
-      "name_key": "elijah sarratt",
-      "position": "WR",
-      "team": "BAL",
-      "value": 2199
+      "value": 2197
     },
     {
       "player_name": "Demario Douglas",
       "name_key": "demario douglas",
       "position": "WR",
       "team": "NEP",
-      "value": 2185
+      "value": 2191
     },
     {
       "player_name": "J.J. McCarthy",
       "name_key": "jj mccarthy",
       "position": "QB",
       "team": "NYG",
-      "value": 2176
-    },
-    {
-      "player_name": "Aaron Rodgers",
-      "name_key": "aaron rodgers",
-      "position": "QB",
-      "team": "PIT",
-      "value": 2167
-    },
-    {
-      "player_name": "Darnell Washington",
-      "name_key": "darnell washington",
-      "position": "TE",
-      "team": "PIT",
-      "value": 2161
+      "value": 2170
     },
     {
       "player_name": "Chigoziem Okonkwo",
       "name_key": "chigoziem okonkwo",
       "position": "TE",
       "team": "WAS",
-      "value": 2156
+      "value": 2167
     },
     {
-      "player_name": "Jack Bech",
-      "name_key": "jack bech",
-      "position": "WR",
-      "team": "LVR",
-      "value": 2144
+      "player_name": "Aaron Rodgers",
+      "name_key": "aaron rodgers",
+      "position": "QB",
+      "team": "PIT",
+      "value": 2164
     },
     {
-      "player_name": "Tory Horton",
-      "name_key": "tory horton",
-      "position": "WR",
-      "team": "SEA",
-      "value": 2143
-    },
-    {
-      "player_name": "Elic Ayomanor",
-      "name_key": "elic ayomanor",
-      "position": "WR",
-      "team": "TEN",
-      "value": 2141
+      "player_name": "Darnell Washington",
+      "name_key": "darnell washington",
+      "position": "TE",
+      "team": "PIT",
+      "value": 2149
     },
     {
       "player_name": "Troy Franklin",
       "name_key": "troy franklin",
       "position": "WR",
       "team": "DEN",
-      "value": 2136
+      "value": 2145
     },
     {
       "player_name": "Jameis Winston",
       "name_key": "jameis winston",
       "position": "QB",
       "team": "NYG",
-      "value": 2135
+      "value": 2144
+    },
+    {
+      "player_name": "Elic Ayomanor",
+      "name_key": "elic ayomanor",
+      "position": "WR",
+      "team": "TEN",
+      "value": 2144
+    },
+    {
+      "player_name": "Jack Bech",
+      "name_key": "jack bech",
+      "position": "WR",
+      "team": "LVR",
+      "value": 2138
+    },
+    {
+      "player_name": "Tory Horton",
+      "name_key": "tory horton",
+      "position": "WR",
+      "team": "SEA",
+      "value": 2134
     },
     {
       "player_name": "Kyle Williams",
       "name_key": "kyle williams",
       "position": "WR",
       "team": "NEP",
-      "value": 2125
+      "value": 2124
     },
     {
-      "player_name": "Darius Cooper",
-      "name_key": "darius cooper",
-      "position": "WR",
+      "player_name": "Tanner McKee",
+      "name_key": "tanner mckee",
+      "position": "QB",
       "team": "PHI",
-      "value": 2115
-    },
-    {
-      "player_name": "Alvin Kamara",
-      "name_key": "alvin kamara",
-      "position": "RB",
-      "team": "NOS",
-      "value": 2112
-    },
-    {
-      "player_name": "Chris Brazzell II",
-      "name_key": "chris brazzell ii",
-      "position": "WR",
-      "team": "CAR",
-      "value": 2112
+      "value": 2111
     },
     {
       "player_name": "Travis Hunter",
       "name_key": "travis hunter",
       "position": "WR",
       "team": "JAC",
-      "value": 2101
+      "value": 2110
+    },
+    {
+      "player_name": "Darius Cooper",
+      "name_key": "darius cooper",
+      "position": "WR",
+      "team": "PHI",
+      "value": 2109
+    },
+    {
+      "player_name": "Chris Brazzell II",
+      "name_key": "chris brazzell ii",
+      "position": "WR",
+      "team": "CAR",
+      "value": 2109
+    },
+    {
+      "player_name": "Alvin Kamara",
+      "name_key": "alvin kamara",
+      "position": "RB",
+      "team": "NOS",
+      "value": 2106
     },
     {
       "player_name": "Tyquan Thornton",
       "name_key": "tyquan thornton",
       "position": "WR",
       "team": "KCC",
-      "value": 2092
-    },
-    {
-      "player_name": "Mason Taylor",
-      "name_key": "mason taylor",
-      "position": "TE",
-      "team": "NYJ",
-      "value": 2080
-    },
-    {
-      "player_name": "Demond Claiborne",
-      "name_key": "demond claiborne",
-      "position": "RB",
-      "team": "MIN",
-      "value": 2080
+      "value": 2086
     },
     {
       "player_name": "Cade Otton",
@@ -1646,25 +1639,32 @@
       "value": 2076
     },
     {
-      "player_name": "Tanner McKee",
-      "name_key": "tanner mckee",
-      "position": "QB",
-      "team": "PHI",
-      "value": 2069
+      "player_name": "Mason Taylor",
+      "name_key": "mason taylor",
+      "position": "TE",
+      "team": "NYJ",
+      "value": 2074
+    },
+    {
+      "player_name": "Demond Claiborne",
+      "name_key": "demond claiborne",
+      "position": "RB",
+      "team": "MIN",
+      "value": 2071
     },
     {
       "player_name": "Kaleb Johnson",
       "name_key": "kaleb johnson",
       "position": "RB",
       "team": "GBP",
-      "value": 2049
+      "value": 2031
     },
     {
       "player_name": "Mike Gesicki",
       "name_key": "mike gesicki",
       "position": "TE",
       "team": "CIN",
-      "value": 2035
+      "value": 2026
     },
     {
       "player_name": "Gunnar Helm",
@@ -1678,14 +1678,14 @@
       "name_key": "skyler bell",
       "position": "WR",
       "team": "BUF",
-      "value": 2013
+      "value": 2020
     },
     {
       "player_name": "Elijah Arroyo",
       "name_key": "elijah arroyo",
       "position": "TE",
       "team": "SEA",
-      "value": 2002
+      "value": 2006
     },
     {
       "player_name": "Josh Cameron",
@@ -1699,84 +1699,84 @@
       "name_key": "jalen milroe",
       "position": "QB",
       "team": "SEA",
-      "value": 1977
+      "value": 1974
     },
     {
       "player_name": "Tez Johnson",
       "name_key": "tez johnson",
       "position": "WR",
       "team": "TBB",
-      "value": 1977
-    },
-    {
-      "player_name": "Will Shipley",
-      "name_key": "will shipley",
-      "position": "RB",
-      "team": "PHI",
-      "value": 1964
-    },
-    {
-      "player_name": "Raheim Sanders",
-      "name_key": "raheim sanders",
-      "position": "RB",
-      "team": "CLE",
-      "value": 1952
+      "value": 1969
     },
     {
       "player_name": "Seth McGowan",
       "name_key": "seth mcgowan",
       "position": "RB",
       "team": "IND",
-      "value": 1952
+      "value": 1958
     },
     {
-      "player_name": "Xavier Hutchinson",
-      "name_key": "xavier hutchinson",
-      "position": "WR",
-      "team": "HOU",
-      "value": 1946
+      "player_name": "Will Shipley",
+      "name_key": "will shipley",
+      "position": "RB",
+      "team": "PHI",
+      "value": 1955
+    },
+    {
+      "player_name": "Raheim Sanders",
+      "name_key": "raheim sanders",
+      "position": "RB",
+      "team": "CLE",
+      "value": 1949
     },
     {
       "player_name": "Sean Tucker",
       "name_key": "sean tucker",
       "position": "RB",
       "team": "TBB",
-      "value": 1943
+      "value": 1940
+    },
+    {
+      "player_name": "Xavier Hutchinson",
+      "name_key": "xavier hutchinson",
+      "position": "WR",
+      "team": "HOU",
+      "value": 1940
     },
     {
       "player_name": "Isaiah Bond",
       "name_key": "isaiah bond",
       "position": "WR",
       "team": "CLE",
-      "value": 1928
-    },
-    {
-      "player_name": "Zavion Thomas",
-      "name_key": "zavion thomas",
-      "position": "WR",
-      "team": "CHI",
-      "value": 1925
-    },
-    {
-      "player_name": "Colby Parkinson",
-      "name_key": "colby parkinson",
-      "position": "TE",
-      "team": "LAR",
-      "value": 1923
+      "value": 1934
     },
     {
       "player_name": "Darren Waller",
       "name_key": "darren waller",
       "position": "TE",
       "team": "CAR",
-      "value": 1917
+      "value": 1923
     },
     {
       "player_name": "Max Klare",
       "name_key": "max klare",
       "position": "TE",
       "team": "LAR",
-      "value": 1917
+      "value": 1923
+    },
+    {
+      "player_name": "Zavion Thomas",
+      "name_key": "zavion thomas",
+      "position": "WR",
+      "team": "CHI",
+      "value": 1922
+    },
+    {
+      "player_name": "Colby Parkinson",
+      "name_key": "colby parkinson",
+      "position": "TE",
+      "team": "LAR",
+      "value": 1920
     },
     {
       "player_name": "Jalen Nailor",
@@ -1790,14 +1790,14 @@
       "name_key": "jaylin lane",
       "position": "WR",
       "team": "WAS",
-      "value": 1907
+      "value": 1904
     },
     {
       "player_name": "Dohnte Meyers",
       "name_key": "dohnte meyers",
       "position": "WR",
       "team": "CIN",
-      "value": 1901
+      "value": 1898
     },
     {
       "player_name": "Cole Kmet",
@@ -1805,13 +1805,6 @@
       "position": "TE",
       "team": "CHI",
       "value": 1897
-    },
-    {
-      "player_name": "Cade Klubnik",
-      "name_key": "cade klubnik",
-      "position": "QB",
-      "team": "NYJ",
-      "value": 1895
     },
     {
       "player_name": "Tyler Higbee",
@@ -1825,6 +1818,13 @@
       "name_key": "bryce lance",
       "position": "WR",
       "team": "NOS",
+      "value": 1892
+    },
+    {
+      "player_name": "Cade Klubnik",
+      "name_key": "cade klubnik",
+      "position": "QB",
+      "team": "NYJ",
       "value": 1889
     },
     {
@@ -1832,7 +1832,7 @@
       "name_key": "kaytron allen",
       "position": "RB",
       "team": "MIA",
-      "value": 1880
+      "value": 1877
     },
     {
       "player_name": "Oscar Delp",
@@ -1846,7 +1846,7 @@
       "name_key": "kalif raymond",
       "position": "WR",
       "team": "CHI",
-      "value": 1867
+      "value": 1864
     },
     {
       "player_name": "Chimere Dike",
@@ -1860,14 +1860,14 @@
       "name_key": "marvin mims",
       "position": "WR",
       "team": "DEN",
-      "value": 1841
+      "value": 1844
     },
     {
       "player_name": "Drew Lock",
       "name_key": "drew lock",
       "position": "QB",
       "team": "SEA",
-      "value": 1840
+      "value": 1837
     },
     {
       "player_name": "Kendrick Bourne",
@@ -1877,25 +1877,25 @@
       "value": 1834
     },
     {
+      "player_name": "Jerry Jeudy",
+      "name_key": "jerry jeudy",
+      "position": "WR",
+      "team": "CLE",
+      "value": 1833
+    },
+    {
       "player_name": "Greg Dulcich",
       "name_key": "greg dulcich",
       "position": "TE",
       "team": "MIA",
-      "value": 1829
+      "value": 1826
     },
     {
       "player_name": "George Holani",
       "name_key": "george holani",
       "position": "RB",
       "team": "SEA",
-      "value": 1829
-    },
-    {
-      "player_name": "Jerry Jeudy",
-      "name_key": "jerry jeudy",
-      "position": "WR",
-      "team": "CLE",
-      "value": 1827
+      "value": 1826
     },
     {
       "player_name": "Adam Randall",
@@ -1926,67 +1926,67 @@
       "value": 1804
     },
     {
-      "player_name": "Xavier Legette",
-      "name_key": "xavier legette",
-      "position": "WR",
-      "team": "CAR",
-      "value": 1802
-    },
-    {
       "player_name": "Jalen Royals",
       "name_key": "jalen royals",
       "position": "WR",
       "team": "KCC",
-      "value": 1801
+      "value": 1804
+    },
+    {
+      "player_name": "Xavier Legette",
+      "name_key": "xavier legette",
+      "position": "WR",
+      "team": "CAR",
+      "value": 1803
     },
     {
       "player_name": "Dawson Knox",
       "name_key": "dawson knox",
       "position": "TE",
       "team": "BUF",
-      "value": 1796
+      "value": 1802
     },
     {
       "player_name": "Tyson Bagent",
       "name_key": "tyson bagent",
       "position": "QB",
       "team": "CHI",
-      "value": 1789
-    },
-    {
-      "player_name": "Konata Mumpfield",
-      "name_key": "konata mumpfield",
-      "position": "WR",
-      "team": "LAR",
-      "value": 1782
+      "value": 1786
     },
     {
       "player_name": "Marcus Mariota",
       "name_key": "marcus mariota",
       "position": "QB",
       "team": "WAS",
-      "value": 1778
+      "value": 1781
+    },
+    {
+      "player_name": "Konata Mumpfield",
+      "name_key": "konata mumpfield",
+      "position": "WR",
+      "team": "LAR",
+      "value": 1779
     },
     {
       "player_name": "Isaiah Davis",
       "name_key": "isaiah davis",
       "position": "RB",
       "team": "NYJ",
-      "value": 1775
+      "value": 1778
     },
     {
       "player_name": "Theo Johnson",
       "name_key": "theo johnson",
       "position": "TE",
       "team": "NYG",
-      "value": 1764
+      "value": 1758
     },
     {
       "player_name": "Jordan James",
       "name_key": "jordan james",
       "position": "RB",
       "team": "SFO",
-      "value": 1730
+      "value": 1727
     },
     {
       "player_name": "Dont'e Thornton",
@@ -2000,42 +2000,35 @@
       "name_key": "tyrone tracy",
       "position": "RB",
       "team": "NYG",
-      "value": 1687
+      "value": 1690
     },
     {
       "player_name": "Keenan Allen",
       "name_key": "keenan allen",
       "position": "WR",
       "team": "IND",
-      "value": 1684
+      "value": 1688
     },
     {
       "player_name": "Jahan Dotson",
       "name_key": "jahan dotson",
       "position": "WR",
       "team": "ATL",
-      "value": 1684
+      "value": 1687
     },
     {
       "player_name": "Trevor Etienne",
       "name_key": "trevor etienne",
       "position": "RB",
       "team": "CAR",
-      "value": 1679
-    },
-    {
-      "player_name": "LeQuint Allen",
-      "name_key": "lequint allen",
-      "position": "RB",
-      "team": "JAC",
-      "value": 1674
+      "value": 1682
     },
     {
       "player_name": "Efton Chism",
       "name_key": "efton chism",
       "position": "WR",
       "team": "NEP",
-      "value": 1674
+      "value": 1677
     },
     {
       "player_name": "Jauan Jennings",
@@ -2045,25 +2038,32 @@
       "value": 1671
     },
     {
-      "player_name": "Justice Hill",
-      "name_key": "justice hill",
+      "player_name": "LeQuint Allen",
+      "name_key": "lequint allen",
       "position": "RB",
-      "team": "BAL",
-      "value": 1665
+      "team": "JAC",
+      "value": 1671
     },
     {
       "player_name": "Will Howard",
       "name_key": "will howard",
       "position": "QB",
       "team": "PIT",
-      "value": 1661
+      "value": 1664
+    },
+    {
+      "player_name": "Justice Hill",
+      "name_key": "justice hill",
+      "position": "RB",
+      "team": "BAL",
+      "value": 1662
     },
     {
       "player_name": "Tyler Huntley",
       "name_key": "tyler huntley",
       "position": "QB",
       "team": "BAL",
-      "value": 1640
+      "value": 1646
     },
     {
       "player_name": "Joshua Palmer",
@@ -2077,49 +2077,49 @@
       "name_key": "mack hollins",
       "position": "WR",
       "team": "NEP",
-      "value": 1634
-    },
-    {
-      "player_name": "Cooper Kupp",
-      "name_key": "cooper kupp",
-      "position": "WR",
-      "team": "SEA",
-      "value": 1607
+      "value": 1631
     },
     {
       "player_name": "Matthew Hibner",
       "name_key": "matthew hibner",
       "position": "TE",
       "team": "BAL",
-      "value": 1593
+      "value": 1596
     },
     {
-      "player_name": "Roschon Johnson",
-      "name_key": "roschon johnson",
-      "position": "RB",
-      "team": "CHI",
-      "value": 1572
+      "player_name": "Cooper Kupp",
+      "name_key": "cooper kupp",
+      "position": "WR",
+      "team": "SEA",
+      "value": 1595
     },
     {
       "player_name": "Brenen Thompson",
       "name_key": "brenen thompson",
       "position": "WR",
       "team": "LAC",
-      "value": 1567
+      "value": 1570
+    },
+    {
+      "player_name": "Roschon Johnson",
+      "name_key": "roschon johnson",
+      "position": "RB",
+      "team": "CHI",
+      "value": 1569
     },
     {
       "player_name": "Eli Heidenreich",
       "name_key": "eli heidenreich",
       "position": "RB",
       "team": "PIT",
-      "value": 1558
+      "value": 1564
     },
     {
       "player_name": "David Njoku",
       "name_key": "david njoku",
       "position": "TE",
       "team": "LAC",
-      "value": 1557
+      "value": 1560
     },
     {
       "player_name": "DJ Giddens",
@@ -2133,7 +2133,7 @@
       "name_key": "brashard smith",
       "position": "RB",
       "team": "KCC",
-      "value": 1548
+      "value": 1551
     },
     {
       "player_name": "Najee Harris",
@@ -2147,70 +2147,70 @@
       "name_key": "tyreek hill",
       "position": "WR",
       "team": "FA",
-      "value": 1512
+      "value": 1509
     },
     {
       "player_name": "Isiah Pacheco",
       "name_key": "isiah pacheco",
       "position": "RB",
       "team": "DET",
-      "value": 1501
+      "value": 1504
     },
     {
       "player_name": "Barion Brown",
       "name_key": "barion brown",
       "position": "WR",
       "team": "NOS",
-      "value": 1497
+      "value": 1494
     },
     {
       "player_name": "Treylon Burks",
       "name_key": "treylon burks",
       "position": "WR",
       "team": "WAS",
-      "value": 1490
-    },
-    {
-      "player_name": "Tua Tagovailoa",
-      "name_key": "tua tagovailoa",
-      "position": "QB",
-      "team": "ATL",
-      "value": 1486
-    },
-    {
-      "player_name": "Ty Johnson",
-      "name_key": "ty johnson",
-      "position": "RB",
-      "team": "BUF",
-      "value": 1482
+      "value": 1487
     },
     {
       "player_name": "Jake Tonges",
       "name_key": "jake tonges",
       "position": "TE",
       "team": "SFO",
-      "value": 1480
-    },
-    {
-      "player_name": "Malik Benson",
-      "name_key": "malik benson",
-      "position": "WR",
-      "team": "LVR",
-      "value": 1480
+      "value": 1483
     },
     {
       "player_name": "Trey Benson",
       "name_key": "trey benson",
       "position": "RB",
       "team": "ARI",
-      "value": 1475
+      "value": 1481
+    },
+    {
+      "player_name": "Tua Tagovailoa",
+      "name_key": "tua tagovailoa",
+      "position": "QB",
+      "team": "ATL",
+      "value": 1477
+    },
+    {
+      "player_name": "Malik Benson",
+      "name_key": "malik benson",
+      "position": "WR",
+      "team": "LVR",
+      "value": 1477
+    },
+    {
+      "player_name": "Ty Johnson",
+      "name_key": "ty johnson",
+      "position": "RB",
+      "team": "BUF",
+      "value": 1473
     },
     {
       "player_name": "Devontez Walker",
       "name_key": "devontez walker",
       "position": "WR",
       "team": "BAL",
-      "value": 1473
+      "value": 1471
     },
     {
       "player_name": "Noah Gray",
@@ -2220,6 +2220,13 @@
       "value": 1463
     },
     {
+      "player_name": "Darnell Mooney",
+      "name_key": "darnell mooney",
+      "position": "WR",
+      "team": "NYG",
+      "value": 1449
+    },
+    {
       "player_name": "Noah Fant",
       "name_key": "noah fant",
       "position": "TE",
@@ -2227,31 +2234,24 @@
       "value": 1448
     },
     {
-      "player_name": "Darnell Mooney",
-      "name_key": "darnell mooney",
-      "position": "WR",
-      "team": "NYG",
-      "value": 1440
-    },
-    {
       "player_name": "Samaje Perine",
       "name_key": "samaje perine",
       "position": "RB",
       "team": "CIN",
-      "value": 1431
-    },
-    {
-      "player_name": "Ja'Tavion Sanders",
-      "name_key": "jatavion sanders",
-      "position": "TE",
-      "team": "CAR",
-      "value": 1417
+      "value": 1434
     },
     {
       "player_name": "Justin Fields",
       "name_key": "justin fields",
       "position": "QB",
       "team": "KCC",
+      "value": 1420
+    },
+    {
+      "player_name": "Ja'Tavion Sanders",
+      "name_key": "jatavion sanders",
+      "position": "TE",
+      "team": "CAR",
       "value": 1414
     },
     {
@@ -2259,7 +2259,7 @@
       "name_key": "chris brooks",
       "position": "RB",
       "team": "GBP",
-      "value": 1412
+      "value": 1409
     },
     {
       "player_name": "Andrei Iosivas",
@@ -2280,28 +2280,28 @@
       "name_key": "jaleel mclaughlin",
       "position": "RB",
       "team": "CLE",
-      "value": 1401
+      "value": 1404
     },
     {
       "player_name": "Joe Milton",
       "name_key": "joe milton",
       "position": "QB",
       "team": "PHI",
-      "value": 1383
+      "value": 1386
     },
     {
       "player_name": "Sione Vaki",
       "name_key": "sione vaki",
       "position": "RB",
       "team": "DET",
-      "value": 1368
+      "value": 1371
     },
     {
       "player_name": "Christian Kirk",
       "name_key": "christian kirk",
       "position": "WR",
       "team": "SFO",
-      "value": 1363
+      "value": 1354
     },
     {
       "player_name": "Taylen Green",
@@ -2329,13 +2329,6 @@
       "name_key": "jahdae walker",
       "position": "WR",
       "team": "CHI",
-      "value": 1323
-    },
-    {
-      "player_name": "Carson Wentz",
-      "name_key": "carson wentz",
-      "position": "QB",
-      "team": "MIN",
       "value": 1317
     },
     {
@@ -2343,14 +2336,28 @@
       "name_key": "garrett nussmeier",
       "position": "QB",
       "team": "KCC",
-      "value": 1313
+      "value": 1316
+    },
+    {
+      "player_name": "Carson Wentz",
+      "name_key": "carson wentz",
+      "position": "QB",
+      "team": "MIN",
+      "value": 1303
     },
     {
       "player_name": "Jaydon Blue",
       "name_key": "jaydon blue",
       "position": "RB",
       "team": "PHI",
-      "value": 1296
+      "value": 1297
+    },
+    {
+      "player_name": "Deion Burks",
+      "name_key": "deion burks",
+      "position": "WR",
+      "team": "IND",
+      "value": 1294
     },
     {
       "player_name": "Devin Neal",
@@ -2360,25 +2367,18 @@
       "value": 1293
     },
     {
-      "player_name": "Deion Burks",
-      "name_key": "deion burks",
-      "position": "WR",
-      "team": "IND",
-      "value": 1288
+      "player_name": "Dameon Pierce",
+      "name_key": "dameon pierce",
+      "position": "RB",
+      "team": "PHI",
+      "value": 1287
     },
     {
       "player_name": "Malik Davis",
       "name_key": "malik davis",
       "position": "RB",
       "team": "DAL",
-      "value": 1283
-    },
-    {
-      "player_name": "Dameon Pierce",
-      "name_key": "dameon pierce",
-      "position": "RB",
-      "team": "PHI",
-      "value": 1278
+      "value": 1280
     },
     {
       "player_name": "Justin Joly",
@@ -2395,6 +2395,13 @@
       "value": 1271
     },
     {
+      "player_name": "Tutu Atwell",
+      "name_key": "tutu atwell",
+      "position": "WR",
+      "team": "LAR",
+      "value": 1268
+    },
+    {
       "player_name": "Marlin Klein",
       "name_key": "marlin klein",
       "position": "TE",
@@ -2402,46 +2409,39 @@
       "value": 1267
     },
     {
-      "player_name": "Tutu Atwell",
-      "name_key": "tutu atwell",
-      "position": "WR",
-      "team": "LAR",
-      "value": 1265
-    },
-    {
       "player_name": "Tommy Tremble",
       "name_key": "tommy tremble",
       "position": "TE",
       "team": "CAR",
-      "value": 1260
+      "value": 1263
     },
     {
       "player_name": "Tahj Brooks",
       "name_key": "tahj brooks",
       "position": "RB",
       "team": "CIN",
-      "value": 1260
+      "value": 1263
     },
     {
       "player_name": "Colbie Young",
       "name_key": "colbie young",
       "position": "WR",
       "team": "CIN",
-      "value": 1258
+      "value": 1261
     },
     {
       "player_name": "Jordan Whittington",
       "name_key": "jordan whittington",
       "position": "WR",
       "team": "LAR",
-      "value": 1257
+      "value": 1260
     },
     {
       "player_name": "Ben Sinnott",
       "name_key": "ben sinnott",
       "position": "TE",
       "team": "WAS",
-      "value": 1257
+      "value": 1260
     },
     {
       "player_name": "Jalen Tolbert",
@@ -2451,25 +2451,18 @@
       "value": 1254
     },
     {
-      "player_name": "Riley Leonard",
-      "name_key": "riley leonard",
-      "position": "QB",
-      "team": "IND",
-      "value": 1250
-    },
-    {
-      "player_name": "Luke McCaffrey",
-      "name_key": "luke mccaffrey",
-      "position": "WR",
-      "team": "WAS",
-      "value": 1247
-    },
-    {
       "player_name": "Dyami Brown",
       "name_key": "dyami brown",
       "position": "WR",
       "team": "WAS",
-      "value": 1246
+      "value": 1249
+    },
+    {
+      "player_name": "Riley Leonard",
+      "name_key": "riley leonard",
+      "position": "QB",
+      "team": "IND",
+      "value": 1248
     },
     {
       "player_name": "Charlie Kolar",
@@ -2483,21 +2476,21 @@
       "name_key": "skyy moore",
       "position": "WR",
       "team": "GBP",
-      "value": 1241
+      "value": 1238
+    },
+    {
+      "player_name": "Luke McCaffrey",
+      "name_key": "luke mccaffrey",
+      "position": "WR",
+      "team": "WAS",
+      "value": 1238
     },
     {
       "player_name": "Jacob Cowing",
       "name_key": "jacob cowing",
       "position": "WR",
       "team": "SFO",
-      "value": 1235
-    },
-    {
-      "player_name": "Devin Singletary",
-      "name_key": "devin singletary",
-      "position": "RB",
-      "team": "NYG",
-      "value": 1220
+      "value": 1232
     },
     {
       "player_name": "Jordan Watkins",
@@ -2507,11 +2500,18 @@
       "value": 1220
     },
     {
+      "player_name": "Devin Singletary",
+      "name_key": "devin singletary",
+      "position": "RB",
+      "team": "NYG",
+      "value": 1214
+    },
+    {
       "player_name": "Jack Strand",
       "name_key": "jack strand",
       "position": "QB",
       "team": "ATL",
-      "value": 1215
+      "value": 1212
     },
     {
       "player_name": "Audric Estime",
@@ -2546,14 +2546,7 @@
       "name_key": "erick all",
       "position": "TE",
       "team": "CIN",
-      "value": 1178
-    },
-    {
-      "player_name": "Jarquez Hunter",
-      "name_key": "jarquez hunter",
-      "position": "RB",
-      "team": "NOS",
-      "value": 1176
+      "value": 1181
     },
     {
       "player_name": "Malachi Corley",
@@ -2563,25 +2556,32 @@
       "value": 1174
     },
     {
-      "player_name": "Kameron Johnson",
-      "name_key": "kameron johnson",
-      "position": "WR",
-      "team": "TBB",
-      "value": 1168
+      "player_name": "Jarquez Hunter",
+      "name_key": "jarquez hunter",
+      "position": "RB",
+      "team": "NOS",
+      "value": 1173
     },
     {
       "player_name": "James Conner",
       "name_key": "james conner",
       "position": "RB",
       "team": "ARI",
-      "value": 1147
+      "value": 1165
     },
     {
-      "player_name": "Mitchell Evans",
-      "name_key": "mitchell evans",
-      "position": "TE",
-      "team": "CAR",
-      "value": 1140
+      "player_name": "Kameron Johnson",
+      "name_key": "kameron johnson",
+      "position": "WR",
+      "team": "TBB",
+      "value": 1162
+    },
+    {
+      "player_name": "Trey Palmer",
+      "name_key": "trey palmer",
+      "position": "WR",
+      "team": "NOS",
+      "value": 1142
     },
     {
       "player_name": "Cedric Tillman",
@@ -2591,11 +2591,11 @@
       "value": 1139
     },
     {
-      "player_name": "Trey Palmer",
-      "name_key": "trey palmer",
-      "position": "WR",
-      "team": "NOS",
-      "value": 1139
+      "player_name": "Mitchell Evans",
+      "name_key": "mitchell evans",
+      "position": "TE",
+      "team": "CAR",
+      "value": 1134
     },
     {
       "player_name": "Tyler Goodson",
@@ -2605,13 +2605,6 @@
       "value": 1124
     },
     {
-      "player_name": "Dillon Gabriel",
-      "name_key": "dillon gabriel",
-      "position": "QB",
-      "team": "CLE",
-      "value": 1122
-    },
-    {
       "player_name": "Olamide Zaccheaus",
       "name_key": "olamide zaccheaus",
       "position": "WR",
@@ -2619,32 +2612,39 @@
       "value": 1119
     },
     {
+      "player_name": "Dillon Gabriel",
+      "name_key": "dillon gabriel",
+      "position": "QB",
+      "team": "CLE",
+      "value": 1119
+    },
+    {
       "player_name": "CJ Daniels",
       "name_key": "cj daniels",
       "position": "WR",
       "team": "LAR",
-      "value": 1113
-    },
-    {
-      "player_name": "Jack Endries",
-      "name_key": "jack endries",
-      "position": "TE",
-      "team": "CIN",
-      "value": 1113
+      "value": 1119
     },
     {
       "player_name": "Demarcus Robinson",
       "name_key": "demarcus robinson",
       "position": "WR",
       "team": "SFO",
-      "value": 1111
+      "value": 1114
+    },
+    {
+      "player_name": "Jack Endries",
+      "name_key": "jack endries",
+      "position": "TE",
+      "team": "CIN",
+      "value": 1112
     },
     {
       "player_name": "J'Mari Taylor",
       "name_key": "jmari taylor",
       "position": "RB",
       "team": "JAC",
-      "value": 1107
+      "value": 1104
     },
     {
       "player_name": "Austin Ekeler",
@@ -2658,7 +2658,7 @@
       "name_key": "kavontae turpin",
       "position": "WR",
       "team": "DAL",
-      "value": 1089
+      "value": 1092
     },
     {
       "player_name": "Tyler Badie",
@@ -2668,32 +2668,32 @@
       "value": 1082
     },
     {
-      "player_name": "Cade Stover",
-      "name_key": "cade stover",
-      "position": "TE",
-      "team": "HOU",
-      "value": 1080
-    },
-    {
       "player_name": "Jacob Saylors",
       "name_key": "jacob saylors",
       "position": "RB",
       "team": "DET",
-      "value": 1079
+      "value": 1082
     },
     {
-      "player_name": "Isaac Guerendo",
-      "name_key": "isaac guerendo",
-      "position": "RB",
-      "team": "SFO",
-      "value": 1076
+      "player_name": "Cade Stover",
+      "name_key": "cade stover",
+      "position": "TE",
+      "team": "HOU",
+      "value": 1077
     },
     {
       "player_name": "Calvin Ridley",
       "name_key": "calvin ridley",
       "position": "WR",
       "team": "TEN",
-      "value": 1070
+      "value": 1076
+    },
+    {
+      "player_name": "Isaac Guerendo",
+      "name_key": "isaac guerendo",
+      "position": "RB",
+      "team": "SFO",
+      "value": 1073
     },
     {
       "player_name": "Sam Roush",
@@ -2714,28 +2714,21 @@
       "name_key": "daniel bellinger",
       "position": "TE",
       "team": "TEN",
-      "value": 1063
+      "value": 1057
     },
     {
       "player_name": "Emari Demercado",
       "name_key": "emari demercado",
       "position": "RB",
       "team": "DAL",
-      "value": 1050
-    },
-    {
-      "player_name": "Calvin Austin III",
-      "name_key": "calvin austin iii",
-      "position": "WR",
-      "team": "NYG",
-      "value": 1043
+      "value": 1053
     },
     {
       "player_name": "Jonathan Mingo",
       "name_key": "jonathan mingo",
       "position": "WR",
       "team": "DAL",
-      "value": 1041
+      "value": 1044
     },
     {
       "player_name": "Jimmy Horn",
@@ -2745,11 +2738,11 @@
       "value": 1039
     },
     {
-      "player_name": "Elijah Higgins",
-      "name_key": "elijah higgins",
-      "position": "TE",
-      "team": "ARI",
-      "value": 1030
+      "player_name": "Calvin Austin III",
+      "name_key": "calvin austin iii",
+      "position": "WR",
+      "team": "NYG",
+      "value": 1037
     },
     {
       "player_name": "Spencer Rattler",
@@ -2759,6 +2752,13 @@
       "value": 1028
     },
     {
+      "player_name": "Elijah Higgins",
+      "name_key": "elijah higgins",
+      "position": "TE",
+      "team": "ARI",
+      "value": 1027
+    },
+    {
       "player_name": "Zach Ertz",
       "name_key": "zach ertz",
       "position": "TE",
@@ -2766,18 +2766,18 @@
       "value": 1023
     },
     {
-      "player_name": "Rasheen Ali",
-      "name_key": "rasheen ali",
-      "position": "RB",
-      "team": "BAL",
-      "value": 1019
-    },
-    {
       "player_name": "Jonnu Smith",
       "name_key": "jonnu smith",
       "position": "TE",
       "team": "GBP",
-      "value": 1017
+      "value": 1020
+    },
+    {
+      "player_name": "Rasheen Ali",
+      "name_key": "rasheen ali",
+      "position": "RB",
+      "team": "BAL",
+      "value": 1013
     },
     {
       "player_name": "Davis Mills",
@@ -2805,7 +2805,7 @@
       "name_key": "michael trigg",
       "position": "TE",
       "team": "DAL",
-      "value": 981
+      "value": 977
     },
     {
       "player_name": "Greg Dortch",
@@ -2819,35 +2819,35 @@
       "name_key": "jalin hyatt",
       "position": "WR",
       "team": "NYG",
-      "value": 946
+      "value": 949
     },
     {
       "player_name": "Javon Baker",
       "name_key": "javon baker",
       "position": "WR",
       "team": "SFO",
-      "value": 932
+      "value": 941
     },
     {
       "player_name": "Darius Slayton",
       "name_key": "darius slayton",
       "position": "WR",
       "team": "FA",
-      "value": 925
-    },
-    {
-      "player_name": "Davis Allen",
-      "name_key": "davis allen",
-      "position": "TE",
-      "team": "LAR",
-      "value": 913
+      "value": 916
     },
     {
       "player_name": "David Bell",
       "name_key": "david bell",
       "position": "WR",
       "team": "CLE",
-      "value": 910
+      "value": 907
+    },
+    {
+      "player_name": "Davis Allen",
+      "name_key": "davis allen",
+      "position": "TE",
+      "team": "LAR",
+      "value": 907
     },
     {
       "player_name": "Marquise Brown",
@@ -2861,35 +2861,42 @@
       "name_key": "aj dillon",
       "position": "RB",
       "team": "CAR",
-      "value": 860
+      "value": 869
     },
     {
       "player_name": "Tanner Koziol",
       "name_key": "tanner koziol",
       "position": "TE",
       "team": "JAC",
-      "value": 851
-    },
-    {
-      "player_name": "Kendall Milton",
-      "name_key": "kendall milton",
-      "position": "RB",
-      "team": "CIN",
-      "value": 850
+      "value": 854
     },
     {
       "player_name": "Bo Melton",
       "name_key": "bo melton",
       "position": "WR",
       "team": "GBP",
-      "value": 841
+      "value": 844
     },
     {
       "player_name": "Xavier Restrepo",
       "name_key": "xavier restrepo",
       "position": "WR",
       "team": "TEN",
-      "value": 840
+      "value": 843
+    },
+    {
+      "player_name": "Kendall Milton",
+      "name_key": "kendall milton",
+      "position": "RB",
+      "team": "CIN",
+      "value": 841
+    },
+    {
+      "player_name": "Gabriel Davis",
+      "name_key": "gabriel davis",
+      "position": "WR",
+      "team": "BUF",
+      "value": 832
     },
     {
       "player_name": "Luke Schoonmaker",
@@ -2899,13 +2906,6 @@
       "value": 831
     },
     {
-      "player_name": "Gabriel Davis",
-      "name_key": "gabriel davis",
-      "position": "WR",
-      "team": "BUF",
-      "value": 830
-    },
-    {
       "player_name": "Kalel Mullings",
       "name_key": "kalel mullings",
       "position": "RB",
@@ -2913,18 +2913,11 @@
       "value": 813
     },
     {
-      "player_name": "Frank Gore Jr.",
-      "name_key": "frank gore jr",
+      "player_name": "Bam Knight",
+      "name_key": "bam knight",
       "position": "RB",
-      "team": "BUF",
+      "team": "ARI",
       "value": 805
-    },
-    {
-      "player_name": "Trey Lance",
-      "name_key": "trey lance",
-      "position": "QB",
-      "team": "LAC",
-      "value": 804
     },
     {
       "player_name": "Brock Wright",
@@ -2934,18 +2927,18 @@
       "value": 803
     },
     {
-      "player_name": "Bam Knight",
-      "name_key": "bam knight",
+      "player_name": "Frank Gore Jr.",
+      "name_key": "frank gore jr",
       "position": "RB",
-      "team": "ARI",
+      "team": "BUF",
       "value": 802
     },
     {
-      "player_name": "Sam Howell",
-      "name_key": "sam howell",
+      "player_name": "Trey Lance",
+      "name_key": "trey lance",
       "position": "QB",
-      "team": "DAL",
-      "value": 794
+      "team": "LAC",
+      "value": 801
     },
     {
       "player_name": "Israel Abanikanda",
@@ -2953,6 +2946,13 @@
       "position": "RB",
       "team": "DAL",
       "value": 790
+    },
+    {
+      "player_name": "Sam Howell",
+      "name_key": "sam howell",
+      "position": "QB",
+      "team": "DAL",
+      "value": 788
     },
     {
       "player_name": "Arian Smith",
@@ -2966,14 +2966,7 @@
       "name_key": "kyle mccord",
       "position": "QB",
       "team": "MIA",
-      "value": 772
-    },
-    {
-      "player_name": "Jerome Ford",
-      "name_key": "jerome ford",
-      "position": "RB",
-      "team": "ARI",
-      "value": 763
+      "value": 769
     },
     {
       "player_name": "Reggie Virgil",
@@ -2981,6 +2974,13 @@
       "position": "WR",
       "team": "ARI",
       "value": 763
+    },
+    {
+      "player_name": "Jerome Ford",
+      "name_key": "jerome ford",
+      "position": "RB",
+      "team": "ARI",
+      "value": 760
     },
     {
       "player_name": "Stetson Bennett",
@@ -3008,21 +3008,21 @@
       "name_key": "nick westbrookikhine",
       "position": "WR",
       "team": "IND",
-      "value": 735
+      "value": 738
     },
     {
       "player_name": "Khalil Herbert",
       "name_key": "khalil herbert",
       "position": "RB",
       "team": "ATL",
-      "value": 731
+      "value": 734
     },
     {
       "player_name": "Case Keenum",
       "name_key": "case keenum",
       "position": "QB",
       "team": "CHI",
-      "value": 712
+      "value": 716
     },
     {
       "player_name": "Brevin Jordan",
@@ -3046,18 +3046,18 @@
       "value": 695
     },
     {
+      "player_name": "Michael Carter",
+      "name_key": "michael carter",
+      "position": "RB",
+      "team": "TEN",
+      "value": 692
+    },
+    {
       "player_name": "Dylan Laube",
       "name_key": "dylan laube",
       "position": "RB",
       "team": "LVR",
       "value": 691
-    },
-    {
-      "player_name": "Michael Carter",
-      "name_key": "michael carter",
-      "position": "RB",
-      "team": "TEN",
-      "value": 689
     },
     {
       "player_name": "Xavier Gipson",
@@ -3071,7 +3071,7 @@
       "name_key": "leveon moss",
       "position": "RB",
       "team": "MIA",
-      "value": 667
+      "value": 670
     },
     {
       "player_name": "Kenny Pickett",
@@ -3113,14 +3113,14 @@
       "name_key": "tyler johnson",
       "position": "WR",
       "team": "NYJ",
-      "value": 553
+      "value": 550
     },
     {
       "player_name": "Cole Payton",
       "name_key": "cole payton",
       "position": "QB",
       "team": "PHI",
-      "value": 539
+      "value": 545
     },
     {
       "player_name": "Jam Miller",
@@ -3144,13 +3144,6 @@
       "value": 517
     },
     {
-      "player_name": "Brandin Cooks",
-      "name_key": "brandin cooks",
-      "position": "WR",
-      "team": "SFO",
-      "value": 514
-    },
-    {
       "player_name": "Isaiah Hodgins",
       "name_key": "isaiah hodgins",
       "position": "WR",
@@ -3158,18 +3151,25 @@
       "value": 514
     },
     {
+      "player_name": "Brandin Cooks",
+      "name_key": "brandin cooks",
+      "position": "WR",
+      "team": "SFO",
+      "value": 511
+    },
+    {
       "player_name": "Travis Homer",
       "name_key": "travis homer",
       "position": "RB",
       "team": "PIT",
-      "value": 497
+      "value": 500
     },
     {
       "player_name": "Derius Davis",
       "name_key": "derius davis",
       "position": "WR",
       "team": "LAC",
-      "value": 495
+      "value": 498
     },
     {
       "player_name": "Jake Bobo",
@@ -3183,7 +3183,7 @@
       "name_key": "josh oliver",
       "position": "TE",
       "team": "MIN",
-      "value": 488
+      "value": 491
     },
     {
       "player_name": "Zamir White",
@@ -3197,7 +3197,7 @@
       "name_key": "will levis",
       "position": "QB",
       "team": "NYJ",
-      "value": 484
+      "value": 478
     },
     {
       "player_name": "Austin Hooper",
@@ -3211,14 +3211,14 @@
       "name_key": "deuce vaughn",
       "position": "RB",
       "team": "HOU",
-      "value": 462
+      "value": 460
     },
     {
-      "player_name": "Adam Trautman",
-      "name_key": "adam trautman",
-      "position": "TE",
-      "team": "DEN",
-      "value": 457
+      "player_name": "Trayveon Williams",
+      "name_key": "trayveon williams",
+      "position": "RB",
+      "team": "FA",
+      "value": 456
     },
     {
       "player_name": "Joe Flacco",
@@ -3228,11 +3228,11 @@
       "value": 455
     },
     {
-      "player_name": "Trayveon Williams",
-      "name_key": "trayveon williams",
-      "position": "RB",
-      "team": "FA",
-      "value": 453
+      "player_name": "Adam Trautman",
+      "name_key": "adam trautman",
+      "position": "TE",
+      "team": "DEN",
+      "value": 454
     },
     {
       "player_name": "Nathan Carter",
@@ -3252,51 +3252,51 @@
   "picks": [
     {
       "pick_label": "2027 Early 1st",
-      "value": 6903
+      "value": 6899
     },
     {
       "pick_label": "2027 Mid 1st",
-      "value": 5694
+      "value": 5692
     },
     {
       "pick_label": "2028 Early 1st",
-      "value": 5568
+      "value": 5566
     },
     {
       "pick_label": "2027 Late 1st",
-      "value": 5196
+      "value": 5207
     },
     {
       "pick_label": "2028 Mid 1st",
-      "value": 4762
+      "value": 4759
     },
     {
       "pick_label": "2029 Early 1st",
-      "value": 4700
+      "value": 4705
     },
     {
       "pick_label": "2028 Late 1st",
-      "value": 4346
+      "value": 4347
     },
     {
       "pick_label": "2029 Mid 1st",
-      "value": 4256
+      "value": 4247
     },
     {
       "pick_label": "2027 Early 2nd",
-      "value": 3982
+      "value": 3968
     },
     {
       "pick_label": "2029 Late 1st",
-      "value": 3906
+      "value": 3893
     },
     {
       "pick_label": "2027 Mid 2nd",
-      "value": 3424
+      "value": 3415
     },
     {
       "pick_label": "2028 Early 2nd",
-      "value": 3336
+      "value": 3333
     },
     {
       "pick_label": "2027 Late 2nd",
@@ -3304,31 +3304,31 @@
     },
     {
       "pick_label": "2028 Mid 2nd",
-      "value": 3162
+      "value": 3155
     },
     {
       "pick_label": "2029 Early 2nd",
-      "value": 3001
+      "value": 2997
     },
     {
       "pick_label": "2028 Late 2nd",
-      "value": 2964
+      "value": 2967
     },
     {
       "pick_label": "2029 Mid 2nd",
-      "value": 2877
+      "value": 2871
     },
     {
       "pick_label": "2029 Late 2nd",
-      "value": 2765
+      "value": 2756
     },
     {
       "pick_label": "2027 Early 3rd",
-      "value": 2679
+      "value": 2685
     },
     {
       "pick_label": "2027 Mid 3rd",
-      "value": 2602
+      "value": 2608
     },
     {
       "pick_label": "2028 Early 3rd",
@@ -3336,15 +3336,15 @@
     },
     {
       "pick_label": "2027 Late 3rd",
-      "value": 2442
+      "value": 2454
     },
     {
       "pick_label": "2028 Mid 3rd",
-      "value": 2323
+      "value": 2320
     },
     {
       "pick_label": "2029 Early 3rd",
-      "value": 2161
+      "value": 2167
     },
     {
       "pick_label": "2028 Late 3rd",
@@ -3360,11 +3360,11 @@
     },
     {
       "pick_label": "2029 Late 3rd",
-      "value": 1938
+      "value": 1939
     },
     {
       "pick_label": "2027 Mid 4th",
-      "value": 1922
+      "value": 1925
     },
     {
       "pick_label": "2028 Early 4th",
@@ -3372,15 +3372,15 @@
     },
     {
       "pick_label": "2027 Late 4th",
-      "value": 1802
+      "value": 1808
     },
     {
       "pick_label": "2028 Mid 4th",
-      "value": 1673
+      "value": 1670
     },
     {
       "pick_label": "2029 Early 4th",
-      "value": 1569
+      "value": 1572
     },
     {
       "pick_label": "2028 Late 4th",
@@ -3388,13 +3388,13 @@
     },
     {
       "pick_label": "2029 Mid 4th",
-      "value": 1370
+      "value": 1368
     },
     {
       "pick_label": "2029 Late 4th",
-      "value": 1243
+      "value": 1246
     }
   ],
   "value_type": "superflex",
-  "last_updated": "2026-10-18T07:30:40Z"
+  "last_updated": "2026-10-18T12:51:34Z"
 }
