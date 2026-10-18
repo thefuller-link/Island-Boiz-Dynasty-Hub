@@ -4,100 +4,100 @@
 
 | Pick | Value | Provenance | Flag |
 | --- | --- | --- | --- |
-| 2027 Round 1 | 5668 |  |  |
-| 2027 Round 2 | 3409 |  |  |
-| 2027 Round 3 | 2610 |  |  |
-| 2028 Round 1 | 4744 |  |  |
-| 2028 Round 2 | 3157 |  |  |
-| 2028 Round 3 | 2315 |  |  |
-| 2029 Round 1 | 4263 |  |  |
-| 2029 Round 2 | 2883 |  |  |
+| 2027 Round 1 | 5678 |  |  |
+| 2027 Round 2 | 3404 |  |  |
+| 2027 Round 3 | 2598 |  |  |
+| 2028 Round 1 | 4746 |  |  |
+| 2028 Round 2 | 3161 |  |  |
+| 2028 Round 3 | 2321 |  |  |
+| 2029 Round 1 | 4255 |  |  |
+| 2029 Round 2 | 2873 |  |  |
 | 2029 Round 3 | 1986 |  |  |
 
 ## Full League
 
 | Pick | Owner | Value | Provenance | Flag |
 | --- | --- | --- | --- | --- |
-| 2027 Round 1 | BigFcknDaddy | 5668 |  |  |
-| 2027 Round 1 | MoooSo | 5668 |  |  |
-| 2027 Round 1 | RobRuth23 | 5668 |  |  |
-| 2027 Round 1 | TheDirtyJ | 5668 |  |  |
-| 2027 Round 1 | jetercole | 5668 |  |  |
-| 2027 Round 1 | joeyantonelli2 | 5668 |  |  |
-| 2027 Round 1 | littlegummy311 | 5668 |  |  |
-| 2027 Round 1 | philpoon89 | 5668 |  |  |
-| 2027 Round 1 | tylerchambers | 5668 |  |  |
-| 2027 Round 1 | yungtt | 5668 |  |  |
-| 2027 Round 2 | BigFcknDaddy | 3409 |  |  |
-| 2027 Round 2 | MoooSo | 3409 |  |  |
-| 2027 Round 2 | RobRuth23 | 3409 |  |  |
-| 2027 Round 2 | TheDirtyJ | 3409 |  |  |
-| 2027 Round 2 | jetercole | 3409 |  |  |
-| 2027 Round 2 | joeyantonelli2 | 3409 |  |  |
-| 2027 Round 2 | littlegummy311 | 3409 |  |  |
-| 2027 Round 2 | philpoon89 | 3409 |  |  |
-| 2027 Round 2 | tylerchambers | 3409 |  |  |
-| 2027 Round 2 | yungtt | 3409 |  |  |
-| 2027 Round 3 | BigFcknDaddy | 2610 |  |  |
-| 2027 Round 3 | MoooSo | 2610 |  |  |
-| 2027 Round 3 | RobRuth23 | 2610 |  |  |
-| 2027 Round 3 | TheDirtyJ | 2610 |  |  |
-| 2027 Round 3 | jetercole | 2610 |  |  |
-| 2027 Round 3 | joeyantonelli2 | 2610 |  |  |
-| 2027 Round 3 | littlegummy311 | 2610 |  |  |
-| 2027 Round 3 | philpoon89 | 2610 |  |  |
-| 2027 Round 3 | tylerchambers | 2610 |  |  |
-| 2027 Round 3 | yungtt | 2610 |  |  |
-| 2028 Round 1 | BigFcknDaddy | 4744 |  |  |
-| 2028 Round 1 | MoooSo | 4744 |  |  |
-| 2028 Round 1 | RobRuth23 | 4744 |  |  |
-| 2028 Round 1 | TheDirtyJ | 4744 |  |  |
-| 2028 Round 1 | jetercole | 4744 |  |  |
-| 2028 Round 1 | joeyantonelli2 | 4744 |  |  |
-| 2028 Round 1 | littlegummy311 | 4744 |  |  |
-| 2028 Round 1 | philpoon89 | 4744 |  |  |
-| 2028 Round 1 | tylerchambers | 4744 |  |  |
-| 2028 Round 1 | yungtt | 4744 |  |  |
-| 2028 Round 2 | BigFcknDaddy | 3157 |  |  |
-| 2028 Round 2 | MoooSo | 3157 |  |  |
-| 2028 Round 2 | RobRuth23 | 3157 |  |  |
-| 2028 Round 2 | TheDirtyJ | 3157 |  |  |
-| 2028 Round 2 | jetercole | 3157 |  |  |
-| 2028 Round 2 | joeyantonelli2 | 3157 |  |  |
-| 2028 Round 2 | littlegummy311 | 3157 |  |  |
-| 2028 Round 2 | philpoon89 | 3157 |  |  |
-| 2028 Round 2 | tylerchambers | 3157 |  |  |
-| 2028 Round 2 | yungtt | 3157 |  |  |
-| 2028 Round 3 | BigFcknDaddy | 2315 |  |  |
-| 2028 Round 3 | MoooSo | 2315 |  |  |
-| 2028 Round 3 | RobRuth23 | 2315 |  |  |
-| 2028 Round 3 | TheDirtyJ | 2315 |  |  |
-| 2028 Round 3 | jetercole | 2315 |  |  |
-| 2028 Round 3 | joeyantonelli2 | 2315 |  |  |
-| 2028 Round 3 | littlegummy311 | 2315 |  |  |
-| 2028 Round 3 | philpoon89 | 2315 |  |  |
-| 2028 Round 3 | tylerchambers | 2315 |  |  |
-| 2028 Round 3 | yungtt | 2315 |  |  |
-| 2029 Round 1 | BigFcknDaddy | 4263 |  |  |
-| 2029 Round 1 | MoooSo | 4263 |  |  |
-| 2029 Round 1 | RobRuth23 | 4263 |  |  |
-| 2029 Round 1 | TheDirtyJ | 4263 |  |  |
-| 2029 Round 1 | jetercole | 4263 |  |  |
-| 2029 Round 1 | joeyantonelli2 | 4263 |  |  |
-| 2029 Round 1 | littlegummy311 | 4263 |  |  |
-| 2029 Round 1 | philpoon89 | 4263 |  |  |
-| 2029 Round 1 | tylerchambers | 4263 |  |  |
-| 2029 Round 1 | yungtt | 4263 |  |  |
-| 2029 Round 2 | BigFcknDaddy | 2883 |  |  |
-| 2029 Round 2 | MoooSo | 2883 |  |  |
-| 2029 Round 2 | RobRuth23 | 2883 |  |  |
-| 2029 Round 2 | TheDirtyJ | 2883 |  |  |
-| 2029 Round 2 | jetercole | 2883 |  |  |
-| 2029 Round 2 | joeyantonelli2 | 2883 |  |  |
-| 2029 Round 2 | littlegummy311 | 2883 |  |  |
-| 2029 Round 2 | philpoon89 | 2883 |  |  |
-| 2029 Round 2 | tylerchambers | 2883 |  |  |
-| 2029 Round 2 | yungtt | 2883 |  |  |
+| 2027 Round 1 | BigFcknDaddy | 5678 |  |  |
+| 2027 Round 1 | MoooSo | 5678 |  |  |
+| 2027 Round 1 | RobRuth23 | 5678 |  |  |
+| 2027 Round 1 | TheDirtyJ | 5678 |  |  |
+| 2027 Round 1 | jetercole | 5678 |  |  |
+| 2027 Round 1 | joeyantonelli2 | 5678 |  |  |
+| 2027 Round 1 | littlegummy311 | 5678 |  |  |
+| 2027 Round 1 | philpoon89 | 5678 |  |  |
+| 2027 Round 1 | tylerchambers | 5678 |  |  |
+| 2027 Round 1 | yungtt | 5678 |  |  |
+| 2027 Round 2 | BigFcknDaddy | 3404 |  |  |
+| 2027 Round 2 | MoooSo | 3404 |  |  |
+| 2027 Round 2 | RobRuth23 | 3404 |  |  |
+| 2027 Round 2 | TheDirtyJ | 3404 |  |  |
+| 2027 Round 2 | jetercole | 3404 |  |  |
+| 2027 Round 2 | joeyantonelli2 | 3404 |  |  |
+| 2027 Round 2 | littlegummy311 | 3404 |  |  |
+| 2027 Round 2 | philpoon89 | 3404 |  |  |
+| 2027 Round 2 | tylerchambers | 3404 |  |  |
+| 2027 Round 2 | yungtt | 3404 |  |  |
+| 2027 Round 3 | BigFcknDaddy | 2598 |  |  |
+| 2027 Round 3 | MoooSo | 2598 |  |  |
+| 2027 Round 3 | RobRuth23 | 2598 |  |  |
+| 2027 Round 3 | TheDirtyJ | 2598 |  |  |
+| 2027 Round 3 | jetercole | 2598 |  |  |
+| 2027 Round 3 | joeyantonelli2 | 2598 |  |  |
+| 2027 Round 3 | littlegummy311 | 2598 |  |  |
+| 2027 Round 3 | philpoon89 | 2598 |  |  |
+| 2027 Round 3 | tylerchambers | 2598 |  |  |
+| 2027 Round 3 | yungtt | 2598 |  |  |
+| 2028 Round 1 | BigFcknDaddy | 4746 |  |  |
+| 2028 Round 1 | MoooSo | 4746 |  |  |
+| 2028 Round 1 | RobRuth23 | 4746 |  |  |
+| 2028 Round 1 | TheDirtyJ | 4746 |  |  |
+| 2028 Round 1 | jetercole | 4746 |  |  |
+| 2028 Round 1 | joeyantonelli2 | 4746 |  |  |
+| 2028 Round 1 | littlegummy311 | 4746 |  |  |
+| 2028 Round 1 | philpoon89 | 4746 |  |  |
+| 2028 Round 1 | tylerchambers | 4746 |  |  |
+| 2028 Round 1 | yungtt | 4746 |  |  |
+| 2028 Round 2 | BigFcknDaddy | 3161 |  |  |
+| 2028 Round 2 | MoooSo | 3161 |  |  |
+| 2028 Round 2 | RobRuth23 | 3161 |  |  |
+| 2028 Round 2 | TheDirtyJ | 3161 |  |  |
+| 2028 Round 2 | jetercole | 3161 |  |  |
+| 2028 Round 2 | joeyantonelli2 | 3161 |  |  |
+| 2028 Round 2 | littlegummy311 | 3161 |  |  |
+| 2028 Round 2 | philpoon89 | 3161 |  |  |
+| 2028 Round 2 | tylerchambers | 3161 |  |  |
+| 2028 Round 2 | yungtt | 3161 |  |  |
+| 2028 Round 3 | BigFcknDaddy | 2321 |  |  |
+| 2028 Round 3 | MoooSo | 2321 |  |  |
+| 2028 Round 3 | RobRuth23 | 2321 |  |  |
+| 2028 Round 3 | TheDirtyJ | 2321 |  |  |
+| 2028 Round 3 | jetercole | 2321 |  |  |
+| 2028 Round 3 | joeyantonelli2 | 2321 |  |  |
+| 2028 Round 3 | littlegummy311 | 2321 |  |  |
+| 2028 Round 3 | philpoon89 | 2321 |  |  |
+| 2028 Round 3 | tylerchambers | 2321 |  |  |
+| 2028 Round 3 | yungtt | 2321 |  |  |
+| 2029 Round 1 | BigFcknDaddy | 4255 |  |  |
+| 2029 Round 1 | MoooSo | 4255 |  |  |
+| 2029 Round 1 | RobRuth23 | 4255 |  |  |
+| 2029 Round 1 | TheDirtyJ | 4255 |  |  |
+| 2029 Round 1 | jetercole | 4255 |  |  |
+| 2029 Round 1 | joeyantonelli2 | 4255 |  |  |
+| 2029 Round 1 | littlegummy311 | 4255 |  |  |
+| 2029 Round 1 | philpoon89 | 4255 |  |  |
+| 2029 Round 1 | tylerchambers | 4255 |  |  |
+| 2029 Round 1 | yungtt | 4255 |  |  |
+| 2029 Round 2 | BigFcknDaddy | 2873 |  |  |
+| 2029 Round 2 | MoooSo | 2873 |  |  |
+| 2029 Round 2 | RobRuth23 | 2873 |  |  |
+| 2029 Round 2 | TheDirtyJ | 2873 |  |  |
+| 2029 Round 2 | jetercole | 2873 |  |  |
+| 2029 Round 2 | joeyantonelli2 | 2873 |  |  |
+| 2029 Round 2 | littlegummy311 | 2873 |  |  |
+| 2029 Round 2 | philpoon89 | 2873 |  |  |
+| 2029 Round 2 | tylerchambers | 2873 |  |  |
+| 2029 Round 2 | yungtt | 2873 |  |  |
 | 2029 Round 3 | BigFcknDaddy | 1986 |  |  |
 | 2029 Round 3 | MoooSo | 1986 |  |  |
 | 2029 Round 3 | RobRuth23 | 1986 |  |  |
@@ -109,4 +109,4 @@
 | 2029 Round 3 | tylerchambers | 1986 |  |  |
 | 2029 Round 3 | yungtt | 1986 |  |  |
 
-_Last updated: 2026-10-18T19:49:40.169536+00:00_
+_Last updated: 2026-10-18T22:40:21.385544+00:00_
