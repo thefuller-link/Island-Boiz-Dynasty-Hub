@@ -60,10 +60,11 @@
   },
   "avatar": "799997f3f4cba6bcf9a136c762803e78",
   "company_id": null,
+  "last_message_id": "1417293011536101376",
   "sport": "nfl",
-  "season_type": "regular",
-  "season": "2026",
   "shard": 138,
+  "season": "2026",
+  "season_type": "regular",
   "scoring_settings": {
     "sack": 1.0,
     "fgm_40_49": 4.0,
@@ -109,7 +110,6 @@
     "pts_allow_7_13": 4.0,
     "st_ff": 1.0
   },
-  "last_message_id": "1417293011536101376",
   "last_author_avatar": null,
   "last_author_display_name": "sys",
   "last_author_id": "166666666666666666",
@@ -151,5 +151,5 @@
   "loser_bracket_id": null,
   "loser_bracket_overrides_id": null,
   "total_rosters": 10,
-  "last_updated": "2026-10-19T15:59:25.282655+00:00"
+  "last_updated": "2026-10-19T21:49:57.810532+00:00"
 }
