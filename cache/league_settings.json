@@ -122,9 +122,6 @@
   "last_read_id": null,
   "league_id": "1314838637019414528",
   "previous_league_id": null,
-  "group_id": null,
-  "bracket_id": null,
-  "bracket_overrides_id": null,
   "roster_positions": [
     "QB",
     "RB",
@@ -148,8 +145,11 @@
     "BN",
     "BN"
   ],
+  "bracket_id": null,
+  "bracket_overrides_id": null,
+  "group_id": null,
   "loser_bracket_id": null,
   "loser_bracket_overrides_id": null,
   "total_rosters": 10,
-  "last_updated": "2026-10-19T08:14:11.243585+00:00"
+  "last_updated": "2026-10-19T15:59:25.282655+00:00"
 }
