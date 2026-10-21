@@ -10159,6 +10159,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "CIN"
+        },
+        {
+          "week": 7,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CIN"
         }
       ]
     },
@@ -17827,5 +17835,5 @@
       ]
     }
   },
-  "last_updated": "2026-10-20T14:01:25.606565+00:00"
+  "last_updated": "2026-10-21T14:17:06.230104+00:00"
 }
