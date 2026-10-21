@@ -24,7 +24,6 @@ _No free-agent rookies with rising usage this week._
 | Colston Loveland | TE | insufficient data | insufficient data | N/A | N/A |  |
 | Cyrus Allen | WR | insufficient data | insufficient data | N/A | N/A |  |
 | DJ Giddens | RB | insufficient data | insufficient data | N/A | N/A |  |
-| Darius Cooper | WR | insufficient data | insufficient data | N/A | N/A |  |
 | De'Zhaun Stribling | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Deion Burks | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Denzel Boston | WR | insufficient data | insufficient data | N/A | N/A |  |
@@ -54,6 +53,7 @@ _No free-agent rookies with rising usage this week._
 | Kaelon Black | RB | insufficient data | insufficient data | N/A | N/A |  |
 | Kaytron Allen | RB | insufficient data | insufficient data | N/A | N/A |  |
 | Kenyon Sadiq | TE | insufficient data | insufficient data | N/A | N/A |  |
+| Konata Mumpfield | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Kyle Monangai | RB | insufficient data | insufficient data | N/A | N/A |  |
 | Makai Lemon | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Malachi Fields | WR | insufficient data | insufficient data | N/A | N/A |  |
@@ -154,6 +154,7 @@ _No free-agent rookies with rising usage this week._
 | Dan Villari | TE | insufficient data | insufficient data | N/A | N/A |  |
 | Dane Key | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Daniel Sobkowicz | WR | insufficient data | insufficient data | N/A | N/A |  |
+| Darius Cooper | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Davon Booth | RB | insufficient data | insufficient data | N/A | N/A |  |
 | Dean Connors | RB | insufficient data | insufficient data | N/A | N/A |  |
 | Demond Claiborne | RB | insufficient data | insufficient data | N/A | N/A |  |
@@ -268,7 +269,6 @@ _No free-agent rookies with rising usage this week._
 | Kobe Prentice | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Kolbe Katsis | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Kole Wilson | WR | insufficient data | insufficient data | N/A | N/A |  |
-| Konata Mumpfield | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Kurtis Rourke | QB | insufficient data | insufficient data | N/A | N/A |  |
 | Kyle Dixon | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Kyle McCord | QB | insufficient data | insufficient data | N/A | N/A |  |
@@ -375,4 +375,4 @@ _No free-agent rookies with rising usage this week._
 | Zach Horton | TE | insufficient data | insufficient data | N/A | N/A |  |
 | Zavion Thomas | WR | insufficient data | insufficient data | N/A | N/A |  |
 
-_Last updated: 2026-10-20 14:01:25 UTC_
+_Last updated: 2026-10-21 14:17:06 UTC_
