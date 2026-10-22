@@ -514,6 +514,62 @@
         }
       ]
     },
+    "anthony tyus iii": {
+      "player_name": "Anthony Tyus III",
+      "position": "RB",
+      "years_exp": 1,
+      "sleeper_id": "12939",
+      "weeks": [
+        {
+          "week": 1,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CAR"
+        },
+        {
+          "week": 2,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CAR"
+        },
+        {
+          "week": 3,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CAR"
+        },
+        {
+          "week": 4,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CAR"
+        },
+        {
+          "week": 6,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CAR"
+        },
+        {
+          "week": 7,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CAR"
+        }
+      ]
+    },
     "antonio williams": {
       "player_name": "Antonio Williams",
       "position": "WR",
@@ -567,6 +623,70 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "WAS"
+        }
+      ]
+    },
+    "antwane wells jr": {
+      "player_name": "Antwane Wells Jr.",
+      "position": "WR",
+      "years_exp": 1,
+      "sleeper_id": "12460",
+      "weeks": [
+        {
+          "week": 1,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "ATL"
+        },
+        {
+          "week": 2,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "ATL"
+        },
+        {
+          "week": 3,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "ATL"
+        },
+        {
+          "week": 4,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "ATL"
+        },
+        {
+          "week": 5,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "ATL"
+        },
+        {
+          "week": 6,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "ATL"
+        },
+        {
+          "week": 7,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "ATL"
         }
       ]
     },
@@ -2762,6 +2882,62 @@
         }
       ]
     },
+    "chris brazzell ii": {
+      "player_name": "Chris Brazzell II",
+      "position": "WR",
+      "years_exp": 0,
+      "sleeper_id": "13353",
+      "weeks": [
+        {
+          "week": 1,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CAR"
+        },
+        {
+          "week": 2,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CAR"
+        },
+        {
+          "week": 3,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CAR"
+        },
+        {
+          "week": 4,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CAR"
+        },
+        {
+          "week": 6,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CAR"
+        },
+        {
+          "week": 7,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CAR"
+        }
+      ]
+    },
     "chris smith": {
       "player_name": "Chris Smith",
       "position": "RB",
@@ -4210,6 +4386,70 @@
         }
       ]
     },
+    "dean patterson iv": {
+      "player_name": "Dean Patterson IV",
+      "position": "WR",
+      "years_exp": 0,
+      "sleeper_id": "14020",
+      "weeks": [
+        {
+          "week": 1,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "TB"
+        },
+        {
+          "week": 2,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "TB"
+        },
+        {
+          "week": 3,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "TB"
+        },
+        {
+          "week": 4,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "TB"
+        },
+        {
+          "week": 5,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "TB"
+        },
+        {
+          "week": 6,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "TB"
+        },
+        {
+          "week": 7,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "TB"
+        }
+      ]
+    },
     "deion burks": {
       "player_name": "Deion Burks",
       "position": "WR",
@@ -5114,6 +5354,70 @@
         }
       ]
     },
+    "donte thornton jr": {
+      "player_name": "Dont'e Thornton Jr.",
+      "position": "WR",
+      "years_exp": 1,
+      "sleeper_id": "12541",
+      "weeks": [
+        {
+          "week": 1,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "LV"
+        },
+        {
+          "week": 2,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "LV"
+        },
+        {
+          "week": 3,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "LV"
+        },
+        {
+          "week": 4,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "LV"
+        },
+        {
+          "week": 5,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "LV"
+        },
+        {
+          "week": 6,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "LV"
+        },
+        {
+          "week": 7,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "LV"
+        }
+      ]
+    },
     "drake dabney": {
       "player_name": "Drake Dabney",
       "position": "TE",
@@ -5319,6 +5623,70 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "CLE"
+        }
+      ]
+    },
+    "efton chism iii": {
+      "player_name": "Efton Chism III",
+      "position": "WR",
+      "years_exp": 1,
+      "sleeper_id": "12542",
+      "weeks": [
+        {
+          "week": 1,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "NE"
+        },
+        {
+          "week": 2,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "NE"
+        },
+        {
+          "week": 3,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "NE"
+        },
+        {
+          "week": 4,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "NE"
+        },
+        {
+          "week": 5,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "NE"
+        },
+        {
+          "week": 6,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "NE"
+        },
+        {
+          "week": 7,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "NE"
         }
       ]
     },
@@ -5858,6 +6226,70 @@
         }
       ]
     },
+    "emmanuel henderson jr": {
+      "player_name": "Emmanuel Henderson Jr.",
+      "position": "WR",
+      "years_exp": 0,
+      "sleeper_id": "13313",
+      "weeks": [
+        {
+          "week": 1,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "SEA"
+        },
+        {
+          "week": 2,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "SEA"
+        },
+        {
+          "week": 3,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "SEA"
+        },
+        {
+          "week": 4,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "SEA"
+        },
+        {
+          "week": 5,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "SEA"
+        },
+        {
+          "week": 6,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "SEA"
+        },
+        {
+          "week": 7,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "SEA"
+        }
+      ]
+    },
     "emmett johnson": {
       "player_name": "Emmett Johnson",
       "position": "RB",
@@ -5911,6 +6343,70 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "KC"
+        }
+      ]
+    },
+    "eric rivers jr": {
+      "player_name": "Eric Rivers Jr.",
+      "position": "WR",
+      "years_exp": 0,
+      "sleeper_id": "13316",
+      "weeks": [
+        {
+          "week": 1,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "TB"
+        },
+        {
+          "week": 2,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "TB"
+        },
+        {
+          "week": 3,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "TB"
+        },
+        {
+          "week": 4,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "TB"
+        },
+        {
+          "week": 5,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "TB"
+        },
+        {
+          "week": 6,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "TB"
+        },
+        {
+          "week": 7,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "TB"
         }
       ]
     },
@@ -6551,6 +7047,134 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "TEN"
+        }
+      ]
+    },
+    "harold fannin jr": {
+      "player_name": "Harold Fannin Jr.",
+      "position": "TE",
+      "years_exp": 1,
+      "sleeper_id": "12506",
+      "weeks": [
+        {
+          "week": 1,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CLE"
+        },
+        {
+          "week": 2,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CLE"
+        },
+        {
+          "week": 3,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CLE"
+        },
+        {
+          "week": 4,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CLE"
+        },
+        {
+          "week": 5,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CLE"
+        },
+        {
+          "week": 6,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CLE"
+        },
+        {
+          "week": 7,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CLE"
+        }
+      ]
+    },
+    "harrison wallace iii": {
+      "player_name": "Harrison Wallace III",
+      "position": "WR",
+      "years_exp": 0,
+      "sleeper_id": "13670",
+      "weeks": [
+        {
+          "week": 1,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "ARI"
+        },
+        {
+          "week": 2,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "ARI"
+        },
+        {
+          "week": 3,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "ARI"
+        },
+        {
+          "week": 4,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "ARI"
+        },
+        {
+          "week": 5,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "ARI"
+        },
+        {
+          "week": 6,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "ARI"
+        },
+        {
+          "week": 7,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "ARI"
         }
       ]
     },
@@ -9114,6 +9738,70 @@
         }
       ]
     },
+    "jimmy horn jr": {
+      "player_name": "Jimmy Horn Jr.",
+      "position": "WR",
+      "years_exp": 1,
+      "sleeper_id": "12523",
+      "weeks": [
+        {
+          "week": 1,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CAR"
+        },
+        {
+          "week": 2,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CLE"
+        },
+        {
+          "week": 3,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CLE"
+        },
+        {
+          "week": 4,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CLE"
+        },
+        {
+          "week": 5,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CLE"
+        },
+        {
+          "week": 6,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CLE"
+        },
+        {
+          "week": 7,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CLE"
+        }
+      ]
+    },
     "jimmy kibble": {
       "player_name": "Jimmy Kibble",
       "position": "WR",
@@ -10794,70 +11482,6 @@
         }
       ]
     },
-    "kc concepcion": {
-      "player_name": "KC Concepcion",
-      "position": "WR",
-      "years_exp": 0,
-      "sleeper_id": "13298",
-      "weeks": [
-        {
-          "week": 1,
-          "snap_pct": null,
-          "target_share": null,
-          "route_participation": null,
-          "rz_targets": null,
-          "nfl_team": "CLE"
-        },
-        {
-          "week": 2,
-          "snap_pct": null,
-          "target_share": null,
-          "route_participation": null,
-          "rz_targets": null,
-          "nfl_team": "CLE"
-        },
-        {
-          "week": 3,
-          "snap_pct": null,
-          "target_share": null,
-          "route_participation": null,
-          "rz_targets": null,
-          "nfl_team": "CLE"
-        },
-        {
-          "week": 4,
-          "snap_pct": null,
-          "target_share": null,
-          "route_participation": null,
-          "rz_targets": null,
-          "nfl_team": "CLE"
-        },
-        {
-          "week": 5,
-          "snap_pct": null,
-          "target_share": null,
-          "route_participation": null,
-          "rz_targets": null,
-          "nfl_team": "CLE"
-        },
-        {
-          "week": 6,
-          "snap_pct": null,
-          "target_share": null,
-          "route_participation": null,
-          "rz_targets": null,
-          "nfl_team": "CLE"
-        },
-        {
-          "week": 7,
-          "snap_pct": null,
-          "target_share": null,
-          "route_participation": null,
-          "rz_targets": null,
-          "nfl_team": "CLE"
-        }
-      ]
-    },
     "keandre lambertsmith": {
       "player_name": "KeAndre Lambert-Smith",
       "position": "WR",
@@ -11215,6 +11839,62 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "CIN"
+        }
+      ]
+    },
+    "kevin coleman jr": {
+      "player_name": "Kevin Coleman Jr.",
+      "position": "WR",
+      "years_exp": 0,
+      "sleeper_id": "13338",
+      "weeks": [
+        {
+          "week": 1,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "MIA"
+        },
+        {
+          "week": 2,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "MIA"
+        },
+        {
+          "week": 3,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "MIA"
+        },
+        {
+          "week": 4,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "MIA"
+        },
+        {
+          "week": 5,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "MIA"
+        },
+        {
+          "week": 7,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "MIA"
         }
       ]
     },
@@ -12066,6 +12746,62 @@
         }
       ]
     },
+    "lequint allen jr": {
+      "player_name": "LeQuint Allen Jr.",
+      "position": "RB",
+      "years_exp": 1,
+      "sleeper_id": "12544",
+      "weeks": [
+        {
+          "week": 1,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "JAX"
+        },
+        {
+          "week": 2,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "JAX"
+        },
+        {
+          "week": 3,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "JAX"
+        },
+        {
+          "week": 4,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "JAX"
+        },
+        {
+          "week": 5,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "JAX"
+        },
+        {
+          "week": 6,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "JAX"
+        }
+      ]
+    },
     "leveon moss": {
       "player_name": "Le'Veon Moss",
       "position": "RB",
@@ -12319,6 +13055,70 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "LAC"
+        }
+      ]
+    },
+    "luther burden iii": {
+      "player_name": "Luther Burden III",
+      "position": "WR",
+      "years_exp": 1,
+      "sleeper_id": "12519",
+      "weeks": [
+        {
+          "week": 1,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CHI"
+        },
+        {
+          "week": 2,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CHI"
+        },
+        {
+          "week": 3,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CHI"
+        },
+        {
+          "week": 4,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CHI"
+        },
+        {
+          "week": 5,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CHI"
+        },
+        {
+          "week": 6,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CHI"
+        },
+        {
+          "week": 7,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CHI"
         }
       ]
     },
@@ -13402,6 +14202,70 @@
         }
       ]
     },
+    "mike washington jr": {
+      "player_name": "Mike Washington Jr.",
+      "position": "RB",
+      "years_exp": 0,
+      "sleeper_id": "13305",
+      "weeks": [
+        {
+          "week": 1,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "LV"
+        },
+        {
+          "week": 2,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "LV"
+        },
+        {
+          "week": 3,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "LV"
+        },
+        {
+          "week": 4,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "LV"
+        },
+        {
+          "week": 5,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "LV"
+        },
+        {
+          "week": 6,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "LV"
+        },
+        {
+          "week": 7,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "LV"
+        }
+      ]
+    },
     "miles davis": {
       "player_name": "Miles Davis",
       "position": "RB",
@@ -13647,6 +14511,70 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "NO"
+        }
+      ]
+    },
+    "montorie foster jr": {
+      "player_name": "Montorie Foster Jr.",
+      "position": "WR",
+      "years_exp": 1,
+      "sleeper_id": "13199",
+      "weeks": [
+        {
+          "week": 1,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "SEA"
+        },
+        {
+          "week": 2,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "SEA"
+        },
+        {
+          "week": 3,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "SEA"
+        },
+        {
+          "week": 4,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "SEA"
+        },
+        {
+          "week": 5,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "SEA"
+        },
+        {
+          "week": 6,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "SEA"
+        },
+        {
+          "week": 7,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "SEA"
         }
       ]
     },
@@ -14194,6 +15122,126 @@
         }
       ]
     },
+    "ollie gordon ii": {
+      "player_name": "Ollie Gordon II",
+      "position": "RB",
+      "years_exp": 1,
+      "sleeper_id": "12495",
+      "weeks": [
+        {
+          "week": 1,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "MIA"
+        },
+        {
+          "week": 2,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "MIA"
+        },
+        {
+          "week": 3,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "MIA"
+        },
+        {
+          "week": 4,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "MIA"
+        },
+        {
+          "week": 5,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "MIA"
+        },
+        {
+          "week": 7,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "MIA"
+        }
+      ]
+    },
+    "omar cooper jr": {
+      "player_name": "Omar Cooper Jr.",
+      "position": "WR",
+      "years_exp": 0,
+      "sleeper_id": "13276",
+      "weeks": [
+        {
+          "week": 1,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "NYJ"
+        },
+        {
+          "week": 2,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "NYJ"
+        },
+        {
+          "week": 3,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "NYJ"
+        },
+        {
+          "week": 4,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "NYJ"
+        },
+        {
+          "week": 5,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "NYJ"
+        },
+        {
+          "week": 6,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "NYJ"
+        },
+        {
+          "week": 7,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "NYJ"
+        }
+      ]
+    },
     "omari evans": {
       "player_name": "Omari Evans",
       "position": "WR",
@@ -14666,6 +15714,70 @@
         }
       ]
     },
+    "quincy skinner jr": {
+      "player_name": "Quincy Skinner Jr.",
+      "position": "WR",
+      "years_exp": 1,
+      "sleeper_id": "12884",
+      "weeks": [
+        {
+          "week": 1,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "NYJ"
+        },
+        {
+          "week": 2,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "GB"
+        },
+        {
+          "week": 3,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "GB"
+        },
+        {
+          "week": 4,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "GB"
+        },
+        {
+          "week": 5,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "GB"
+        },
+        {
+          "week": 6,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "GB"
+        },
+        {
+          "week": 7,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "GB"
+        }
+      ]
+    },
     "quinn ewers": {
       "player_name": "Quinn Ewers",
       "position": "QB",
@@ -14946,6 +16058,70 @@
         }
       ]
     },
+    "ricky white iii": {
+      "player_name": "Ricky White III",
+      "position": "WR",
+      "years_exp": 1,
+      "sleeper_id": "12475",
+      "weeks": [
+        {
+          "week": 1,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "SEA"
+        },
+        {
+          "week": 2,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "SEA"
+        },
+        {
+          "week": 3,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "SEA"
+        },
+        {
+          "week": 4,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "SEA"
+        },
+        {
+          "week": 5,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "SEA"
+        },
+        {
+          "week": 6,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "SEA"
+        },
+        {
+          "week": 7,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "SEA"
+        }
+      ]
+    },
     "riley leonard": {
       "player_name": "Riley Leonard",
       "position": "QB",
@@ -15191,6 +16367,70 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "SEA"
+        },
+        {
+          "week": 5,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "SEA"
+        },
+        {
+          "week": 6,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "SEA"
+        },
+        {
+          "week": 7,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "SEA"
+        }
+      ]
+    },
+    "robert henry jr": {
+      "player_name": "Robert Henry Jr.",
+      "position": "RB",
+      "years_exp": 0,
+      "sleeper_id": "13418",
+      "weeks": [
+        {
+          "week": 1,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "WAS"
+        },
+        {
+          "week": 2,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "WAS"
+        },
+        {
+          "week": 3,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "WAS"
+        },
+        {
+          "week": 4,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "WAS"
         },
         {
           "week": 5,
@@ -16146,6 +17386,70 @@
         }
       ]
     },
+    "ted hurst iii": {
+      "player_name": "Ted Hurst III",
+      "position": "WR",
+      "years_exp": 0,
+      "sleeper_id": "13317",
+      "weeks": [
+        {
+          "week": 1,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "TB"
+        },
+        {
+          "week": 2,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "TB"
+        },
+        {
+          "week": 3,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "TB"
+        },
+        {
+          "week": 4,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "TB"
+        },
+        {
+          "week": 5,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "TB"
+        },
+        {
+          "week": 6,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "TB"
+        },
+        {
+          "week": 7,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "TB"
+        }
+      ]
+    },
     "terrance ferguson": {
       "player_name": "Terrance Ferguson",
       "position": "TE",
@@ -16343,6 +17647,126 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "TB"
+        }
+      ]
+    },
+    "theo wease jr": {
+      "player_name": "Theo Wease Jr.",
+      "position": "WR",
+      "years_exp": 1,
+      "sleeper_id": "12860",
+      "weeks": [
+        {
+          "week": 1,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "LAC"
+        },
+        {
+          "week": 2,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "LAC"
+        },
+        {
+          "week": 3,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "LAC"
+        },
+        {
+          "week": 4,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "LAC"
+        },
+        {
+          "week": 5,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "LAC"
+        },
+        {
+          "week": 6,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "LAC"
+        }
+      ]
+    },
+    "thomas fidone ii": {
+      "player_name": "Thomas Fidone II",
+      "position": "TE",
+      "years_exp": 1,
+      "sleeper_id": "12715",
+      "weeks": [
+        {
+          "week": 1,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "NYG"
+        },
+        {
+          "week": 2,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "NYG"
+        },
+        {
+          "week": 3,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "NYG"
+        },
+        {
+          "week": 4,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "NYG"
+        },
+        {
+          "week": 5,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "NYG"
+        },
+        {
+          "week": 6,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "NYG"
+        },
+        {
+          "week": 7,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "NYG"
         }
       ]
     },
@@ -17186,6 +18610,70 @@
         }
       ]
     },
+    "vinny anthony ii": {
+      "player_name": "Vinny Anthony II",
+      "position": "WR",
+      "years_exp": 0,
+      "sleeper_id": "13343",
+      "weeks": [
+        {
+          "week": 1,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "ATL"
+        },
+        {
+          "week": 2,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "ATL"
+        },
+        {
+          "week": 3,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "ATL"
+        },
+        {
+          "week": 4,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "ATL"
+        },
+        {
+          "week": 5,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "ATL"
+        },
+        {
+          "week": 6,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "ATL"
+        },
+        {
+          "week": 7,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "ATL"
+        }
+      ]
+    },
     "wesley grimes": {
       "player_name": "Wesley Grimes",
       "position": "WR",
@@ -17835,5 +19323,5 @@
       ]
     }
   },
-  "last_updated": "2026-10-21T14:17:06.230104+00:00"
+  "last_updated": "2026-10-22T14:16:45.802106+00:00"
 }
