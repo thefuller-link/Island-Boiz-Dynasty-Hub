@@ -72,6 +72,7 @@ _No free-agent rookies with rising usage this week._
 | RJ Harvey | RB | insufficient data | insufficient data | N/A | N/A |  |
 | Riley Leonard | QB | insufficient data | insufficient data | N/A | N/A |  |
 | Savion Williams | WR | insufficient data | insufficient data | N/A | N/A |  |
+| Seth McGowan | RB | insufficient data | insufficient data | N/A | N/A |  |
 | Shedeur Sanders | QB | insufficient data | insufficient data | N/A | N/A |  |
 | Skyler Bell | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Ted Hurst III | WR | insufficient data | insufficient data | N/A | N/A |  |
@@ -363,7 +364,6 @@ _No free-agent rookies with rising usage this week._
 | Roydell Williams | RB | insufficient data | insufficient data | N/A | N/A |  |
 | Sahmir Hagans | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Sam Roush | TE | insufficient data | insufficient data | N/A | N/A |  |
-| Seth McGowan | RB | insufficient data | insufficient data | N/A | N/A |  |
 | Seydou Traore | TE | insufficient data | insufficient data | N/A | N/A |  |
 | Sincere Brown | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Squirrel White | WR | insufficient data | insufficient data | N/A | N/A |  |
@@ -399,4 +399,4 @@ _No free-agent rookies with rising usage this week._
 | Zach Horton | TE | insufficient data | insufficient data | N/A | N/A |  |
 | Zavion Thomas | WR | insufficient data | insufficient data | N/A | N/A |  |
 
-_Last updated: 2026-10-23 13:59:50 UTC_
+_Last updated: 2026-10-24 13:02:08 UTC_

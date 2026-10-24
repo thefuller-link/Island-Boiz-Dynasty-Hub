@@ -1390,7 +1390,7 @@
           "target_share": null,
           "route_participation": null,
           "rz_targets": null,
-          "nfl_team": "PIT"
+          "nfl_team": "TB"
         },
         {
           "week": 5,
@@ -1398,7 +1398,7 @@
           "target_share": null,
           "route_participation": null,
           "rz_targets": null,
-          "nfl_team": "TB"
+          "nfl_team": "PIT"
         },
         {
           "week": 6,
@@ -19323,5 +19323,5 @@
       ]
     }
   },
-  "last_updated": "2026-10-23T13:59:50.223836+00:00"
+  "last_updated": "2026-10-24T13:02:08.908613+00:00"
 }
