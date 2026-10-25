@@ -25,6 +25,7 @@ _No free-agent rookies with rising usage this week._
 | Colston Loveland | TE | insufficient data | insufficient data | N/A | N/A |  |
 | Cyrus Allen | WR | insufficient data | insufficient data | N/A | N/A |  |
 | DJ Giddens | RB | insufficient data | insufficient data | N/A | N/A |  |
+| Darius Cooper | WR | insufficient data | insufficient data | N/A | N/A |  |
 | De'Zhaun Stribling | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Deion Burks | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Denzel Boston | WR | insufficient data | insufficient data | N/A | N/A |  |
@@ -164,7 +165,6 @@ _No free-agent rookies with rising usage this week._
 | Dan Villari | TE | insufficient data | insufficient data | N/A | N/A |  |
 | Dane Key | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Daniel Sobkowicz | WR | insufficient data | insufficient data | N/A | N/A |  |
-| Darius Cooper | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Davon Booth | RB | insufficient data | insufficient data | N/A | N/A |  |
 | Dean Connors | RB | insufficient data | insufficient data | N/A | N/A |  |
 | Dean Patterson IV | WR | insufficient data | insufficient data | N/A | N/A |  |
@@ -399,4 +399,4 @@ _No free-agent rookies with rising usage this week._
 | Zach Horton | TE | insufficient data | insufficient data | N/A | N/A |  |
 | Zavion Thomas | WR | insufficient data | insufficient data | N/A | N/A |  |
 
-_Last updated: 2026-10-24 13:02:08 UTC_
+_Last updated: 2026-10-25 13:29:15 UTC_
