@@ -24,7 +24,7 @@
     "playoff_type": 0,
     "taxi_slots": 3,
     "sub_start_time_eligibility": 0,
-    "last_scored_leg": 6,
+    "last_scored_leg": 7,
     "daily_waivers_days": 5461,
     "sub_lock_if_starter_active": 0,
     "playoff_week_start": 15,
@@ -60,9 +60,7 @@
   },
   "avatar": "799997f3f4cba6bcf9a136c762803e78",
   "company_id": null,
-  "shard": 138,
-  "season": "2026",
-  "season_type": "regular",
+  "last_message_id": "1420127280834805760",
   "sport": "nfl",
   "scoring_settings": {
     "sack": 1.0,
@@ -109,7 +107,9 @@
     "pts_allow_7_13": 4.0,
     "st_ff": 1.0
   },
-  "last_message_id": "1420127280834805760",
+  "season": "2026",
+  "season_type": "regular",
+  "shard": 138,
   "last_author_avatar": null,
   "last_author_display_name": "sys",
   "last_author_id": "166666666666666666",
@@ -122,6 +122,8 @@
   "draft_id": "1314838637770199040",
   "league_id": "1314838637019414528",
   "previous_league_id": null,
+  "bracket_id": null,
+  "bracket_overrides_id": null,
   "group_id": null,
   "roster_positions": [
     "QB",
@@ -146,10 +148,8 @@
     "BN",
     "BN"
   ],
-  "bracket_id": null,
-  "bracket_overrides_id": null,
   "loser_bracket_id": null,
   "loser_bracket_overrides_id": null,
   "total_rosters": 10,
-  "last_updated": "2026-10-27T02:47:11.721470+00:00"
+  "last_updated": "2026-10-27T08:28:37.747810+00:00"
 }
