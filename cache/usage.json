@@ -5150,7 +5150,7 @@
           "target_share": null,
           "route_participation": null,
           "rz_targets": null,
-          "nfl_team": "JAX"
+          "nfl_team": "NO"
         },
         {
           "week": 1,
@@ -5158,7 +5158,7 @@
           "target_share": null,
           "route_participation": null,
           "rz_targets": null,
-          "nfl_team": "NO"
+          "nfl_team": "JAX"
         },
         {
           "week": 4,
@@ -21395,5 +21395,5 @@
       ]
     }
   },
-  "last_updated": "2026-10-29T15:46:24.604539+00:00"
+  "last_updated": "2026-10-30T15:28:00.245336+00:00"
 }

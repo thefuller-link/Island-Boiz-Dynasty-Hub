@@ -29,10 +29,10 @@ _No free-agent rookies with rising usage this week._
 | De'Zhaun Stribling | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Deion Burks | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Denzel Boston | WR | insufficient data | insufficient data | N/A | N/A |  |
-| Dont'e Thornton Jr. | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Drew Allar | QB | insufficient data | insufficient data | N/A | N/A |  |
 | Dylan Sampson | RB | insufficient data | insufficient data | N/A | N/A |  |
 | Eli Heidenreich | RB | insufficient data | insufficient data | N/A | N/A |  |
+| Eli Raridon | TE | insufficient data | insufficient data | N/A | N/A |  |
 | Eli Stowers | TE | insufficient data | insufficient data | N/A | N/A |  |
 | Elijah Sarratt | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Emeka Egbuka | WR | insufficient data | insufficient data | N/A | consensus #9 |  |
@@ -178,6 +178,7 @@ _No free-agent rookies with rising usage this week._
 | Dominic Richardson | RB | insufficient data | insufficient data | N/A | N/A |  |
 | Donaven McCulley | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Donovan Edwards | RB | insufficient data | insufficient data | N/A | N/A |  |
+| Dont'e Thornton Jr. | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Dontae Fleming | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Dontae McMillan | RB | insufficient data | insufficient data | N/A | N/A |  |
 | Drake Dabney | TE | insufficient data | insufficient data | N/A | N/A |  |
@@ -185,7 +186,6 @@ _No free-agent rookies with rising usage this week._
 | EJ Smith | RB | insufficient data | insufficient data | N/A | N/A |  |
 | Efton Chism III | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Eli Pancol | WR | insufficient data | insufficient data | N/A | N/A |  |
-| Eli Raridon | TE | insufficient data | insufficient data | N/A | N/A |  |
 | Elic Ayomanor | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Elijah Arroyo | TE | insufficient data | insufficient data | N/A | N/A |  |
 | Elijah Tau-Tolliver | RB | insufficient data | insufficient data | N/A | N/A |  |
@@ -399,4 +399,4 @@ _No free-agent rookies with rising usage this week._
 | Zach Horton | TE | insufficient data | insufficient data | N/A | N/A |  |
 | Zavion Thomas | WR | insufficient data | insufficient data | N/A | N/A |  |
 
-_Last updated: 2026-10-29 15:46:24 UTC_
+_Last updated: 2026-10-30 15:28:00 UTC_
