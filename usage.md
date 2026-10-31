@@ -47,7 +47,6 @@ _No free-agent rookies with rising usage this week._
 | Jacory Croskey-Merritt | RB | insufficient data | insufficient data | N/A | N/A |  |
 | Jadarian Price | RB | insufficient data | insufficient data | N/A | N/A |  |
 | Jalen Milroe | QB | insufficient data | insufficient data | N/A | N/A |  |
-| Jalon Daniels | QB | insufficient data | insufficient data | N/A | N/A |  |
 | Jaxson Dart | QB | insufficient data | insufficient data | N/A | N/A |  |
 | Jayden Higgins | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Jeremiyah Love | RB | insufficient data | insufficient data | N/A | N/A |  |
@@ -229,6 +228,7 @@ _No free-agent rookies with rising usage this week._
 | Jake Briningstool | TE | insufficient data | insufficient data | N/A | N/A |  |
 | Jakobie Keeney-James | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Jalen Royals | WR | insufficient data | insufficient data | N/A | N/A |  |
+| Jalon Daniels | QB | insufficient data | insufficient data | N/A | N/A |  |
 | Jam Miller | RB | insufficient data | insufficient data | N/A | N/A |  |
 | Jamaal Pritchett | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Jamal Haynes | RB | insufficient data | insufficient data | N/A | N/A |  |
@@ -399,4 +399,4 @@ _No free-agent rookies with rising usage this week._
 | Zach Horton | TE | insufficient data | insufficient data | N/A | N/A |  |
 | Zavion Thomas | WR | insufficient data | insufficient data | N/A | N/A |  |
 
-_Last updated: 2026-10-30 15:28:00 UTC_
+_Last updated: 2026-10-31 14:56:30 UTC_
