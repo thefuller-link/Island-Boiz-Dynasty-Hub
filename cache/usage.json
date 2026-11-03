@@ -1574,7 +1574,7 @@
           "target_share": null,
           "route_participation": null,
           "rz_targets": null,
-          "nfl_team": "TB"
+          "nfl_team": "PIT"
         },
         {
           "week": 6,
@@ -1582,14 +1582,6 @@
           "target_share": null,
           "route_participation": null,
           "rz_targets": null,
-          "nfl_team": "PIT"
-        },
-        {
-          "week": 7,
-          "snap_pct": null,
-          "target_share": null,
-          "route_participation": null,
-          "rz_targets": null,
           "nfl_team": "TB"
         },
         {
@@ -1599,6 +1591,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "PIT"
+        },
+        {
+          "week": 7,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "TB"
         },
         {
           "week": 8,
@@ -21395,5 +21395,5 @@
       ]
     }
   },
-  "last_updated": "2026-11-02T19:01:38.843475+00:00"
+  "last_updated": "2026-11-03T16:46:01.722327+00:00"
 }
