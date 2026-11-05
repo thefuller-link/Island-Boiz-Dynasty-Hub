@@ -25,7 +25,6 @@ _No free-agent rookies with rising usage this week._
 | Colston Loveland | TE | insufficient data | insufficient data | N/A | N/A |  |
 | Cyrus Allen | WR | insufficient data | insufficient data | N/A | N/A |  |
 | DJ Giddens | RB | insufficient data | insufficient data | N/A | N/A |  |
-| Darius Cooper | WR | insufficient data | insufficient data | N/A | N/A |  |
 | De'Zhaun Stribling | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Deion Burks | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Denzel Boston | WR | insufficient data | insufficient data | N/A | N/A |  |
@@ -164,6 +163,7 @@ _No free-agent rookies with rising usage this week._
 | Dan Villari | TE | insufficient data | insufficient data | N/A | N/A |  |
 | Dane Key | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Daniel Sobkowicz | WR | insufficient data | insufficient data | N/A | N/A |  |
+| Darius Cooper | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Davon Booth | RB | insufficient data | insufficient data | N/A | N/A |  |
 | Dean Connors | RB | insufficient data | insufficient data | N/A | N/A |  |
 | Dean Patterson IV | WR | insufficient data | insufficient data | N/A | N/A |  |
@@ -266,6 +266,7 @@ _No free-agent rookies with rising usage this week._
 | Josh Kattus | TE | insufficient data | insufficient data | N/A | N/A |  |
 | Josh Kelly | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Josh Williams | RB | insufficient data | insufficient data | N/A | N/A |  |
+| Joshua Pitsenberger | RB | insufficient data | insufficient data | N/A | N/A |  |
 | Joshua Simon | TE | insufficient data | insufficient data | N/A | N/A |  |
 | Junior Bergen | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Justin Joly | TE | insufficient data | insufficient data | N/A | N/A |  |
@@ -399,4 +400,4 @@ _No free-agent rookies with rising usage this week._
 | Zach Horton | TE | insufficient data | insufficient data | N/A | N/A |  |
 | Zavion Thomas | WR | insufficient data | insufficient data | N/A | N/A |  |
 
-_Last updated: 2026-11-04 16:44:03 UTC_
+_Last updated: 2026-11-05 17:01:32 UTC_
