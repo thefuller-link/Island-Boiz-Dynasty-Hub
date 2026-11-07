@@ -1750,7 +1750,7 @@
           "target_share": null,
           "route_participation": null,
           "rz_targets": null,
-          "nfl_team": "PIT"
+          "nfl_team": "TB"
         },
         {
           "week": 6,
@@ -1758,14 +1758,6 @@
           "target_share": null,
           "route_participation": null,
           "rz_targets": null,
-          "nfl_team": "TB"
-        },
-        {
-          "week": 7,
-          "snap_pct": null,
-          "target_share": null,
-          "route_participation": null,
-          "rz_targets": null,
           "nfl_team": "PIT"
         },
         {
@@ -1775,6 +1767,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "TB"
+        },
+        {
+          "week": 7,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "PIT"
         },
         {
           "week": 8,
@@ -5654,7 +5654,7 @@
           "target_share": null,
           "route_participation": null,
           "rz_targets": null,
-          "nfl_team": "NO"
+          "nfl_team": "JAX"
         },
         {
           "week": 1,
@@ -5662,7 +5662,7 @@
           "target_share": null,
           "route_participation": null,
           "rz_targets": null,
-          "nfl_team": "JAX"
+          "nfl_team": "NO"
         },
         {
           "week": 4,
@@ -12871,30 +12871,6 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "NO"
-        }
-      ]
-    },
-    "joseph manjack": {
-      "player_name": "Joseph Manjack",
-      "position": "WR",
-      "years_exp": 0,
-      "sleeper_id": "13743",
-      "weeks": [
-        {
-          "week": 1,
-          "snap_pct": null,
-          "target_share": null,
-          "route_participation": null,
-          "rz_targets": null,
-          "nfl_team": "DEN"
-        },
-        {
-          "week": 9,
-          "snap_pct": null,
-          "target_share": null,
-          "route_participation": null,
-          "rz_targets": null,
-          "nfl_team": "NYJ"
         }
       ]
     },
@@ -23579,5 +23555,5 @@
       ]
     }
   },
-  "last_updated": "2026-11-06T16:31:50.704061+00:00"
+  "last_updated": "2026-11-07T15:18:58.573518+00:00"
 }
