@@ -258,7 +258,6 @@ _No free-agent rookies with rising usage this week._
 | Jordan Moore | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Jordan Waters | RB | insufficient data | insufficient data | N/A | N/A |  |
 | Jordan Watkins | WR | insufficient data | insufficient data | N/A | N/A |  |
-| Joseph Manjack | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Josh Cameron | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Josh Cuevas | TE | insufficient data | insufficient data | N/A | N/A |  |
 | Josh Harris | RB | insufficient data | insufficient data | N/A | N/A |  |
@@ -400,4 +399,4 @@ _No free-agent rookies with rising usage this week._
 | Zach Horton | TE | insufficient data | insufficient data | N/A | N/A |  |
 | Zavion Thomas | WR | insufficient data | insufficient data | N/A | N/A |  |
 
-_Last updated: 2026-11-06 16:31:50 UTC_
+_Last updated: 2026-11-07 15:18:58 UTC_
