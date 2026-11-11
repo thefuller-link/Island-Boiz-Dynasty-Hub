@@ -23,6 +23,7 @@ _No free-agent rookies with rising usage this week._
 | Chris Bell | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Chris Brazzell II | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Colston Loveland | TE | insufficient data | insufficient data | N/A | N/A |  |
+| Corey Kiner | RB | insufficient data | insufficient data | N/A | N/A |  |
 | Cyrus Allen | WR | insufficient data | insufficient data | N/A | N/A |  |
 | DJ Giddens | RB | insufficient data | insufficient data | N/A | N/A |  |
 | De'Zhaun Stribling | WR | insufficient data | insufficient data | N/A | N/A |  |
@@ -148,7 +149,6 @@ _No free-agent rookies with rising usage this week._
 | Coleman Owen | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Connor Bazelak | QB | insufficient data | insufficient data | N/A | N/A |  |
 | Connor Hulstein | TE | insufficient data | insufficient data | N/A | N/A |  |
-| Corey Kiner | RB | insufficient data | insufficient data | N/A | N/A |  |
 | Corey Rucker | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Cortez Braham | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Courtney Jackson | WR | insufficient data | insufficient data | N/A | N/A |  |
@@ -279,6 +279,7 @@ _No free-agent rookies with rising usage this week._
 | Keelan Marion | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Keleki Latu | TE | insufficient data | insufficient data | N/A | N/A |  |
 | Kendrick Law | WR | insufficient data | insufficient data | N/A | N/A |  |
+| Kenny Fletcher Jr. | TE | insufficient data | insufficient data | N/A | N/A |  |
 | Kentrel Bullock | RB | insufficient data | insufficient data | N/A | N/A |  |
 | Kevin Coleman Jr. | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Khalil Dinkins | TE | insufficient data | insufficient data | N/A | N/A |  |
@@ -399,4 +400,4 @@ _No free-agent rookies with rising usage this week._
 | Zach Horton | TE | insufficient data | insufficient data | N/A | N/A |  |
 | Zavion Thomas | WR | insufficient data | insufficient data | N/A | N/A |  |
 
-_Last updated: 2026-11-10 16:42:52 UTC_
+_Last updated: 2026-11-11 16:49:16 UTC_

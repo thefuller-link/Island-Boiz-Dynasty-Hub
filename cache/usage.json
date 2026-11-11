@@ -1910,7 +1910,7 @@
           "target_share": null,
           "route_participation": null,
           "rz_targets": null,
-          "nfl_team": "PIT"
+          "nfl_team": "TB"
         },
         {
           "week": 6,
@@ -1918,14 +1918,6 @@
           "target_share": null,
           "route_participation": null,
           "rz_targets": null,
-          "nfl_team": "TB"
-        },
-        {
-          "week": 7,
-          "snap_pct": null,
-          "target_share": null,
-          "route_participation": null,
-          "rz_targets": null,
           "nfl_team": "PIT"
         },
         {
@@ -1935,6 +1927,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "TB"
+        },
+        {
+          "week": 7,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "PIT"
         },
         {
           "week": 8,
@@ -6102,7 +6102,7 @@
           "target_share": null,
           "route_participation": null,
           "rz_targets": null,
-          "nfl_team": "NO"
+          "nfl_team": "JAX"
         },
         {
           "week": 1,
@@ -6110,7 +6110,7 @@
           "target_share": null,
           "route_participation": null,
           "rz_targets": null,
-          "nfl_team": "JAX"
+          "nfl_team": "NO"
         },
         {
           "week": 4,
@@ -15391,6 +15391,54 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "DET"
+        }
+      ]
+    },
+    "kenny fletcher jr": {
+      "player_name": "Kenny Fletcher Jr.",
+      "position": "TE",
+      "years_exp": 0,
+      "sleeper_id": "13957",
+      "weeks": [
+        {
+          "week": 1,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "IND"
+        },
+        {
+          "week": 2,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "IND"
+        },
+        {
+          "week": 3,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "IND"
+        },
+        {
+          "week": 4,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "IND"
+        },
+        {
+          "week": 5,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "IND"
         }
       ]
     },
@@ -25587,5 +25635,5 @@
       ]
     }
   },
-  "last_updated": "2026-11-10T16:42:52.915227+00:00"
+  "last_updated": "2026-11-11T16:49:16.753331+00:00"
 }
