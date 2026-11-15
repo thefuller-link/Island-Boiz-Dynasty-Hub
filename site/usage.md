@@ -319,6 +319,7 @@ _No free-agent rookies with rising usage this week._
 | Matthew Henry | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Max Bredeson | RB | insufficient data | insufficient data | N/A | N/A |  |
 | Max Brosmer | QB | insufficient data | insufficient data | N/A | N/A |  |
+| Max Hurleman | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Max Tomczak | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Michael Briscoe | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Michael Trigg | TE | insufficient data | insufficient data | N/A | N/A |  |
@@ -400,4 +401,4 @@ _No free-agent rookies with rising usage this week._
 | Zach Horton | TE | insufficient data | insufficient data | N/A | N/A |  |
 | Zavion Thomas | WR | insufficient data | insufficient data | N/A | N/A |  |
 
-_Last updated: 2026-11-14 15:26:51 UTC_
+_Last updated: 2026-11-15 16:00:18 UTC_

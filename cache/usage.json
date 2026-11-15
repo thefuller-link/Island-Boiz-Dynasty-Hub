@@ -18450,6 +18450,86 @@
         }
       ]
     },
+    "max hurleman": {
+      "player_name": "Max Hurleman",
+      "position": "WR",
+      "years_exp": 1,
+      "sleeper_id": "13200",
+      "weeks": [
+        {
+          "week": 1,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "PIT"
+        },
+        {
+          "week": 2,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "PIT"
+        },
+        {
+          "week": 3,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "PIT"
+        },
+        {
+          "week": 4,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "PIT"
+        },
+        {
+          "week": 5,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "PIT"
+        },
+        {
+          "week": 6,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "PIT"
+        },
+        {
+          "week": 7,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "PIT"
+        },
+        {
+          "week": 8,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "PIT"
+        },
+        {
+          "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "PIT"
+        }
+      ]
+    },
     "max klare": {
       "player_name": "Max Klare",
       "position": "TE",
@@ -25659,5 +25739,5 @@
       ]
     }
   },
-  "last_updated": "2026-11-14T15:26:51.398963+00:00"
+  "last_updated": "2026-11-15T16:00:18.380795+00:00"
 }
