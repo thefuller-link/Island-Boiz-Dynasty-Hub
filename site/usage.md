@@ -54,6 +54,7 @@ _No free-agent rookies with rising usage this week._
 | Jordyn Tyson | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Kaelon Black | RB | insufficient data | insufficient data | N/A | N/A |  |
 | Kaytron Allen | RB | insufficient data | insufficient data | N/A | N/A |  |
+| KeAndre Lambert-Smith | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Kenyon Sadiq | TE | insufficient data | insufficient data | N/A | N/A |  |
 | Konata Mumpfield | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Kyle McCord | QB | insufficient data | insufficient data | N/A | N/A |  |
@@ -276,7 +277,6 @@ _No free-agent rookies with rising usage this week._
 | Kaleb Johnson | RB | insufficient data | insufficient data | N/A | N/A |  |
 | Kalel Mullings | RB | insufficient data | insufficient data | N/A | N/A |  |
 | Ke'Shawn Williams | WR | insufficient data | insufficient data | N/A | N/A |  |
-| KeAndre Lambert-Smith | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Keelan Marion | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Keleki Latu | TE | insufficient data | insufficient data | N/A | N/A |  |
 | Kendrick Law | WR | insufficient data | insufficient data | N/A | N/A |  |
@@ -401,4 +401,4 @@ _No free-agent rookies with rising usage this week._
 | Zach Horton | TE | insufficient data | insufficient data | N/A | N/A |  |
 | Zavion Thomas | WR | insufficient data | insufficient data | N/A | N/A |  |
 
-_Last updated: 2026-11-15 16:00:18 UTC_
+_Last updated: 2026-11-16 19:09:09 UTC_
