@@ -111,12 +111,12 @@
     "st_ff": 1.0
   },
   "last_message_id": "1427878299719188480",
+  "draft_id": "1314838637770199040",
   "last_author_avatar": null,
   "last_author_display_name": "sys",
   "last_author_id": "166666666666666666",
   "last_author_is_bot": true,
   "last_message_attachment": null,
-  "draft_id": "1314838637770199040",
   "last_message_text_map": null,
   "last_message_time": 1794795224650,
   "last_pinned_message_id": null,
@@ -151,5 +151,5 @@
     "BN"
   ],
   "total_rosters": 10,
-  "last_updated": "2026-11-17T05:36:28.755946+00:00"
+  "last_updated": "2026-11-17T15:05:58.784979+00:00"
 }
