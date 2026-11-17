@@ -87,6 +87,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "BAL"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "BAL"
         }
       ]
     },
@@ -167,6 +175,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "CAR"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CAR"
         }
       ]
     },
@@ -234,6 +250,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "MIA"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -314,6 +338,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "JAX"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -423,6 +455,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "NYJ"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "NYJ"
         }
       ]
     },
@@ -498,6 +538,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "LAC"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -615,6 +663,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "KC"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "KC"
         }
       ]
     },
@@ -703,6 +759,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "DAL"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "DAL"
         }
       ]
     },
@@ -783,6 +847,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "CAR"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CAR"
         }
       ]
     },
@@ -858,6 +930,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "WAS"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -1039,6 +1119,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "NYJ"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "NYJ"
         }
       ]
     },
@@ -1127,6 +1215,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "LV"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "LV"
         }
       ]
     },
@@ -1202,6 +1298,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "WAS"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -1319,6 +1423,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "NO"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "NO"
         }
       ]
     },
@@ -1394,6 +1506,14 @@
         },
         {
           "week": 9,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "TB"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -1671,6 +1791,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "MIN"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "MIN"
         }
       ]
     },
@@ -1746,6 +1874,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "JAX"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -1847,6 +1983,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "MIA"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "MIA"
         }
       ]
     },
@@ -1894,7 +2038,7 @@
           "target_share": null,
           "route_participation": null,
           "rz_targets": null,
-          "nfl_team": "PIT"
+          "nfl_team": "TB"
         },
         {
           "week": 5,
@@ -1902,15 +2046,7 @@
           "target_share": null,
           "route_participation": null,
           "rz_targets": null,
-          "nfl_team": "TB"
-        },
-        {
-          "week": 6,
-          "snap_pct": null,
-          "target_share": null,
-          "route_participation": null,
-          "rz_targets": null,
-          "nfl_team": "TB"
+          "nfl_team": "PIT"
         },
         {
           "week": 6,
@@ -1919,6 +2055,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "PIT"
+        },
+        {
+          "week": 6,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "TB"
         },
         {
           "week": 7,
@@ -1962,6 +2106,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "PIT"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -2047,6 +2199,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "KC"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "KC"
         }
       ]
     },
@@ -2122,6 +2282,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "LAC"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -2351,6 +2519,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "NO"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "NO"
         }
       ]
     },
@@ -2463,6 +2639,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "NYJ"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "NYJ"
         }
       ]
     },
@@ -2498,6 +2682,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CIN"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -2583,6 +2775,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "MIA"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "MIA"
         }
       ]
     },
@@ -2663,6 +2863,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "DEN"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "DEN"
         }
       ]
     },
@@ -2694,7 +2902,7 @@
           "target_share": null,
           "route_participation": null,
           "rz_targets": null,
-          "nfl_team": "MIA"
+          "nfl_team": "CAR"
         },
         {
           "week": 1,
@@ -2702,7 +2910,7 @@
           "target_share": null,
           "route_participation": null,
           "rz_targets": null,
-          "nfl_team": "CAR"
+          "nfl_team": "MIA"
         },
         {
           "week": 9,
@@ -2799,6 +3007,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "NYG"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "NYG"
         }
       ]
     },
@@ -2874,6 +3090,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "TEN"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -2962,6 +3186,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "DAL"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -3167,6 +3399,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "TEN"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "TEN"
         }
       ]
     },
@@ -3343,6 +3583,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "ARI"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "ARI"
         }
       ]
     },
@@ -3431,6 +3679,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "IND"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "IND"
         }
       ]
     },
@@ -3514,6 +3770,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "LV"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -3783,6 +4047,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "TEN"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "TEN"
         }
       ]
     },
@@ -3863,6 +4135,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "MIA"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "MIA"
         }
       ]
     },
@@ -3938,6 +4218,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CAR"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -4167,6 +4455,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "TB"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "TB"
         }
       ]
     },
@@ -4247,6 +4543,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "NO"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "NO"
         }
       ]
     },
@@ -4322,6 +4626,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "JAX"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -4455,6 +4767,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "CIN"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CIN"
         }
       ]
     },
@@ -4530,6 +4850,14 @@
         },
         {
           "week": 9,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "PHI"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -4698,6 +5026,14 @@
         },
         {
           "week": 9,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CHI"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -4999,6 +5335,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "KC"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "KC"
         }
       ]
     },
@@ -5074,6 +5418,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "NYG"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -5175,6 +5527,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "DEN"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "DEN"
         }
       ]
     },
@@ -5258,6 +5618,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "MIN"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -5431,6 +5799,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "DEN"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "DEN"
         }
       ]
     },
@@ -5583,6 +5959,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "PHI"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "PHI"
         }
       ]
     },
@@ -5666,6 +6050,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "IND"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -5839,6 +6231,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "TB"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "TB"
         }
       ]
     },
@@ -5927,6 +6327,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "IND"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "IND"
         }
       ]
     },
@@ -6002,6 +6410,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "MIN"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -6167,6 +6583,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "WAS"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "WAS"
         }
       ]
     },
@@ -6263,6 +6687,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "SF"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "SF"
         }
       ]
     },
@@ -6338,6 +6770,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "MIN"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -6519,6 +6959,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "IND"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "IND"
         }
       ]
     },
@@ -6594,6 +7042,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "MIA"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -6751,6 +7207,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "LAC"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "LAC"
         }
       ]
     },
@@ -6831,6 +7295,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "CIN"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CIN"
         }
       ]
     },
@@ -6906,6 +7378,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "DET"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -7010,6 +7490,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "NYG"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -7130,6 +7618,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "LV"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -7298,6 +7794,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "PIT"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -7591,6 +8095,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "PIT"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "PIT"
         }
       ]
     },
@@ -7823,6 +8335,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "PHI"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "PHI"
         }
       ]
     },
@@ -7898,6 +8418,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "TEN"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -8079,6 +8607,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "BAL"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "BAL"
         }
       ]
     },
@@ -8170,6 +8706,14 @@
         },
         {
           "week": 9,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "TB"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -8343,6 +8887,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "KC"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "KC"
         }
       ]
     },
@@ -8418,6 +8970,14 @@
         },
         {
           "week": 9,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "TB"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -8607,6 +9167,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "LV"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "LV"
         }
       ]
     },
@@ -8695,6 +9263,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "BAL"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "BAL"
         }
       ]
     },
@@ -8770,6 +9346,14 @@
         },
         {
           "week": 9,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "TB"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -8855,6 +9439,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "KC"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "KC"
         }
       ]
     },
@@ -8930,6 +9522,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "MIN"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -9015,6 +9615,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "PIT"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "PIT"
         }
       ]
     },
@@ -9090,6 +9698,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "HOU"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -9175,6 +9791,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "NYG"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "NYG"
         }
       ]
     },
@@ -9250,6 +9874,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "TEN"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -9447,6 +10079,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "ARI"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "ARI"
         }
       ]
     },
@@ -9527,6 +10167,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "CHI"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CHI"
         }
       ]
     },
@@ -9602,6 +10250,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CAR"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -9698,6 +10354,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "DET"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -10143,6 +10807,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "LV"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "LV"
         }
       ]
     },
@@ -10218,6 +10890,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CIN"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -10455,6 +11135,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "BUF"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "BUF"
         }
       ]
     },
@@ -10535,6 +11223,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "DET"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "DET"
         }
       ]
     },
@@ -10578,6 +11274,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "KC"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -10674,6 +11378,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "WAS"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -10847,6 +11559,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "WAS"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "WAS"
         }
       ]
     },
@@ -10959,6 +11679,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "CHI"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CHI"
         }
       ]
     },
@@ -11034,6 +11762,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "KC"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -11122,6 +11858,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "BAL"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -11311,6 +12055,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "KC"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "KC"
         }
       ]
     },
@@ -11386,6 +12138,14 @@
         },
         {
           "week": 9,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "TB"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -11538,6 +12298,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "NYJ"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -11711,6 +12479,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "BUF"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "BUF"
         }
       ]
     },
@@ -11802,6 +12578,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "TEN"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -11967,6 +12751,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "CAR"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CAR"
         }
       ]
     },
@@ -12042,6 +12834,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "NYG"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -12127,6 +12927,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "HOU"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "HOU"
         }
       ]
     },
@@ -12202,6 +13010,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "KC"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -12287,6 +13103,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "PHI"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "PHI"
         }
       ]
     },
@@ -12362,6 +13186,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "WAS"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -12447,6 +13279,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "HOU"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "HOU"
         }
       ]
     },
@@ -12522,6 +13362,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "KC"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -12727,6 +13575,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "ARI"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "ARI"
         }
       ]
     },
@@ -12818,6 +13674,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "KC"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -13023,6 +13887,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "JAX"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "JAX"
         }
       ]
     },
@@ -13106,6 +13978,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "BAL"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -13279,6 +14159,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "ARI"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "ARI"
         }
       ]
     },
@@ -13354,6 +14242,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "KC"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -13455,6 +14351,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "DEN"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "DEN"
         }
       ]
     },
@@ -13543,6 +14447,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "DAL"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "DAL"
         }
       ]
     },
@@ -13623,6 +14535,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "SF"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "SF"
         }
       ]
     },
@@ -13698,6 +14618,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CIN"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -13871,6 +14799,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "SF"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "SF"
         }
       ]
     },
@@ -13951,6 +14887,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "NO"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "NO"
         }
       ]
     },
@@ -14026,6 +14970,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "JAX"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -14119,6 +15071,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "BAL"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "BAL"
         }
       ]
     },
@@ -14194,6 +15154,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "LAC"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -14279,6 +15247,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "ARI"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "ARI"
         }
       ]
     },
@@ -14322,6 +15298,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CIN"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -14407,6 +15391,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "HOU"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "HOU"
         }
       ]
     },
@@ -14487,6 +15479,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "TB"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "TB"
         }
       ]
     },
@@ -14506,6 +15506,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "HOU"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -14607,6 +15615,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "CHI"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CHI"
         }
       ]
     },
@@ -14698,6 +15714,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "MIA"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -14815,6 +15839,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "PIT"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "PIT"
         }
       ]
     },
@@ -14890,6 +15922,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "SF"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -15063,6 +16103,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "TEN"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "TEN"
         }
       ]
     },
@@ -15143,6 +16191,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "MIA"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "MIA"
         }
       ]
     },
@@ -15218,6 +16274,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "LAC"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -15319,6 +16383,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "BUF"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "BUF"
         }
       ]
     },
@@ -15394,6 +16466,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "DET"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -15535,6 +16615,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "CIN"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CIN"
         }
       ]
     },
@@ -15623,6 +16711,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "NYJ"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "NYJ"
         }
       ]
     },
@@ -15698,6 +16794,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CIN"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -15783,6 +16887,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "MIA"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "MIA"
         }
       ]
     },
@@ -15858,6 +16970,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "SF"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -15970,6 +17090,14 @@
         },
         {
           "week": 9,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "DEN"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -16167,6 +17295,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "SF"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "SF"
         }
       ]
     },
@@ -16335,6 +17471,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "MIA"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "MIA"
         }
       ]
     },
@@ -16410,6 +17554,14 @@
         },
         {
           "week": 9,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CHI"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -16655,6 +17807,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "BAL"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "BAL"
         }
       ]
     },
@@ -16730,6 +17890,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "PIT"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -16935,6 +18103,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "JAX"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "JAX"
         }
       ]
     },
@@ -17010,6 +18186,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "MIA"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -17106,6 +18290,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "HOU"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -17223,6 +18415,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "DET"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "DET"
         }
       ]
     },
@@ -17274,6 +18474,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "LAC"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -17359,6 +18567,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "CHI"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CHI"
         }
       ]
     },
@@ -17439,6 +18655,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "PHI"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "PHI"
         }
       ]
     },
@@ -17514,6 +18738,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "NYG"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -17663,6 +18895,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "LV"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "LV"
         }
       ]
     },
@@ -17746,6 +18986,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "NYJ"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -17967,6 +19215,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "HOU"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "HOU"
         }
       ]
     },
@@ -18071,6 +19327,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "NYJ"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "NYJ"
         }
       ]
     },
@@ -18090,6 +19354,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "NO"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -18367,6 +19639,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "MIN"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "MIN"
         }
       ]
     },
@@ -18447,6 +19727,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "MIN"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "MIN"
         }
       ]
     },
@@ -18522,6 +19810,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "PIT"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -18711,6 +20007,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "MIN"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "MIN"
         }
       ]
     },
@@ -18799,6 +20103,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "DAL"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "DAL"
         }
       ]
     },
@@ -18874,6 +20186,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "JAX"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -18967,6 +20287,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "LV"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "LV"
         }
       ]
     },
@@ -19034,6 +20362,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "DET"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -19114,6 +20450,14 @@
         },
         {
           "week": 9,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CHI"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -19215,6 +20559,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "CAR"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CAR"
         }
       ]
     },
@@ -19290,6 +20642,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "NO"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -19551,6 +20911,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "MIN"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "MIN"
         }
       ]
     },
@@ -19626,6 +20994,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "JAX"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -19711,6 +21087,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "KC"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "KC"
         }
       ]
     },
@@ -19791,6 +21175,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "TEN"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "TEN"
         }
       ]
     },
@@ -19842,6 +21234,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "WAS"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -20031,6 +21431,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "CIN"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CIN"
         }
       ]
     },
@@ -20106,6 +21514,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "HOU"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -20207,6 +21623,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "MIA"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "MIA"
         }
       ]
     },
@@ -20295,6 +21719,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "NYJ"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "NYJ"
         }
       ]
     },
@@ -20370,6 +21802,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "KC"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -20471,6 +21911,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "LAC"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "LAC"
         }
       ]
     },
@@ -20551,6 +21999,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "NO"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "NO"
         }
       ]
     },
@@ -20626,6 +22082,14 @@
         },
         {
           "week": 9,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "DEN"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -20719,6 +22183,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "LV"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "LV"
         }
       ]
     },
@@ -20794,6 +22266,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "LAC"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -20879,6 +22359,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "NYG"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "NYG"
         }
       ]
     },
@@ -20914,6 +22402,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "WAS"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -21106,6 +22602,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "JAX"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -21407,6 +22911,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "ARI"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "ARI"
         }
       ]
     },
@@ -21583,6 +23095,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "IND"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "IND"
         }
       ]
     },
@@ -21658,6 +23178,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "PIT"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -21770,6 +23298,14 @@
         },
         {
           "week": 9,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "DEN"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -21951,6 +23487,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "WAS"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "WAS"
         }
       ]
     },
@@ -22071,6 +23615,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "LV"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "LV"
         }
       ]
     },
@@ -22178,6 +23730,14 @@
         },
         {
           "week": 9,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CHI"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -22359,6 +23919,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "IND"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "IND"
         }
       ]
     },
@@ -22434,6 +24002,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "MIA"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -22623,6 +24199,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "BUF"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "BUF"
         }
       ]
     },
@@ -22698,6 +24282,14 @@
         },
         {
           "week": 9,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CHI"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -22783,6 +24375,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "BUF"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "BUF"
         }
       ]
     },
@@ -22863,6 +24463,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "CIN"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CIN"
         }
       ]
     },
@@ -22938,6 +24546,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "MIN"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -23111,6 +24727,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "JAX"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "JAX"
         }
       ]
     },
@@ -23274,6 +24898,14 @@
         },
         {
           "week": 9,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "TB"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -23463,6 +25095,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "CAR"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CAR"
         }
       ]
     },
@@ -23538,6 +25178,14 @@
         },
         {
           "week": 9,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "TB"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -23623,6 +25271,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "LAC"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "LAC"
         }
       ]
     },
@@ -23703,6 +25359,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "NYG"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "NYG"
         }
       ]
     },
@@ -23778,6 +25442,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "DET"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -23983,6 +25655,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "LAC"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "LAC"
         }
       ]
     },
@@ -24079,86 +25759,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "MIA"
-        }
-      ]
-    },
-    "trebor pena": {
-      "player_name": "Trebor Pena",
-      "position": "WR",
-      "years_exp": 0,
-      "sleeper_id": "13356",
-      "weeks": [
-        {
-          "week": 1,
-          "snap_pct": null,
-          "target_share": null,
-          "route_participation": null,
-          "rz_targets": null,
-          "nfl_team": "JAX"
         },
         {
-          "week": 2,
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
           "rz_targets": null,
-          "nfl_team": "JAX"
-        },
-        {
-          "week": 3,
-          "snap_pct": null,
-          "target_share": null,
-          "route_participation": null,
-          "rz_targets": null,
-          "nfl_team": "JAX"
-        },
-        {
-          "week": 4,
-          "snap_pct": null,
-          "target_share": null,
-          "route_participation": null,
-          "rz_targets": null,
-          "nfl_team": "JAX"
-        },
-        {
-          "week": 5,
-          "snap_pct": null,
-          "target_share": null,
-          "route_participation": null,
-          "rz_targets": null,
-          "nfl_team": "JAX"
-        },
-        {
-          "week": 6,
-          "snap_pct": null,
-          "target_share": null,
-          "route_participation": null,
-          "rz_targets": null,
-          "nfl_team": "JAX"
-        },
-        {
-          "week": 8,
-          "snap_pct": null,
-          "target_share": null,
-          "route_participation": null,
-          "rz_targets": null,
-          "nfl_team": "JAX"
-        },
-        {
-          "week": 9,
-          "snap_pct": null,
-          "target_share": null,
-          "route_participation": null,
-          "rz_targets": null,
-          "nfl_team": "JAX"
-        },
-        {
-          "week": 10,
-          "snap_pct": null,
-          "target_share": null,
-          "route_participation": null,
-          "rz_targets": null,
-          "nfl_team": "JAX"
+          "nfl_team": "MIA"
         }
       ]
     },
@@ -24327,6 +25935,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "CAR"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CAR"
         }
       ]
     },
@@ -24458,6 +26074,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "BAL"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -24647,6 +26271,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "NO"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "NO"
         }
       ]
     },
@@ -24735,6 +26367,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "IND"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "IND"
         }
       ]
     },
@@ -24810,6 +26450,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "TEN"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -24983,6 +26631,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "SF"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "SF"
         }
       ]
     },
@@ -25058,6 +26714,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "PIT"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -25143,6 +26807,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "MIA"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "MIA"
         }
       ]
     },
@@ -25218,6 +26890,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "SF"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -25303,6 +26983,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "MIA"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "MIA"
         }
       ]
     },
@@ -25378,6 +27066,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "HOU"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -25546,6 +27242,14 @@
         },
         {
           "week": 10,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "TEN"
+        },
+        {
+          "week": 11,
           "snap_pct": null,
           "target_share": null,
           "route_participation": null,
@@ -25735,9 +27439,17 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "CHI"
+        },
+        {
+          "week": 11,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "CHI"
         }
       ]
     }
   },
-  "last_updated": "2026-11-16T19:09:09.109459+00:00"
+  "last_updated": "2026-11-17T18:01:58.260252+00:00"
 }

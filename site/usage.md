@@ -383,7 +383,6 @@ _No free-agent rookies with rising usage this week._
 | Trayvon Rudolph | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Tre Stewart | RB | insufficient data | insufficient data | N/A | N/A |  |
 | Tre Watson | TE | insufficient data | insufficient data | N/A | N/A |  |
-| Trebor Pena | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Trevor Etienne | RB | insufficient data | insufficient data | N/A | N/A |  |
 | Treyvhon Saunders | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Tru Edwards | WR | insufficient data | insufficient data | N/A | N/A |  |
@@ -401,4 +400,4 @@ _No free-agent rookies with rising usage this week._
 | Zach Horton | TE | insufficient data | insufficient data | N/A | N/A |  |
 | Zavion Thomas | WR | insufficient data | insufficient data | N/A | N/A |  |
 
-_Last updated: 2026-11-16 19:09:09 UTC_
+_Last updated: 2026-11-17 18:01:58 UTC_
