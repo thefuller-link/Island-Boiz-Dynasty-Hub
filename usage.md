@@ -34,11 +34,11 @@ _No free-agent rookies with rising usage this week._
 | Eli Heidenreich | RB | insufficient data | insufficient data | N/A | N/A |  |
 | Eli Raridon | TE | insufficient data | insufficient data | N/A | N/A |  |
 | Eli Stowers | TE | insufficient data | insufficient data | N/A | N/A |  |
+| Elic Ayomanor | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Elijah Sarratt | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Emeka Egbuka | WR | insufficient data | insufficient data | N/A | consensus #9 |  |
 | Emmett Johnson | RB | insufficient data | insufficient data | N/A | N/A |  |
 | Fernando Mendoza | QB | insufficient data | insufficient data | N/A | N/A |  |
-| Garrett Nussmeier | QB | insufficient data | insufficient data | N/A | N/A |  |
 | Germie Bernard | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Gunnar Helm | TE | insufficient data | insufficient data | N/A | N/A |  |
 | Harold Fannin Jr. | TE | insufficient data | insufficient data | N/A | N/A |  |
@@ -187,7 +187,6 @@ _No free-agent rookies with rising usage this week._
 | EJ Smith | RB | insufficient data | insufficient data | N/A | N/A |  |
 | Efton Chism III | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Eli Pancol | WR | insufficient data | insufficient data | N/A | N/A |  |
-| Elic Ayomanor | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Elijah Arroyo | TE | insufficient data | insufficient data | N/A | N/A |  |
 | Elijah Tau-Tolliver | RB | insufficient data | insufficient data | N/A | N/A |  |
 | Emmanuel Henderson Jr. | WR | insufficient data | insufficient data | N/A | N/A |  |
@@ -196,6 +195,7 @@ _No free-agent rookies with rising usage this week._
 | Evan Svoboda | TE | insufficient data | insufficient data | N/A | N/A |  |
 | Gage Larvadain | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Garrett Greene | QB | insufficient data | insufficient data | N/A | N/A |  |
+| Garrett Nussmeier | QB | insufficient data | insufficient data | N/A | N/A |  |
 | Gavin Bartholomew | TE | insufficient data | insufficient data | N/A | N/A |  |
 | Graham Mertz | QB | insufficient data | insufficient data | N/A | N/A |  |
 | Gregory Desrosiers | RB | insufficient data | insufficient data | N/A | N/A |  |
@@ -400,4 +400,4 @@ _No free-agent rookies with rising usage this week._
 | Zach Horton | TE | insufficient data | insufficient data | N/A | N/A |  |
 | Zavion Thomas | WR | insufficient data | insufficient data | N/A | N/A |  |
 
-_Last updated: 2026-11-17 18:01:58 UTC_
+_Last updated: 2026-11-18 17:43:15 UTC_
