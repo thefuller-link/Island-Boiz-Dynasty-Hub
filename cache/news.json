@@ -1,45 +1,53 @@
 {
   "items": [
     {
-      "title": "Baker Mayfield: 'Trending' toward sitting Week 11",
-      "description": "Mayfield (foot) \"seems to be trending\" toward sitting out Sunday's game against the Lions, with Jalon Daniels likely to draw the Week 11 start, Ian Rapoport of NFL Network reports.\n\n        Visit RotoWire.com for more analysis on this update.",
-      "published": "Tue, 17 Nov 2026 2:48:00 PM PST",
+      "title": "Michael Pittman: Back practicing Wednesday",
+      "description": "Steelers head coach Mike McCarthy said Wednesday that Pittman (foot) has been designated for return from injured reserve, Nick Farabaugh of PennLive.com reports.\n\n        Visit RotoWire.com for more analysis on this update.",
+      "published": "Wed, 18 Nov 2026 11:34:00 AM PST",
+      "link": "https://www.rotowire.com//football/player/michael-pittman-14378",
+      "categories": [
+        "rookie"
+      ]
+    },
+    {
+      "title": "Brock Bowers: Absent from practicing Wednesday",
+      "description": "Bowers (ankle) wasn't spotted on the field for Wednesday's practice, Ryan McFadden of ESPN.com reports.\n\n        Visit RotoWire.com for more analysis on this update.",
+      "published": "Wed, 18 Nov 2026 11:27:00 AM PST",
+      "link": "https://www.rotowire.com//football/player/brock-bowers-17693",
+      "categories": [
+        "rostered"
+      ]
+    },
+    {
+      "title": "Jordan Addison: Has thumb surgery, avoiding IR",
+      "description": "Head coach Kevin O'Connell said Wednesday that Addison underwent thumb surgery earlier this week and won't be placed on injured reserve, Alec Lewis of The Athletic reports.\n\n        Visit RotoWire.com for more analysis on this update.",
+      "published": "Wed, 18 Nov 2026 11:26:00 AM PST",
+      "link": "https://www.rotowire.com//football/player/jordan-addison-16895",
+      "categories": [
+        "rostered",
+        "rookie"
+      ]
+    },
+    {
+      "title": "Mike Evans: DNP on Wednesday, may practice Thursday",
+      "description": "Head coach Kyle Shanahan said Evans (Achilles) won't practice Wednesday but hopes the wide receiver will return to drills Thursday, Nick Wagoner of ESPN.com reports.\n\n        Visit RotoWire.com for more analysis on this update.",
+      "published": "Wed, 18 Nov 2026 10:53:00 AM PST",
+      "link": "https://www.rotowire.com//football/player/mike-evans-9253",
+      "categories": [
+        "rostered",
+        "rookie"
+      ]
+    },
+    {
+      "title": "Baker Mayfield: Week 11 status TBD",
+      "description": "Coach Todd Bowles said Wednesday that Mayfield (foot), who didn't practice Wednesday, is \"a lot better\" than he was a week ago, Scott Smith of the Buccaneers' official site reports.\n\n        Visit RotoWire.com for more analysis on this update.",
+      "published": "Wed, 18 Nov 2026 10:37:00 AM PST",
       "link": "https://www.rotowire.com//football/player/baker-mayfield-12619",
       "categories": [
         "rostered",
-        "trending",
         "rookie"
-      ]
-    },
-    {
-      "title": "Jalon Daniels: Could be headed for Week 11 start",
-      "description": "Daniels \"seems to be trending\" toward drawing the start at quarterback for the Buccaneers on Sunday in Detroit while Baker Mayfield tends to a foot strain, Ian Rapoport of NFL Network reports.\n\n        Visit RotoWire.com for more analysis on this update.",
-      "published": "Tue, 17 Nov 2026 2:43:00 PM PST",
-      "link": "https://www.rotowire.com//football/player/jalon-daniels-19292",
-      "categories": [
-        "rostered",
-        "trending",
-        "rookie"
-      ]
-    },
-    {
-      "title": "Woody Marks: Sits out another practice",
-      "description": "Marks (concussion) didn't practice Tuesday.\n\n        Visit RotoWire.com for more analysis on this update.",
-      "published": "Tue, 17 Nov 2026 2:00:00 PM PST",
-      "link": "https://www.rotowire.com//football/player/woody-marks-18449",
-      "categories": [
-        "rostered"
-      ]
-    },
-    {
-      "title": "Wan'Dale Robinson: Heads to IR with ankle injury",
-      "description": "The Titans placed Robinson (ankle) on injured reserve Tuesday, Jim Wyatt of the team's official site reports.\n\n        Visit RotoWire.com for more analysis on this update.",
-      "published": "Tue, 17 Nov 2026 1:26:00 PM PST",
-      "link": "https://www.rotowire.com//football/player/wandale-robinson-15838",
-      "categories": [
-        "rostered"
       ]
     }
   ],
-  "last_updated": "2026-11-18T10:51:20.605307+00:00"
+  "last_updated": "2026-11-18T19:42:47.423010+00:00"
 }
