@@ -20,6 +20,7 @@ _No free-agent rookies with rising usage this week._
 | Cam Ward | QB | insufficient data | insufficient data | N/A | consensus #6 |  |
 | Carnell Tate | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Carson Beck | QB | insufficient data | insufficient data | N/A | N/A |  |
+| Chimere Dike | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Chris Bell | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Chris Brazzell II | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Colston Loveland | TE | insufficient data | insufficient data | N/A | N/A |  |
@@ -142,7 +143,6 @@ _No free-agent rookies with rising usage this week._
 | Chandler Brayboy | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Chase Curtis | TE | insufficient data | insufficient data | N/A | N/A |  |
 | Chase Roberts | WR | insufficient data | insufficient data | N/A | N/A |  |
-| Chimere Dike | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Chris Smith | RB | insufficient data | insufficient data | N/A | N/A |  |
 | Cody Hardy | TE | insufficient data | insufficient data | N/A | N/A |  |
 | Colbie Young | WR | insufficient data | insufficient data | N/A | N/A |  |
@@ -400,4 +400,4 @@ _No free-agent rookies with rising usage this week._
 | Zach Horton | TE | insufficient data | insufficient data | N/A | N/A |  |
 | Zavion Thomas | WR | insufficient data | insufficient data | N/A | N/A |  |
 
-_Last updated: 2026-11-19 17:53:42 UTC_
+_Last updated: 2026-11-20 17:27:10 UTC_
