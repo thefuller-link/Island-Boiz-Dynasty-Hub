@@ -2046,7 +2046,7 @@
           "target_share": null,
           "route_participation": null,
           "rz_targets": null,
-          "nfl_team": "TB"
+          "nfl_team": "PIT"
         },
         {
           "week": 5,
@@ -2054,7 +2054,7 @@
           "target_share": null,
           "route_participation": null,
           "rz_targets": null,
-          "nfl_team": "PIT"
+          "nfl_team": "TB"
         },
         {
           "week": 6,
@@ -2078,7 +2078,7 @@
           "target_share": null,
           "route_participation": null,
           "rz_targets": null,
-          "nfl_team": "TB"
+          "nfl_team": "PIT"
         },
         {
           "week": 7,
@@ -2086,7 +2086,7 @@
           "target_share": null,
           "route_participation": null,
           "rz_targets": null,
-          "nfl_team": "PIT"
+          "nfl_team": "TB"
         },
         {
           "week": 8,
@@ -9735,94 +9735,6 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "HOU"
-        }
-      ]
-    },
-    "gregory desrosiers": {
-      "player_name": "Gregory Desrosiers",
-      "position": "RB",
-      "years_exp": 0,
-      "sleeper_id": "13603",
-      "weeks": [
-        {
-          "week": 1,
-          "snap_pct": null,
-          "target_share": null,
-          "route_participation": null,
-          "rz_targets": null,
-          "nfl_team": "LAC"
-        },
-        {
-          "week": 2,
-          "snap_pct": null,
-          "target_share": null,
-          "route_participation": null,
-          "rz_targets": null,
-          "nfl_team": "LAC"
-        },
-        {
-          "week": 3,
-          "snap_pct": null,
-          "target_share": null,
-          "route_participation": null,
-          "rz_targets": null,
-          "nfl_team": "LAC"
-        },
-        {
-          "week": 4,
-          "snap_pct": null,
-          "target_share": null,
-          "route_participation": null,
-          "rz_targets": null,
-          "nfl_team": "LAC"
-        },
-        {
-          "week": 5,
-          "snap_pct": null,
-          "target_share": null,
-          "route_participation": null,
-          "rz_targets": null,
-          "nfl_team": "LAC"
-        },
-        {
-          "week": 6,
-          "snap_pct": null,
-          "target_share": null,
-          "route_participation": null,
-          "rz_targets": null,
-          "nfl_team": "LAC"
-        },
-        {
-          "week": 8,
-          "snap_pct": null,
-          "target_share": null,
-          "route_participation": null,
-          "rz_targets": null,
-          "nfl_team": "LAC"
-        },
-        {
-          "week": 9,
-          "snap_pct": null,
-          "target_share": null,
-          "route_participation": null,
-          "rz_targets": null,
-          "nfl_team": "NYG"
-        },
-        {
-          "week": 10,
-          "snap_pct": null,
-          "target_share": null,
-          "route_participation": null,
-          "rz_targets": null,
-          "nfl_team": "NYG"
-        },
-        {
-          "week": 11,
-          "snap_pct": null,
-          "target_share": null,
-          "route_participation": null,
-          "rz_targets": null,
-          "nfl_team": "NYG"
         }
       ]
     },
@@ -27491,5 +27403,5 @@
       ]
     }
   },
-  "last_updated": "2026-11-20T17:27:10.149686+00:00"
+  "last_updated": "2026-11-21T16:32:11.687831+00:00"
 }
