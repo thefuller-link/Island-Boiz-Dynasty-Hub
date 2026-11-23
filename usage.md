@@ -82,7 +82,6 @@ _No free-agent rookies with rising usage this week._
 | Ted Hurst III | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Terrance Ferguson | TE | insufficient data | insufficient data | N/A | N/A |  |
 | Tetairoa McMillan | WR | insufficient data | insufficient data | N/A | consensus #3 |  |
-| Tory Horton | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Tre' Harris | WR | insufficient data | insufficient data | N/A | consensus #15 |  |
 | TreVeyon Henderson | RB | insufficient data | insufficient data | N/A | consensus #12 |  |
 | Ty Simpson | QB | insufficient data | insufficient data | N/A | N/A |  |
@@ -379,6 +378,7 @@ _No free-agent rookies with rising usage this week._
 | Theo Wease Jr. | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Thomas Fidone II | TE | insufficient data | insufficient data | N/A | N/A |  |
 | Thomas Gordon | TE | insufficient data | insufficient data | N/A | N/A |  |
+| Tory Horton | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Trayvon Rudolph | WR | insufficient data | insufficient data | N/A | N/A |  |
 | Tre Stewart | RB | insufficient data | insufficient data | N/A | N/A |  |
 | Tre Watson | TE | insufficient data | insufficient data | N/A | N/A |  |
@@ -399,4 +399,4 @@ _No free-agent rookies with rising usage this week._
 | Zach Horton | TE | insufficient data | insufficient data | N/A | N/A |  |
 | Zavion Thomas | WR | insufficient data | insufficient data | N/A | N/A |  |
 
-_Last updated: 2026-11-22 16:49:33 UTC_
+_Last updated: 2026-11-23 20:46:52 UTC_
