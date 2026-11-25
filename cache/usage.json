@@ -12143,6 +12143,14 @@
           "route_participation": null,
           "rz_targets": null,
           "nfl_team": "KC"
+        },
+        {
+          "week": 12,
+          "snap_pct": null,
+          "target_share": null,
+          "route_participation": null,
+          "rz_targets": null,
+          "nfl_team": "SEA"
         }
       ]
     },
@@ -29707,5 +29715,5 @@
       ]
     }
   },
-  "last_updated": "2026-11-24T19:50:58.148028+00:00"
+  "last_updated": "2026-11-25T18:55:55.890946+00:00"
 }
